@@ -1170,6 +1170,12 @@ class EnhancedMemoryBuilder:
         # Control flags
         self.running = True
         
+        # Session audio recording state
+        self.session_audio_recording = False
+        self.session_audio_paused = False
+        self.session_audio_file_path = None
+        self.session_audio_writer = None
+        
         # Performance tracking
         self.processed_count = 0
         self.audio_processed_count = 0
@@ -1187,9 +1193,9 @@ class EnhancedMemoryBuilder:
         """Pause audio recording (stop writing to WAV, keep threads alive)."""
         if self.session_audio_recording and not self.session_audio_paused:
             print("[Enhanced Memory Builder] ⏸️  Pausing session audio recording...")
-            if self.session_audio_file:
-                self.session_audio_file.close()
-                self.session_audio_file = None
+            if self.session_audio_writer:
+                self.session_audio_writer.close()
+                self.session_audio_writer = None
             self.session_audio_recording = False
             self.session_audio_paused = True
             print("[Enhanced Memory Builder] ⏸️  Session audio recording paused")
@@ -1210,6 +1216,67 @@ class EnhancedMemoryBuilder:
         else:
             if self.session_audio_paused:
                 self._resume_session_audio_recording()
+    
+    def _start_session_audio_recording(self):
+        """Start recording raw audio to session WAV file."""
+        if self.session_audio_writer:
+            return  # Already recording
+        
+        try:
+            audio_dir = "/tmp/webots_memory_audio"
+            os.makedirs(audio_dir, exist_ok=True)
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            self.session_audio_file_path = f"{audio_dir}/session_audio_{timestamp}.wav"
+            
+            self.session_audio_writer = wave.open(self.session_audio_file_path, 'wb')
+            self.session_audio_writer.setnchannels(1)
+            self.session_audio_writer.setsampwidth(2)
+            # Use audio captioner sample rate if available, otherwise default to 44100
+            sample_rate = getattr(self, 'audio_captioner', None)
+            if sample_rate and hasattr(sample_rate, 'sample_rate'):
+                sample_rate = sample_rate.sample_rate
+            else:
+                sample_rate = 44100
+            self.session_audio_writer.setframerate(sample_rate)
+            
+            self.session_audio_recording = True
+            self.session_audio_paused = False
+            self.session_audio_start_time = time.time()
+            print(f"[Enhanced Memory Builder] 🎙️ Session audio recording started: {self.session_audio_file_path}")
+        except Exception as e:
+            print(f"[Enhanced Memory Builder] ⚠️ Failed to start session audio recording: {e}")
+    
+    def _stop_session_audio_recording(self):
+        """Stop recording and close WAV file."""
+        if not self.session_audio_recording:
+            return
+        
+        try:
+            if self.session_audio_writer:
+                self.session_audio_writer.close()
+                self.session_audio_writer = None
+                self.session_audio_file_path = None
+            
+            self.session_audio_recording = False
+            self.session_audio_paused = False
+            
+            if self.session_audio_file_path:
+                print(f"[Enhanced Memory Builder] 🎙️ Session audio recording stopped: {self.session_audio_file_path}")
+        except Exception as e:
+            print(f"[Enhanced Memory Builder] ⚠️ Error stopping session audio recording: {e}")
+    
+    def _record_session_audio_chunk(self, audio_chunk):
+        """Record raw audio chunk to session WAV file."""
+        if not self.session_audio_recording or self.session_audio_paused or not self.session_audio_writer:
+            return
+        
+        try:
+            # Convert numpy array to bytes
+            if isinstance(audio_chunk, np.ndarray):
+                audio_bytes = (audio_chunk * 32767).astype(np.int16).tobytes()
+                self.session_audio_writer.writeframes(audio_bytes)
+        except Exception as e:
+            print(f"[Enhanced Memory Builder] ⚠️ Error recording audio chunk: {e}")
     
     def init_visual_captioner(self):
         """Initialize visual captioner based on backend choice with error handling"""
@@ -1877,6 +1944,10 @@ class EnhancedMemoryBuilder:
         
         try:
             print("[Enhanced Memory Builder] All threads started. Press Ctrl+C to stop...")
+            
+            # Start session audio recording
+            self._start_session_audio_recording()
+            
             while self.running:
                 time.sleep(1)
                 
