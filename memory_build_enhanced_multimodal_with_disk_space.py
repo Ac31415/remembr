@@ -1564,6 +1564,9 @@ class EnhancedMemoryBuilder:
                 if audio_chunk is not None:
                     print("[Enhanced Memory Builder] Processing audio chunk...")
                     
+                    # Record raw audio to session file (before any processing/captioning)
+                    self._record_session_audio_chunk(audio_chunk)
+                    
                     # Audio timestamp represents the START of the audio period
                     audio_timestamp = audio_capture_time - self.audio_captioner.chunk_duration
                     
@@ -1718,20 +1721,6 @@ class EnhancedMemoryBuilder:
                 print(f"  ✓ Audio matched with {best_time_diff:.2f}s difference")
             else:
                 print(f"  ❌ No audio match found")
-
-            # Persist the actual audio clip for this entry (best effort: a write
-            # failure must never prevent the memory item from being stored).
-            if matching_audio is not None and matching_audio.get('audio_samples') is not None:
-                try:
-                    clip_path = self._save_audio_clip(
-                        matching_audio['audio_samples'],
-                        matching_audio.get('sample_rate', 44100),
-                        entry_time,
-                    )
-                    if clip_path:
-                        print(f"[Enhanced Memory Builder]   🔊 Saved audio clip: {clip_path}")
-                except Exception as e:
-                    print(f"[Enhanced Memory Builder] ⚠️ Failed to save audio clip: {e}")
 
             memory_item = MultimodalMemoryItem(
                 caption=visual_data['visual_caption'],
