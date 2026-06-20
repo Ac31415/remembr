@@ -30,6 +30,9 @@ import wave
 # Pause/resume flag file for memory builder audio recording control
 PAUSE_FLAG_PATH = "/tmp/webots_memory/controller_paused.flag"
 
+# PID file path to monitor controller liveness
+CONTROLLER_PID_FILE = "/tmp/webots_memory/controller_pid.txt"
+
 
 def show_disk_space(hf_model_dir="/Volumes/USB DISK/huggingface"):
     """Show available disk space on the drive containing HuggingFace models.
@@ -1217,6 +1220,29 @@ class EnhancedMemoryBuilder:
             if self.session_audio_paused:
                 self._resume_session_audio_recording()
     
+    def _check_controller_alive(self):
+        """Check if controller process is alive via PID file."""
+        try:
+            if not os.path.exists(CONTROLLER_PID_FILE):
+                return False
+            
+            with open(CONTROLLER_PID_FILE, 'r') as f:
+                pid = int(f.read().strip())
+            
+            # Check if process is alive
+            os.kill(pid, 0)
+            return True
+        except (ProcessLookupError, ValueError, IOError):
+            return False
+    
+    def _stop_on_controller_exit(self):
+        """Stop audio recording and exit when controller exits."""
+        if not self._check_controller_alive():
+            print("[Enhanced Memory Builder] Controller process has exited.")
+            print("[Enhanced Memory Builder] Stopping audio recording, finishing captioning queue...")
+            self._stop_session_audio_recording()
+            self.running = False
+    
     def _start_session_audio_recording(self):
         """Start recording raw audio to session WAV file."""
         if self.session_audio_writer:
@@ -1942,6 +1968,9 @@ class EnhancedMemoryBuilder:
                 
                 # Check pause flag for audio recording control
                 self._check_pause_flag()
+                
+                # Check if controller is still alive
+                self._stop_on_controller_exit()
                 
                 # Print periodic status
                 elapsed_time = time.time() - self.start_time
