@@ -27,8 +27,8 @@ import shutil
 import wave
 
 
-# PID file path to monitor controller liveness
-CONTROLLER_PID_FILE = "/tmp/webots_memory/controller_pid.txt"
+# Pause/resume flag file for memory builder audio recording control
+PAUSE_FLAG_PATH = "/tmp/webots_memory/controller_paused.flag"
 
 
 def show_disk_space(hf_model_dir="/Volumes/USB DISK/huggingface"):
@@ -1116,8 +1116,7 @@ class EnhancedMemoryBuilder:
     def __init__(self, collection_name="webots_multimodal", db_ip="127.0.0.1",
                 advanced_mode=False, enable_audio=True, audio_device="BlackHole",
                 audio_backend="ACT", visual_backend="PHI3",
-                audio_clip_dir="/tmp/webots_memory_audio",
-                no_session_audio=False, session_audio_max_duration=None):  # Add visual_backend / audio_clip_dir parameters
+                audio_clip_dir="/tmp/webots_memory_audio"):  # Add visual_backend / audio_clip_dir parameters
         print(f"[Enhanced Memory Builder] Starting multimodal memory builder...")
         print(f"[Enhanced Memory Builder] Collection: {collection_name}")
         print(f"[Enhanced Memory Builder] Database IP: {db_ip}")
@@ -1163,14 +1162,6 @@ class EnhancedMemoryBuilder:
             print(f"[Enhanced Memory Builder] ⚠️ Could not create audio clip directory {self.audio_clip_dir}: {e}")
         self.audio_clip_count = 0
         
-        # Full-session audio recording (continuous WAV file)
-        self.session_audio_recording = not no_session_audio
-        self.session_audio_file = None
-        self.session_audio_writer = None
-        self.session_audio_sample_rate = 44100
-        self.session_audio_max_duration = session_audio_max_duration
-        self.session_audio_start_time = None
-        
         # Processing queues
         self.visual_queue = queue.Queue()
         self.audio_queue = queue.Queue()
@@ -1178,10 +1169,7 @@ class EnhancedMemoryBuilder:
         
         # Control flags
         self.running = True
-
-        # Thread tracking for graceful shutdown
-        self._threads = []
-
+        
         # Performance tracking
         self.processed_count = 0
         self.audio_processed_count = 0
@@ -1194,51 +1182,35 @@ class EnhancedMemoryBuilder:
         self.system_start_time = time.time()
         
         print("[Enhanced Memory Builder] ✓ Multimodal memory builder ready")
-
-    def _check_controller_alive(self):
-        """Check if the controller process is still alive.
-
-        Reads the PID from the controller's PID file and checks if the process
-        exists. Returns True if alive, False if the controller has exited.
-        """
-        try:
-            if not os.path.exists(CONTROLLER_PID_FILE):
-                return False
-            with open(CONTROLLER_PID_FILE, "r") as f:
-                controller_pid = int(f.read().strip())
-            # Check if process is alive (os.kill with 0 doesn't kill, just checks)
-            os.kill(controller_pid, 0)
-            return True
-        except (ProcessLookupError, ValueError, FileNotFoundError):
-            # Process doesn't exist or PID file is invalid
-            return False
-        except PermissionError:
-            # Process exists but we don't have permission to signal it
-            # (still means it's alive)
-            return True
-
-    def _stop_on_controller_exit(self):
-        """Called when the controller exits: stop audio, finish queue, exit."""
-        print("\n[Enhanced Memory Builder] Controller process has exited.")
-        print("[Enhanced Memory Builder] Stopping audio recording, finishing captioning queue...")
-
-        # Stop session audio recording
-        self._stop_session_audio_recording()
-
-        # Signal threads to stop processing new items
-        self.running = False
-
-        # Wait for threads to finish processing the queue
-        print("[Enhanced Memory Builder] Waiting for threads to finish...")
-        for thread in self._threads:
-            thread.join(timeout=30)
-
-        # Print final stats
-        self.print_performance_stats()
-        self.record_session_stats()
-
-        print("[Enhanced Memory Builder] All tasks completed. Exiting.")
-
+    
+    def _pause_session_audio_recording(self):
+        """Pause audio recording (stop writing to WAV, keep threads alive)."""
+        if self.session_audio_recording and not self.session_audio_paused:
+            print("[Enhanced Memory Builder] ⏸️  Pausing session audio recording...")
+            if self.session_audio_file:
+                self.session_audio_file.close()
+                self.session_audio_file = None
+            self.session_audio_recording = False
+            self.session_audio_paused = True
+            print("[Enhanced Memory Builder] ⏸️  Session audio recording paused")
+    
+    def _resume_session_audio_recording(self):
+        """Resume audio recording (start writing to WAV, keep threads alive)."""
+        if not self.session_audio_recording and self.session_audio_paused:
+            print("[Enhanced Memory Builder] ▶️  Resuming session audio recording...")
+            self.session_audio_paused = False
+            self._start_session_audio_recording()
+            print("[Enhanced Memory Builder] ▶️  Session audio recording resumed")
+    
+    def _check_pause_flag(self):
+        """Check pause flag file and update recording state."""
+        if os.path.exists(PAUSE_FLAG_PATH):
+            if not self.session_audio_paused:
+                self._pause_session_audio_recording()
+        else:
+            if self.session_audio_paused:
+                self._resume_session_audio_recording()
+    
     def init_visual_captioner(self):
         """Initialize visual captioner based on backend choice with error handling"""
         print(f"[Enhanced Memory Builder] Initializing {self.visual_backend} visual captioner...")
@@ -1521,10 +1493,7 @@ class EnhancedMemoryBuilder:
                 
                 # Capture 10-second audio chunk
                 audio_chunk = self.audio_captioner.capture_audio_chunk()
-
-                # Record raw audio to session file (before any processing/captioning)
-                self._record_session_audio_chunk(audio_chunk)
-
+                
                 if audio_chunk is not None:
                     print("[Enhanced Memory Builder] Processing audio chunk...")
                     
@@ -1638,54 +1607,6 @@ class EnhancedMemoryBuilder:
         self.audio_clip_count += 1
         return clip_path
 
-    def _start_session_audio_recording(self):
-        """Start continuous audio recording to a single WAV file."""
-        if not self.session_audio_recording or not self.enable_audio or not self.audio_captioner:
-            return
-        session_filename = f"session_audio_{datetime.now().strftime('%Y%m%d_%H%M%S')}.wav"
-        self.session_audio_file = self.audio_clip_dir / session_filename
-        try:
-            self.session_audio_writer = wave.open(str(self.session_audio_file), "wb")
-            self.session_audio_writer.setnchannels(1)
-            self.session_audio_writer.setsampwidth(2)  # 16-bit
-            self.session_audio_writer.setframerate(self.session_audio_sample_rate)
-            self.session_audio_start_time = time.time()
-            print(f"[Enhanced Memory Builder] 🎙️ Session audio recording started: {self.session_audio_file}")
-        except Exception as e:
-            print(f"[Enhanced Memory Builder] ⚠️ Failed to start session audio recording: {e}")
-            self.session_audio_file = None
-            self.session_audio_writer = None
-
-    def _record_session_audio_chunk(self, audio_data):
-        """Write a chunk of raw audio samples to the session WAV file."""
-        if self.session_audio_writer is None or audio_data is None:
-            return
-
-        # Check max duration limit
-        if self.session_audio_max_duration is not None and self.session_audio_start_time is not None:
-            elapsed = time.time() - self.session_audio_start_time
-            if elapsed >= self.session_audio_max_duration:
-                self._stop_session_audio_recording()
-                return
-
-        try:
-            pcm16 = (np.clip(audio_data, -1.0, 1.0) * 32767.0).astype(np.int16)
-            self.session_audio_writer.writeframes(pcm16.tobytes())
-        except Exception as e:
-            print(f"[Enhanced Memory Builder] ⚠️ Failed to write session audio chunk: {e}")
-
-    def _stop_session_audio_recording(self):
-        """Close the session audio WAV file."""
-        if self.session_audio_writer is not None:
-            try:
-                self.session_audio_writer.close()
-                print(f"[Enhanced Memory Builder] 🎙️ Session audio recording stopped: {self.session_audio_file}")
-            except Exception as e:
-                print(f"[Enhanced Memory Builder] ⚠️ Failed to close session audio: {e}")
-            self.session_audio_writer = None
-            self.session_audio_file = None
-            self.session_audio_start_time = None
-
     def process_pending_visual_items(self, visual_buffer, audio_buffer):
         """Process visual items that can be matched with audio"""
         processed_timestamps = []
@@ -1731,8 +1652,19 @@ class EnhancedMemoryBuilder:
             else:
                 print(f"  ❌ No audio match found")
 
-            # Session audio is recorded continuously via _record_session_audio_chunk().
-            # Per-entry 10s WAV clips are no longer saved.
+            # Persist the actual audio clip for this entry (best effort: a write
+            # failure must never prevent the memory item from being stored).
+            if matching_audio is not None and matching_audio.get('audio_samples') is not None:
+                try:
+                    clip_path = self._save_audio_clip(
+                        matching_audio['audio_samples'],
+                        matching_audio.get('sample_rate', 44100),
+                        entry_time,
+                    )
+                    if clip_path:
+                        print(f"[Enhanced Memory Builder]   🔊 Saved audio clip: {clip_path}")
+                except Exception as e:
+                    print(f"[Enhanced Memory Builder] ⚠️ Failed to save audio clip: {e}")
 
             memory_item = MultimodalMemoryItem(
                 caption=visual_data['visual_caption'],
@@ -1921,65 +1853,68 @@ class EnhancedMemoryBuilder:
             print(f"\n[Enhanced Memory Builder] ⚠️ Failed to save session stats: {e}")
 
     def run(self):
-        """Main processing loop with multimodal threads."""
+        """Main processing loop with multimodal threads"""
         print("[Enhanced Memory Builder] Starting multimodal processing...")
-
+        
         # Start processing threads
-        self._threads = []
-
+        threads = []
+        
         # Visual processing thread
         visual_thread = threading.Thread(target=self.visual_processing_thread, daemon=True)
         visual_thread.start()
-        self._threads.append(visual_thread)
-
+        threads.append(visual_thread)
+        
         # Audio processing thread
         if self.enable_audio:
             audio_thread = threading.Thread(target=self.audio_processing_thread, daemon=True)
             audio_thread.start()
-            self._threads.append(audio_thread)
-
+            threads.append(audio_thread)
+        
         # Memory integration thread
         memory_thread = threading.Thread(target=self.memory_integration_thread, daemon=True)
         memory_thread.start()
-        self._threads.append(memory_thread)
-
-        # Start session audio recording (before main loop)
-        self._start_session_audio_recording()
-
+        threads.append(memory_thread)
+        
         try:
             print("[Enhanced Memory Builder] All threads started. Press Ctrl+C to stop...")
             while self.running:
                 time.sleep(1)
-
-                # Check if controller is still alive
-                if not self._check_controller_alive():
-                    self._stop_on_controller_exit()
-                    return
-
+                
+                # Check pause flag for audio recording control
+                self._check_pause_flag()
+                
                 # Print periodic status
                 elapsed_time = time.time() - self.start_time
                 if elapsed_time > 0:
                     visual_rate = self.processed_count / elapsed_time
                     audio_rate = self.audio_processed_count / elapsed_time if self.enable_audio else 0
-
+                    
                     print(f"[Enhanced Memory Builder] Status: {self.processed_count} visual, {self.audio_processed_count} audio processed")
                     print(f"[Enhanced Memory Builder] Rate: {visual_rate:.2f} visual/s, {audio_rate:.2f} audio/s")
-
+                
         except KeyboardInterrupt:
             print("\n[Enhanced Memory Builder] Stopping...")
             self.running = False
-
+        
         finally:
             # Cleanup
             # Stop session audio recording first
-            self._stop_session_audio_recording()
-
+            if self.session_audio_recording:
+                self._stop_session_audio_recording()
+            
+            # Clean up pause flag file
+            try:
+                if os.path.exists(PAUSE_FLAG_PATH):
+                    os.remove(PAUSE_FLAG_PATH)
+            except Exception:
+                pass
+            
             if self.audio_captioner:
                 self.audio_captioner.cleanup()
-
+            
             self.print_performance_stats()
             self.record_session_stats()
-
+        
         print("[Enhanced Memory Builder] Stopped")
     
     def print_performance_stats(self):
@@ -2010,10 +1945,6 @@ if __name__ == "__main__":
                     help='Visual captioning backend: PHI3, FASTVLM, GEMMA-3N, YOLO, or a HuggingFace model ID (e.g., mlx-community/MiniCPM-V-4.6-4bit)')
     parser.add_argument('--audio-clip-dir', default='/tmp/webots_memory_audio',
                     help='Directory where per-entry audio clips (.wav) are saved for QA playback')
-    parser.add_argument('--no-session-audio', action='store_true',
-                    help='Disable continuous full-session audio recording')
-    parser.add_argument('--session-audio-max-duration', type=float, default=None,
-                    help='Max duration in seconds for session audio recording (default: unlimited)')
     parser.add_argument('--show-disk-space', action='store_true',
                     help='Show available disk space on the external drive where HuggingFace models are stored')
 
@@ -2038,9 +1969,7 @@ if __name__ == "__main__":
         audio_device=args.audio_device,
         audio_backend=args.audio_backend,
         visual_backend=args.visual_backend,  # Add this line
-        audio_clip_dir=args.audio_clip_dir,
-        no_session_audio=args.no_session_audio,
-        session_audio_max_duration=args.session_audio_max_duration,
+        audio_clip_dir=args.audio_clip_dir
     )
     
     try:
