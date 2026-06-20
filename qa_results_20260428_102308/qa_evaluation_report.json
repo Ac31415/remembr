@@ -1,0 +1,437 @@
+{
+  "results": [
+    {
+      "uuid": "SHORT_52416181-33e9-4c0b-b3b4-1458fe1261bc",
+      "seq_id": "0",
+      "question": "When did you first see a stone bench?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": 0.2753682017326355,
+      "prediction": {
+        "raw_text": "The first mention of a stone bench in the robot's memory is at position (24.43, 118.32).",
+        "text": "The first mention of a stone bench in the robot's memory is at position (24.43, 118.32).",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "The first mention of a stone bench in the robot's memory is at position (24.43, 118.32)."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 24.154631798267364,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5dea5985-a295-4c4b-acf6-20097a7c6371",
+      "seq_id": "0",
+      "question": "When did you first hear a siren?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "The siren was first heard at multiple positions, with the audio suggesting the siren's proximity was moving further away.\n\nIt was first triggered at approximately 1776757718.7s, two seconds after the robot remembered seeing a bench in the foreground, and the siren continued through to the next memory snapshot.",
+        "text": "The siren was first heard at multiple positions, with the audio suggesting the siren's proximity was moving further away.\n\nIt was first triggered at approximately 1776757718.7s, two seconds after the robot remembered seeing a bench in the foreground, and the siren continued through to the next memory snapshot.",
+        "binary": "",
+        "position": [
+          25.107759475708008,
+          115.51333618164062
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            25.107759475708008,
+            115.51333618164062
+          ],
+          "heading": -0.2733439803123474,
+          "text": "The siren was first heard at multiple positions, with the audio suggesting the siren's proximity was moving further away.\n\nIt was first triggered at approximately 1776757718.7s, two seconds after the robot remembered seeing a bench in the foreground, and the siren continued through to the next memory snapshot."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 1776757718.7079651,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5e208b25-8c07-43d9-82d2-107940599dee",
+      "seq_id": "0",
+      "question": "When did you first see a trash can?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "The first mention of a trash can in the robot's memory is at position (24.64, 114.21).",
+        "text": "The first mention of a trash can in the robot's memory is at position (24.64, 114.21).",
+        "binary": "",
+        "position": [
+          24.64,
+          114.21
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.64,
+            114.21
+          ],
+          "heading": 1.64,
+          "text": "The first mention of a trash can in the robot's memory is at position (24.64, 114.21)."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 24.6479651316007,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_52466c94-3e3c-4dbb-aa0d-d3e18f2b9372",
+      "seq_id": "0",
+      "question": "When did you first see a trash can and hear a siren?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "The first mention of a trash can in the memories is at Time 1776757712.6s. However, it's also important to note that an emergency siren was first heard at Time 1776757715.7s, which is the second memory entry.",
+        "text": "The first mention of a trash can in the memories is at Time 1776757712.6s. However, it's also important to note that an emergency siren was first heard at Time 1776757715.7s, which is the second memory entry.",
+        "binary": "",
+        "position": [
+          24.64,
+          114.21
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.64,
+            114.21
+          ],
+          "heading": 1.64,
+          "text": "The first mention of a trash can in the memories is at Time 1776757712.6s. However, it's also important to note that an emergency siren was first heard at Time 1776757715.7s, which is the second memory entry."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 1776757712.607965,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_b84ce6f2-9565-4bbe-8b28-826b3377adfb",
+      "seq_id": "0",
+      "question": "When did you first hear a car horn?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": 0.1253682017326355,
+      "prediction": {
+        "raw_text": "I first heard a car horn at position (34.19, 124.86) but I didn't see the vehicle. There was a blue car driving down the street in my visual memory, which corresponds with the audio memory of the car horn.",
+        "text": "I first heard a car horn at position (34.19, 124.86) but I didn't see the vehicle. There was a blue car driving down the street in my visual memory, which corresponds with the audio memory of the car horn.",
+        "binary": "",
+        "position": [
+          34.19,
+          124.86
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            34.19,
+            124.86
+          ],
+          "heading": 1.35,
+          "text": "I first heard a car horn at position (34.19, 124.86) but I didn't see the vehicle. There was a blue car driving down the street in my visual memory, which corresponds with the audio memory of the car horn."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 34.064631798267364,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_c50cd537-e72e-4537-8fb1-093b98a9712e",
+      "seq_id": "0",
+      "question": "How long did you see a stone bench while hearing a siren for?",
+      "family": "temporal",
+      "raw_type": "duration",
+      "question_category": "temporal reasoning",
+      "gold": 0.21666666666666667,
+      "prediction": {
+        "raw_text": "The robot heard the emergency siren while seeing a stone bench for approximately 3 seconds.",
+        "text": "The robot heard the emergency siren while seeing a stone bench for approximately 3 seconds.",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "The robot heard the emergency siren while seeing a stone bench for approximately 3 seconds."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 2.783333333333333,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5a89f535-f8bc-4a80-8d39-0ea42be3cfc9",
+      "seq_id": "0",
+      "question": "Where is the first trash can you saw?",
+      "family": "spatial",
+      "raw_type": "position",
+      "question_category": "spatial",
+      "gold": [
+        24.169086456298828,
+        114.20327758789062,
+        -0.010016887448728085
+      ],
+      "prediction": {
+        "raw_text": "The first trash can spotted is described in the memory from Time 1776757713.7s.",
+        "text": "The first trash can spotted is described in the memory from Time 1776757713.7s.",
+        "binary": "",
+        "position": [
+          25.18,
+          114.22
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            25.18,
+            114.22
+          ],
+          "heading": 1.46,
+          "text": "The first trash can spotted is described in the memory from Time 1776757713.7s."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l2_distance",
+        "distance": 1.0111014637213107,
+        "correct": true,
+        "threshold_meters": 15.0
+      }
+    },
+    {
+      "uuid": "SHORT_a3c19b60-3ea1-4775-84e7-96b58cf1689a",
+      "seq_id": "0",
+      "question": "Where is the first stone bench you saw?",
+      "family": "spatial",
+      "raw_type": "position",
+      "question_category": "spatial",
+      "gold": [
+        25.20435905456543,
+        114.21110534667969,
+        -0.010647748596966267
+      ],
+      "prediction": {
+        "raw_text": "The first stone bench was spotted at coordinates [24.43, 118.32].",
+        "text": "The first stone bench was spotted at coordinates [24.43, 118.32].",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "The first stone bench was spotted at coordinates [24.43, 118.32]."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l2_distance",
+        "distance": 4.181239121602811,
+        "correct": true,
+        "threshold_meters": 15.0
+      }
+    },
+    {
+      "uuid": "SHORT_fad1251e-3c26-4408-8840-23aab28bca88",
+      "seq_id": "0",
+      "question": "Was the sidewalk busy?",
+      "family": "descriptive",
+      "raw_type": "binary",
+      "question_category": "environmental",
+      "gold": "no",
+      "prediction": {
+        "raw_text": "The robot's memories indicate that it's in an urban environment with wide paved areas that could be considered sidewalks. However, the memories do not explicitly mention pedestrians or provide details on the number of people around. Therefore, it's difficult to assess whether the sidewalk is 'busy'.",
+        "text": "The robot's memories indicate that it's in an urban environment with wide paved areas that could be considered sidewalks. However, the memories do not explicitly mention pedestrians or provide details on the number of people around. Therefore, it's difficult to assess whether the sidewalk is 'busy'.",
+        "binary": "",
+        "position": [
+          42.81,
+          123.31
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            42.81,
+            123.31
+          ],
+          "heading": 1.54,
+          "text": "The robot's memories indicate that it's in an urban environment with wide paved areas that could be considered sidewalks. However, the memories do not explicitly mention pedestrians or provide details on the number of people around. Therefore, it's difficult to assess whether the sidewalk is 'busy'."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": false,
+        "judge_reasoning": "The reference answer clearly states 'no', indicating the sidewalk was not busy. The candidate answer does not provide a definitive answer and suggests uncertainty about the presence of pedestrians, making it semantically different from the reference answer.",
+        "gold_text": "no",
+        "pred_text": "The robot's memories indicate that it's in an urban environment with wide paved areas that could be considered sidewalks. However, the memories do not explicitly mention pedestrians or provide details on the number of people around. Therefore, it's difficult to assess whether the sidewalk is 'busy'."
+      }
+    },
+    {
+      "uuid": "SHORT_95d3fc1c-7b72-4522-8177-9acdc71eb1ff",
+      "seq_id": "0",
+      "question": "What color was the car that passed in front of the bus stop?",
+      "family": "descriptive",
+      "raw_type": "text",
+      "question_category": "descriptive",
+      "gold": "The car was blue",
+      "prediction": {
+        "raw_text": "The car that passed by the bus stop was blue. Its license plate read '1MU 920'",
+        "text": "The car that passed by the bus stop was blue. Its license plate read '1MU 920'",
+        "binary": "",
+        "position": [
+          28.566675186157227,
+          122.86788940429688
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            28.566675186157227,
+            122.86788940429688
+          ],
+          "heading": 0.5895138382911682,
+          "text": "The car that passed by the bus stop was blue. Its license plate read '1MU 920'"
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": true,
+        "judge_reasoning": "The candidate answer provides the same information about the color of the car as the reference answer, stating that the car was blue. The additional detail about the license plate does not change the semantic equivalence regarding the color of the car.",
+        "gold_text": "The car was blue",
+        "pred_text": "The car that passed by the bus stop was blue. Its license plate read '1MU 920'"
+      }
+    },
+    {
+      "uuid": "SHORT_2f0df72c-7d56-4e94-96a0-8a8c7e7166c8",
+      "seq_id": "0",
+      "question": "Which direction did you turn after seeing the first stone bench?",
+      "family": "descriptive",
+      "raw_type": "text",
+      "question_category": "ego",
+      "gold": "I turned right after seeing the first stone bench",
+      "prediction": {
+        "raw_text": "The robot remained in the same position and did not turn after encountering the first stone bench, as it continued to detect interesting visual and audio cues in the same direction.",
+        "text": "The robot remained in the same position and did not turn after encountering the first stone bench, as it continued to detect interesting visual and audio cues in the same direction.",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "The robot remained in the same position and did not turn after encountering the first stone bench, as it continued to detect interesting visual and audio cues in the same direction."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": false,
+        "judge_reasoning": "The reference answer indicates a right turn after seeing the first stone bench, while the candidate answer states that there was no turn and the robot remained in the same position. These actions are not semantically equivalent.",
+        "gold_text": "I turned right after seeing the first stone bench",
+        "pred_text": "The robot remained in the same position and did not turn after encountering the first stone bench, as it continued to detect interesting visual and audio cues in the same direction."
+      }
+    }
+  ],
+  "summary": {
+    "overall_correctness": 0.2727272727272727,
+    "scored_coverage": 1.0,
+    "total_rows": 11,
+    "scored_rows": 11,
+    "correct_rows": 3,
+    "skipped_rows": 0,
+    "by_family": {
+      "spatial": {
+        "accuracy": 1.0,
+        "mean_l2_distance": 2.5961702926620607,
+        "count": 2,
+        "scored": 2
+      },
+      "temporal": {
+        "accuracy": 0.0,
+        "mean_l1_error_minutes": 592252586.161082,
+        "count": 6,
+        "scored": 6
+      },
+      "descriptive": {
+        "accuracy": 0.3333333333333333,
+        "count": 3,
+        "scored": 3
+      }
+    }
+  },
+  "metadata": {
+    "csv_path": "/Users/wen-chungcheng/remembr/qa_single_short_20260421_234457.csv",
+    "model_backend": "COMMAND_R",
+    "answer_backend": "ServiceAnswerBackend",
+    "judge_backend": "openai",
+    "milvus_collection": "webots_sounds_multimodal",
+    "milvus_db_ip": "127.0.0.1",
+    "milvus_db_port": 19530,
+    "row_count": 11
+  }
+}

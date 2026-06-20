@@ -1,0 +1,4 @@
+python qa_generation_framework.py --mode single --source milvus --image-dir '/private/tmp/webots_memory' --image-max-delta 8.0 --collection webots_sounds_multimodal_alignerr_B
+
+python qa_generation_framework.py --mode multi --source milvus --ground-image-dir '/private/tmp/webots_memory_ground' --aerial-image-dir '/private/tmp/webots_memory_aerial' --image-max-delta 8.0 --collection webots_sounds_multimodal_detections_new_multirobot_new
+

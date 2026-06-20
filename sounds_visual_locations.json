@@ -1,0 +1,4219 @@
+{
+  "sound_sources": [
+    {
+      "speaker_name": "church_bell_speaker",
+      "sound_file": "/Users/wen-chungcheng/Downloads/ambient sounds/church-bell-273815.wav",
+      "sound_type": "church_bell",
+      "classified_type": "church_bell",
+      "position": [
+        -183.898,
+        86.2236,
+        0.0
+      ],
+      "description": "Church bell ringing sound from church-bell-273815.wav"
+    },
+    {
+      "speaker_name": "city_amb_speaker_1",
+      "sound_file": "/Users/wen-chungcheng/Downloads/ambient sounds/city-ambience-9272.wav",
+      "sound_type": "ambient",
+      "classified_type": "ambient",
+      "position": [
+        80.264,
+        137.636,
+        0.0
+      ],
+      "description": "City ambient background sounds from city-ambience-9272.wav"
+    },
+    {
+      "speaker_name": "city_amb_speaker_2",
+      "sound_file": "/Users/wen-chungcheng/Downloads/ambient sounds/city-ambience-9265.wav",
+      "sound_type": "ambient",
+      "classified_type": "ambient",
+      "position": [
+        64.4993,
+        132.973,
+        0.0
+      ],
+      "description": "City ambient background sounds from city-ambience-9265.wav"
+    },
+    {
+      "speaker_name": "car_honk_speaker_1",
+      "sound_file": "/Users/wen-chungcheng/Downloads/car sounds/car-horn-6408.wav",
+      "sound_type": "car_sound",
+      "classified_type": "car_sound",
+      "position": [
+        -25.8625,
+        114.83,
+        0.213496
+      ],
+      "description": "Car horn or vehicle sound from car-horn-6408.wav"
+    },
+    {
+      "speaker_name": "car_honk_speaker_2",
+      "sound_file": "/Users/wen-chungcheng/Downloads/car sounds/double-car-horn-352443.wav",
+      "sound_type": "car_sound",
+      "classified_type": "car_sound",
+      "position": [
+        51.3079,
+        139.096,
+        0.213496
+      ],
+      "description": "Car horn or vehicle sound from double-car-horn-352443.wav"
+    },
+    {
+      "speaker_name": "help_sound_speaker_1",
+      "sound_file": "/Users/wen-chungcheng/Downloads/help sounds/759456__akridiy__a-single-scream-of-a-young-male.wav",
+      "sound_type": "help_sound",
+      "classified_type": "help_sound",
+      "position": [
+        -22.2735,
+        130.771,
+        0.213496
+      ],
+      "description": "Human distress or help sound from 759456__akridiy__a-single-scream-of-a-young-male.wav"
+    },
+    {
+      "speaker_name": "help_sound_speaker_2",
+      "sound_file": "/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav",
+      "sound_type": "help_sound",
+      "classified_type": "help_sound",
+      "position": [
+        35.5651,
+        103.475,
+        0.213496
+      ],
+      "description": "Human distress or help sound from 402861__jacksonacademyashmore__gurgled-scream.wav"
+    },
+    {
+      "speaker_name": "ambulance_speaker_1",
+      "sound_file": "/Users/wen-chungcheng/Downloads/ambulance siren sounds/siren-passing-275127.wav",
+      "sound_type": "ambulance_siren",
+      "classified_type": "ambulance_siren",
+      "position": [
+        -25.8625,
+        114.83,
+        0.213496
+      ],
+      "description": "Ambulance siren or emergency vehicle sound from siren-passing-275127.wav"
+    },
+    {
+      "speaker_name": "ambulance_speaker_2",
+      "sound_file": "/Users/wen-chungcheng/Downloads/ambulance siren sounds/ambulance-6399.wav",
+      "sound_type": "ambulance_siren",
+      "classified_type": "ambulance_siren",
+      "position": [
+        -25.8625,
+        114.83,
+        0.213496
+      ],
+      "description": "Ambulance siren or emergency vehicle sound from ambulance-6399.wav"
+    }
+  ],
+  "visual_objects": [
+    {
+      "name": "TrafficLightBigPole",
+      "type": "TrafficLightBigPole",
+      "classified_type": "infrastructure",
+      "position": [
+        -154.52152342878657,
+        32.25682928110518,
+        -0.009999937457020498
+      ],
+      "description": "Infrastructure: TrafficLightBigPole"
+    },
+    {
+      "name": "BusStop",
+      "type": "BusStop",
+      "classified_type": "vehicle",
+      "position": [
+        -263.1937379360513,
+        -337.5767537349105,
+        0.0
+      ],
+      "description": "Vehicle: BusStop"
+    },
+    {
+      "name": "BusStop",
+      "type": "BusStop",
+      "classified_type": "vehicle",
+      "position": [
+        -168.48859321867945,
+        -2.8934259818372237,
+        0.0
+      ],
+      "description": "Vehicle: BusStop"
+    },
+    {
+      "name": "BusSimple",
+      "type": "BusSimple",
+      "classified_type": "vehicle",
+      "position": [
+        -164.11587119377918,
+        -3.2928030901499294,
+        0.5
+      ],
+      "description": "Vehicle: BusSimple"
+    },
+    {
+      "name": "BusStop",
+      "type": "BusStop",
+      "classified_type": "vehicle",
+      "position": [
+        -133.75806495349048,
+        35.37332987584835,
+        0.0
+      ],
+      "description": "Vehicle: BusStop"
+    },
+    {
+      "name": "BusStop",
+      "type": "BusStop",
+      "classified_type": "vehicle",
+      "position": [
+        316.31615450357526,
+        254.2792089393675,
+        0.0
+      ],
+      "description": "Vehicle: BusStop"
+    },
+    {
+      "name": "BusStop",
+      "type": "BusStop",
+      "classified_type": "vehicle",
+      "position": [
+        314.2093073242951,
+        225.94969245384527,
+        0.0
+      ],
+      "description": "Vehicle: BusStop"
+    },
+    {
+      "name": "Carwash",
+      "type": "Carwash",
+      "classified_type": "vehicle",
+      "position": [
+        -331.94533775047415,
+        -195.28285327332063,
+        0.0
+      ],
+      "description": "Vehicle: Carwash"
+    },
+    {
+      "name": "Carwash",
+      "type": "Carwash",
+      "classified_type": "vehicle",
+      "position": [
+        -269.15619739380696,
+        -186.48648907700633,
+        0.0
+      ],
+      "description": "Vehicle: Carwash"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        266.74123801697937,
+        214.13019543670688,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        86.69715038195812,
+        154.74792849658905,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -63.29495876346886,
+        109.65400369239401,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -143.50006446135683,
+        403.6332092462595,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -155.113522301285,
+        397.6344026254745,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -184.1334922664908,
+        -93.28615592022688,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -247.1416715374557,
+        -211.38985759770725,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -257.7935078553447,
+        -254.61963848645547,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -372.60388809077335,
+        -188.9098823220085,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -386.4789871267081,
+        -126.23879212703677,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -309.9109588783599,
+        -250.55968892509392,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -231.88470355833186,
+        -218.30270274887263,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -222.50473912130286,
+        -146.9445706729474,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -207.55746482056125,
+        -153.71709538522342,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -200.40245850137487,
+        -85.71787388392279,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -162.90516044114875,
+        -36.15942082755429,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -178.79554556502129,
+        -30.459400891065577,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -139.543948598391,
+        25.770680469105628,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -152.2652584810121,
+        141.39668143179554,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        -136.20915420960185,
+        83.20007454443376,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "StreetLight",
+      "type": "StreetLight",
+      "classified_type": "infrastructure",
+      "position": [
+        312.5230278494126,
+        243.91545070673868,
+        0.0
+      ],
+      "description": "Infrastructure: StreetLight"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -141.737658,
+        396.875392,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -129.082917,
+        78.342231,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -129.876194,
+        86.052723,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -252.364774,
+        -253.475955,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -149.918442,
+        401.981355,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -257.995224,
+        -248.430009,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        328.672292,
+        303.966694,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -367.921353,
+        170.449322,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        295.172321,
+        368.317667,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        119.578509,
+        405.059244,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        118.40414194707469,
+        399.42516840872895,
+        0.0075
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "LincolnMKZSimple",
+      "type": "LincolnMKZSimple",
+      "classified_type": "vehicle",
+      "position": [
+        229.59281148623717,
+        376.18284411660915,
+        0.30000000000000004
+      ],
+      "description": "Vehicle: LincolnMKZSimple"
+    },
+    {
+      "name": "LincolnMKZSimple",
+      "type": "LincolnMKZSimple",
+      "classified_type": "vehicle",
+      "position": [
+        178.7575248088473,
+        180.32826614579383,
+        0.2999999999999823
+      ],
+      "description": "Vehicle: LincolnMKZSimple"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -380.265853,
+        -122.358241,
+        0.01
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "Road",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -374.5212274290452,
+        -122.5970617517921,
+        0.01000000000001954
+      ],
+      "description": "Infrastructure: Road"
+    },
+    {
+      "name": "CitroenCZeroSimple",
+      "type": "CitroenCZeroSimple",
+      "classified_type": "vehicle",
+      "position": [
+        -373.0745008300196,
+        -88.98242850828841,
+        0.30000000000000004
+      ],
+      "description": "Vehicle: CitroenCZeroSimple"
+    },
+    {
+      "name": "TruckSimple",
+      "type": "TruckSimple",
+      "classified_type": "vehicle",
+      "position": [
+        -370.030547785575,
+        -13.854680401464735,
+        0.5
+      ],
+      "description": "Vehicle: TruckSimple"
+    },
+    {
+      "name": "TruckSimple",
+      "type": "TruckSimple",
+      "classified_type": "vehicle",
+      "position": [
+        348.2594019489185,
+        226.66448719016094,
+        0.4999999999999716
+      ],
+      "description": "Vehicle: TruckSimple"
+    },
+    {
+      "name": "ToyotaPriusSimple",
+      "type": "ToyotaPriusSimple",
+      "classified_type": "vehicle",
+      "position": [
+        -365.0910225838075,
+        101.83634738431124,
+        0.3400000000000142
+      ],
+      "description": "Vehicle: ToyotaPriusSimple"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        -101.16,
+        181.46,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        -300.11,
+        190.6,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        -311.75,
+        90.79,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        -318.39,
+        -104.38,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        187.61,
+        368.42,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        103.9,
+        381.72,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        69.83,
+        384.18,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        -195.62,
+        326.58,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "SimpleBuilding",
+      "type": "SimpleBuilding",
+      "classified_type": "building",
+      "position": [
+        -83.89,
+        373.35,
+        0.0
+      ],
+      "description": "Building structure: SimpleBuilding"
+    },
+    {
+      "name": "Church",
+      "type": "Church",
+      "classified_type": "building",
+      "position": [
+        -183.897744093561,
+        86.22361019581533,
+        0.0
+      ],
+      "description": "Building structure: Church"
+    },
+    {
+      "name": "ComposedHouse",
+      "type": "ComposedHouse",
+      "classified_type": "building",
+      "position": [
+        -234.55994472601103,
+        138.41864143659825,
+        0.0
+      ],
+      "description": "Building structure: ComposedHouse"
+    },
+    {
+      "name": "HouseWithGarage",
+      "type": "HouseWithGarage",
+      "classified_type": "building",
+      "position": [
+        -252.47414638078823,
+        82.79827097684856,
+        0.0
+      ],
+      "description": "Building structure: HouseWithGarage"
+    },
+    {
+      "name": "ModernSuburbanHouse",
+      "type": "ModernSuburbanHouse",
+      "classified_type": "building",
+      "position": [
+        -187.31687350924628,
+        160.71335358119143,
+        0.0
+      ],
+      "description": "Building structure: ModernSuburbanHouse"
+    },
+    {
+      "name": "SuburbanHouse",
+      "type": "SuburbanHouse",
+      "classified_type": "building",
+      "position": [
+        -274.9253700388613,
+        64.14572330958173,
+        0.0
+      ],
+      "description": "Building structure: SuburbanHouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        -222.48288371701884,
+        -267.33621346280137,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        380.83329060684963,
+        234.9003007648172,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        369.1432476585135,
+        269.4551941923579,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        343.7851114541884,
+        371.1249735408521,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        -199.75614625138775,
+        -242.4147224328423,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        360.5954573621425,
+        201.32540208344486,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        -198.9436683950472,
+        -205.86809211134405,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "Warehouse",
+      "type": "Warehouse",
+      "classified_type": "building",
+      "position": [
+        326.70895157558584,
+        189.33523084374295,
+        0.0
+      ],
+      "description": "Building structure: Warehouse"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        77.86828348146132,
+        127.80701556509126,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        74.56958394854698,
+        126.83121774199934,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        65.1145905199032,
+        124.03430886534615,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        55.65000784843106,
+        121.23456336711426,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        46.14706820564597,
+        118.42347138256731,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        22.40518234101762,
+        111.43160070363164,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        13.065259826312605,
+        108.66873128592354,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        34.9851895535755,
+        115.1216438648956,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        60.703538822476666,
+        122.72946292707198,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        51.200599152733766,
+        119.91837103365638,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        41.68807024013541,
+        117.10444251875393,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        18.012229630049493,
+        110.10082406785261,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        8.605182388861044,
+        107.31809838930496,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -2.4032684162044733,
+        104.06165694618763,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -6.843087861266342,
+        102.74830120791611,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -16.173421212547535,
+        99.98826868021477,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        30.602905499244635,
+        113.8253080800168,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        70.13935377166594,
+        125.52069853960101,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        74.50245926478524,
+        126.81136133673843,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        60.71312807535621,
+        122.73229951467202,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        51.238956134179666,
+        119.92971748571674,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        41.72642722158135,
+        117.11578897081426,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        34.975600265223704,
+        115.1188073972102,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        18.03140807782646,
+        110.1064974390627,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        8.624360783266477,
+        107.32377194093827,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        0.9625556982986664,
+        105.05731151993785,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        -6.8239095444971545,
+        102.75397502199996,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFenceWithDoor",
+      "type": "PicketFenceWithDoor",
+      "classified_type": "infrastructure",
+      "position": [
+        -11.810315843118632,
+        101.27893189548875,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFenceWithDoor"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        66.8118865161838,
+        124.5363908317718,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        59.00624286506852,
+        122.22738082923749,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        49.541660207020875,
+        119.42763528562392,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        38.3318353567091,
+        116.11162460630865,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        26.39322805248488,
+        112.5800306835134,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        15.106689259656017,
+        109.24132703120006,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        5.95855161449145,
+        106.53519000120276,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        0.9241991368065388,
+        105.04596364821685,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PicketFence",
+      "type": "PicketFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -11.666476678813051,
+        101.3214794549395,
+        0.0
+      ],
+      "description": "Infrastructure: PicketFence"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        -12.57117999193556,
+        100.05708889025695,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        7.334546976112431,
+        105.63545053978501,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        39.6584039875585,
+        115.18979275328695,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -17.93677888243451,
+        97.0100111698651,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -17.777041343370332,
+        96.51474731676956,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -17.599345053716974,
+        96.02032158231114,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -17.403149653289862,
+        95.44228942006661,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -17.205502418978394,
+        94.73444853472587,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -17.010233165885307,
+        94.20647381298805,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -16.646855515136124,
+        93.02476135196001,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -16.436637962300587,
+        92.3433785300743,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -16.228336423036083,
+        91.6714239214467,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -16.022018714719323,
+        91.1339277759279,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -14.999116003038555,
+        87.70780226627409,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -14.58965908805091,
+        86.23934483092442,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -14.754058686657396,
+        86.82957781541622,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -14.900038707768248,
+        87.29110283293731,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -15.149184050906982,
+        88.23156201498665,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -15.336575915787192,
+        88.80003029496977,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -15.513789700666305,
+        89.40885319336816,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -15.69529967383832,
+        89.99631916155126,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -15.873693886765095,
+        90.57152976382739,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "Cypress",
+      "type": "Cypress",
+      "classified_type": "nature",
+      "position": [
+        -16.845133074506833,
+        93.6948520564276,
+        0.0
+      ],
+      "description": "Natural element: Cypress"
+    },
+    {
+      "name": "BigSassafras",
+      "type": "BigSassafras",
+      "classified_type": "nature",
+      "position": [
+        52.47092839936579,
+        117.75650971244532,
+        0.0
+      ],
+      "description": "Natural element: BigSassafras"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        59.953063202176935,
+        111.95806937374844,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        17.575971911702396,
+        107.38096655139078,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "StoneBench",
+      "type": "StoneBench",
+      "classified_type": "furniture",
+      "position": [
+        73.94467575643291,
+        135.76685674458253,
+        0.0
+      ],
+      "description": "Street furniture: StoneBench"
+    },
+    {
+      "name": "StoneBench",
+      "type": "StoneBench",
+      "classified_type": "furniture",
+      "position": [
+        55.878542268030124,
+        130.42266169020664,
+        0.0
+      ],
+      "description": "Street furniture: StoneBench"
+    },
+    {
+      "name": "StoneBench",
+      "type": "StoneBench",
+      "classified_type": "furniture",
+      "position": [
+        40.09464857274835,
+        125.75358257157467,
+        0.0
+      ],
+      "description": "Street furniture: StoneBench"
+    },
+    {
+      "name": "StoneBench",
+      "type": "StoneBench",
+      "classified_type": "furniture",
+      "position": [
+        23.716221822115724,
+        120.90863291505997,
+        0.0
+      ],
+      "description": "Street furniture: StoneBench"
+    },
+    {
+      "name": "StoneBench",
+      "type": "StoneBench",
+      "classified_type": "furniture",
+      "position": [
+        3.8856676533169923,
+        115.0424994901932,
+        0.0
+      ],
+      "description": "Street furniture: StoneBench"
+    },
+    {
+      "name": "StoneBench",
+      "type": "StoneBench",
+      "classified_type": "furniture",
+      "position": [
+        -12.703722439536893,
+        110.13514415894579,
+        0.0
+      ],
+      "description": "Street furniture: StoneBench"
+    },
+    {
+      "name": "PublicBin",
+      "type": "PublicBin",
+      "classified_type": "furniture",
+      "position": [
+        12.285844370854551,
+        117.5273799931831,
+        0.0
+      ],
+      "description": "Street furniture: PublicBin"
+    },
+    {
+      "name": "PublicBin",
+      "type": "PublicBin",
+      "classified_type": "furniture",
+      "position": [
+        49.39621411614038,
+        128.5051055029676,
+        0.0
+      ],
+      "description": "Street furniture: PublicBin"
+    },
+    {
+      "name": "PublicBin",
+      "type": "PublicBin",
+      "classified_type": "furniture",
+      "position": [
+        77.4735171172249,
+        136.81073348556419,
+        0.0
+      ],
+      "description": "Street furniture: PublicBin"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        -12.520830031366446,
+        101.68082638493875,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        -5.808750317857296,
+        103.68873696100212,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        12.072737713518904,
+        108.82608306322938,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        52.305405455204124,
+        120.92564316416565,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        70.88468425536499,
+        126.21173164186966,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        51.535756398860805,
+        120.52578547104781,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        -6.374543822982272,
+        104.00410660308832,
+        0.23943700492162637
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        2.1776558812287767,
+        104.81236373789534,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        69.99640985877748,
+        126.15105662266505,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        31.133897608418465,
+        114.65522470844294,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        -6.699343631329283,
+        103.45147629070085,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "Sassafras",
+      "type": "Sassafras",
+      "classified_type": "nature",
+      "position": [
+        351.0712433139634,
+        344.6011255770742,
+        0.0
+      ],
+      "description": "Natural element: Sassafras"
+    },
+    {
+      "name": "Sassafras",
+      "type": "Sassafras",
+      "classified_type": "nature",
+      "position": [
+        314.53758752102743,
+        391.1589057072444,
+        0.0
+      ],
+      "description": "Natural element: Sassafras"
+    },
+    {
+      "name": "Sassafras",
+      "type": "Sassafras",
+      "classified_type": "nature",
+      "position": [
+        279.17477077598437,
+        356.57136783141215,
+        0.0
+      ],
+      "description": "Natural element: Sassafras"
+    },
+    {
+      "name": "ResidentialBuildingWithRoundFront",
+      "type": "ResidentialBuildingWithRoundFront",
+      "classified_type": "building",
+      "position": [
+        40.788687816113345,
+        93.046472754138,
+        0.0
+      ],
+      "description": "Building structure: ResidentialBuildingWithRoundFront"
+    },
+    {
+      "name": "ResidentialBuildingWithRoundFront",
+      "type": "ResidentialBuildingWithRoundFront",
+      "classified_type": "building",
+      "position": [
+        3.9525684632663136,
+        79.90777757452396,
+        0.0
+      ],
+      "description": "Building structure: ResidentialBuildingWithRoundFront"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -248.5801729795863,
+        -168.69539329829252,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        268.430264937676,
+        224.44200257364767,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        276.66487798770976,
+        227.17140688891783,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        281.2488977339644,
+        234.70435869853054,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        286.81141547106733,
+        241.3832954720309,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        291.4614883264665,
+        249.35156241985007,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        297.5620679829195,
+        255.19531359998032,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        300.0136631492625,
+        263.6895576005002,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        302.9011155152267,
+        271.96740266031406,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        306.805569562767,
+        281.4435177790122,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        310.5688179811013,
+        289.5010832514054,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        312.5779439803932,
+        297.60819202821136,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        310.93887957750997,
+        306.3112930780212,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        308.18615636557524,
+        314.93781699663856,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        306.72485417222026,
+        323.51207474292164,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        304.125824403221,
+        333.15780774090297,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        299.3003999400646,
+        340.1127540922684,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        292.49678313174417,
+        346.4085728469679,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        283.9337367359094,
+        350.3324368790869,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -257.20856501021655,
+        -168.47779052772668,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -263.75506040017075,
+        -162.9108974885789,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -270.45869483396916,
+        -157.6158634586607,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -276.39527595876626,
+        -150.72968857352302,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -284.91459116052147,
+        -150.25401169460324,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -293.6173200801834,
+        -150.14719713157302,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -300.1161231313601,
+        -144.20251388500589,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -304.9574024594779,
+        -134.33065415812894,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -314.26690001361067,
+        -135.39449403780264,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -323.43669805598734,
+        -136.59720092729142,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -327.2765761160844,
+        -128.0989873457474,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -336.09083726181836,
+        -124.57040399618374,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -343.71990429029603,
+        -119.88410094633743,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -345.9577422963028,
+        -111.22373830618935,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -349.1337610167004,
+        -103.18491966862295,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -353.22231967884414,
+        -94.51208485162715,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -358.09103338659327,
+        -86.90853128556516,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -363.0272721430997,
+        -79.32596266149318,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -364.3511561565732,
+        -71.09170913619593,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        67.28163196920528,
+        107.49947602749582,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "ResidentialTower",
+      "type": "ResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -9.758944201870223,
+        82.56163884724486,
+        0.0
+      ],
+      "description": "Building structure: ResidentialTower"
+    },
+    {
+      "name": "SmallResidentialTower",
+      "type": "SmallResidentialTower",
+      "classified_type": "building",
+      "position": [
+        7.715003865568371,
+        90.38541470526604,
+        0.0
+      ],
+      "description": "Building structure: SmallResidentialTower"
+    },
+    {
+      "name": "StripBuilding",
+      "type": "StripBuilding",
+      "classified_type": "building",
+      "position": [
+        268.240812265,
+        218.1583602845,
+        0.0
+      ],
+      "description": "Building structure: StripBuilding"
+    },
+    {
+      "name": "StripBuilding",
+      "type": "StripBuilding",
+      "classified_type": "building",
+      "position": [
+        -154.5865707218,
+        57.0777209362,
+        0.0
+      ],
+      "description": "Building structure: StripBuilding"
+    },
+    {
+      "name": "StripBuilding",
+      "type": "StripBuilding",
+      "classified_type": "building",
+      "position": [
+        -206.1560514769,
+        -175.7971099021,
+        0.0
+      ],
+      "description": "Building structure: StripBuilding"
+    },
+    {
+      "name": "StripBuilding",
+      "type": "StripBuilding",
+      "classified_type": "building",
+      "position": [
+        -100.8866405597,
+        59.8129748492,
+        0.0
+      ],
+      "description": "Building structure: StripBuilding"
+    },
+    {
+      "name": "OldResidentialBuilding",
+      "type": "OldResidentialBuilding",
+      "classified_type": "building",
+      "position": [
+        79.53900193987131,
+        101.29692388423639,
+        0.0
+      ],
+      "description": "Building structure: OldResidentialBuilding"
+    },
+    {
+      "name": "OldResidentialBuilding",
+      "type": "OldResidentialBuilding",
+      "classified_type": "building",
+      "position": [
+        28.350365640862794,
+        85.35214097907965,
+        0.0
+      ],
+      "description": "Building structure: OldResidentialBuilding"
+    },
+    {
+      "name": "OldResidentialBuilding",
+      "type": "OldResidentialBuilding",
+      "classified_type": "building",
+      "position": [
+        51.14282171101078,
+        92.57374524278742,
+        0.0
+      ],
+      "description": "Building structure: OldResidentialBuilding"
+    },
+    {
+      "name": "SmallResidentialBuilding",
+      "type": "SmallResidentialBuilding",
+      "classified_type": "building",
+      "position": [
+        61.34571481413598,
+        96.10290109603663,
+        0.0
+      ],
+      "description": "Building structure: SmallResidentialBuilding"
+    },
+    {
+      "name": "SmallResidentialBuilding",
+      "type": "SmallResidentialBuilding",
+      "classified_type": "building",
+      "position": [
+        17.844721869186195,
+        82.8284236924897,
+        0.0
+      ],
+      "description": "Building structure: SmallResidentialBuilding"
+    },
+    {
+      "name": "Bench",
+      "type": "Bench",
+      "classified_type": "furniture",
+      "position": [
+        158.01544479447116,
+        184.92134616770755,
+        0.0
+      ],
+      "description": "Street furniture: Bench"
+    },
+    {
+      "name": "Bench",
+      "type": "Bench",
+      "classified_type": "furniture",
+      "position": [
+        90.39108697555778,
+        165.12096581731427,
+        0.0
+      ],
+      "description": "Street furniture: Bench"
+    },
+    {
+      "name": "Bench",
+      "type": "Bench",
+      "classified_type": "furniture",
+      "position": [
+        -20.736901053375316,
+        129.5444882867761,
+        0.0
+      ],
+      "description": "Street furniture: Bench"
+    },
+    {
+      "name": "Bench",
+      "type": "Bench",
+      "classified_type": "furniture",
+      "position": [
+        37.612713101226525,
+        149.52973529594766,
+        0.0
+      ],
+      "description": "Street furniture: Bench"
+    },
+    {
+      "name": "Bench",
+      "type": "Bench",
+      "classified_type": "furniture",
+      "position": [
+        114.940344942386,
+        172.09101449694342,
+        0.0
+      ],
+      "description": "Street furniture: Bench"
+    },
+    {
+      "name": "Mailbox",
+      "type": "Mailbox",
+      "classified_type": "furniture",
+      "position": [
+        142.24845787275294,
+        171.6057847402151,
+        0.0
+      ],
+      "description": "Street furniture: Mailbox"
+    },
+    {
+      "name": "Mailbox",
+      "type": "Mailbox",
+      "classified_type": "furniture",
+      "position": [
+        1.7814997188552653,
+        128.6183305209165,
+        0.0
+      ],
+      "description": "Street furniture: Mailbox"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        134.79555267057913,
+        178.02189033359363,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        46.21765130319687,
+        152.04684154315262,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        20.416955596814965,
+        144.17308753996014,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        0.5332229930694474,
+        135.70212212946996,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        112.71604237906108,
+        171.3944203511594,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "MetallicTrash",
+      "type": "MetallicTrash",
+      "classified_type": "furniture",
+      "position": [
+        172.02112214293888,
+        188.0217964838749,
+        0.0
+      ],
+      "description": "Street furniture: MetallicTrash"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        128.4823332649845,
+        174.90913231211087,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        106.93402527297448,
+        169.8864524897677,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        -24.330610423709402,
+        129.61149511639886,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        25.183427670435517,
+        145.77473231905932,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        53.94080066082118,
+        154.13276826629198,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashBin",
+      "type": "TrashBin",
+      "classified_type": "furniture",
+      "position": [
+        164.40281024891163,
+        185.58260831263476,
+        0.0
+      ],
+      "description": "Street furniture: TrashBin"
+    },
+    {
+      "name": "TrashContainer",
+      "type": "TrashContainer",
+      "classified_type": "furniture",
+      "position": [
+        202.876,
+        197.504,
+        0.0
+      ],
+      "description": "Street furniture: TrashContainer"
+    },
+    {
+      "name": "TrashContainer",
+      "type": "TrashContainer",
+      "classified_type": "furniture",
+      "position": [
+        -15.4219,
+        131.891,
+        0.0
+      ],
+      "description": "Street furniture: TrashContainer"
+    },
+    {
+      "name": "TrashContainer",
+      "type": "TrashContainer",
+      "classified_type": "furniture",
+      "position": [
+        11.8022,
+        141.33,
+        0.0
+      ],
+      "description": "Street furniture: TrashContainer"
+    },
+    {
+      "name": "TrashContainer",
+      "type": "TrashContainer",
+      "classified_type": "furniture",
+      "position": [
+        67.4901,
+        158.054,
+        0.0
+      ],
+      "description": "Street furniture: TrashContainer"
+    },
+    {
+      "name": "TrashContainer",
+      "type": "TrashContainer",
+      "classified_type": "furniture",
+      "position": [
+        184.175,
+        192.341,
+        0.0
+      ],
+      "description": "Street furniture: TrashContainer"
+    },
+    {
+      "name": "TrashContainer",
+      "type": "TrashContainer",
+      "classified_type": "furniture",
+      "position": [
+        145.823,
+        180.873,
+        0.0
+      ],
+      "description": "Street furniture: TrashContainer"
+    },
+    {
+      "name": "BusStop",
+      "type": "BusStop",
+      "classified_type": "vehicle",
+      "position": [
+        38.94307751193683,
+        140.43361596598368,
+        0.0
+      ],
+      "description": "Vehicle: BusStop"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -116.13388217127653,
+        92.09519231115581,
+        0.01
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -117.98388217156403,
+        92.07519233776762,
+        0.01
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -119.93388217199563,
+        92.04519236581763,
+        0.01
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -121.84388217242712,
+        92.01519239329245,
+        0.01
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -123.93388217329031,
+        91.95519242335632,
+        0.01
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -134.1888688781169,
+        87.09873582971942,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -134.40659253134902,
+        85.06033046992876,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -134.6158196517722,
+        83.1014726363739,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -134.83672950480783,
+        81.03323695424493,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -135.04701869183216,
+        79.0644356799106,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -122.32591457215119,
+        73.61623385997771,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -120.8834186274117,
+        74.95791394457677,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -119.45505555591751,
+        76.30010578481111,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -117.97594803897647,
+        77.67583866343553,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -116.51148515091604,
+        79.0379504244498,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -115.09725495266723,
+        80.38065402031934,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -113.65475900792767,
+        81.72233410491839,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "UrbanFence",
+      "type": "UrbanFence",
+      "classified_type": "infrastructure",
+      "position": [
+        -112.2269076920687,
+        83.05039307190731,
+        0.00999999999992184
+      ],
+      "description": "Infrastructure: UrbanFence"
+    },
+    {
+      "name": "StoneFountain",
+      "type": "StoneFountain",
+      "classified_type": "playground",
+      "position": [
+        -156.4231547139748,
+        83.48661620151744,
+        0.0
+      ],
+      "description": "Playground equipment: StoneFountain"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -149.16055894217607,
+        95.73473045116478,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -149.33512138359532,
+        90.94067299969124,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -154.8063451550912,
+        94.43858000727386,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -161.87954477662225,
+        87.55720089679022,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -162.69268554627493,
+        81.29159985203347,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -168.80459131504995,
+        82.90959991504332,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -154.11059936521693,
+        77.94611367051081,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -157.51799057929935,
+        73.24369781487297,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -164.97500869574736,
+        72.9041812318047,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -160.83928085533094,
+        77.30608200178784,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -168.30444978511719,
+        76.20790740702746,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -168.76769026793957,
+        88.23128741869033,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -161.68120527328676,
+        92.82455281769242,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "TableWithUmbrella",
+      "type": "TableWithUmbrella",
+      "classified_type": "furniture",
+      "position": [
+        -156.10160322706236,
+        89.55589673264613,
+        0.0
+      ],
+      "description": "Street furniture: TableWithUmbrella"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -154.30056301502682,
+        93.54820266660212,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -155.2254358869906,
+        95.62050474358858,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -156.15965757801513,
+        90.6757952178318,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -155.3200126803247,
+        88.98153099648806,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -160.5420830829372,
+        93.27478037481114,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -162.8782756387009,
+        86.69033484892984,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -162.33001722231822,
+        88.72909935148002,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -161.0321389004077,
+        86.92822985144846,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -167.9507514229712,
+        87.69124792092242,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -167.8394375031436,
+        82.38858332904873,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -162.04808281195938,
+        82.18748683590218,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -165.50008821546191,
+        73.68092958923557,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -157.13895978713327,
+        72.30079804434513,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -156.78520317490288,
+        73.84543692573678,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -158.56084277344132,
+        73.49905593956228,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -161.37145481510308,
+        76.39931217432171,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -159.82169621253533,
+        76.90703683880197,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -153.22704059656826,
+        77.40245390192165,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -154.9691692629249,
+        77.96371328219034,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -154.21220778249224,
+        78.93144594862122,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -160.9562638484022,
+        78.345979585819,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -167.386615453542,
+        75.68242037160638,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -163.66786434333142,
+        81.74151774999812,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -162.42589572294762,
+        80.47243729747503,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -160.6570359493338,
+        92.23662696680442,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -157.11574351230107,
+        88.7726227917834,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -148.47173251912315,
+        91.43604663187122,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -148.56233850330898,
+        90.20469124463298,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -149.6870782087531,
+        89.59081548567129,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -149.80219206057933,
+        91.72030408507007,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -150.3276357627818,
+        90.52583055613287,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -149.94948853541715,
+        95.08767819678556,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -148.80112695977672,
+        96.72994380860999,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "Chair",
+      "type": "Chair",
+      "classified_type": "furniture",
+      "position": [
+        -148.30799352590336,
+        95.14674370535613,
+        0.0
+      ],
+      "description": "Street furniture: Chair"
+    },
+    {
+      "name": "FastFoodRestaurant",
+      "type": "FastFoodRestaurant",
+      "classified_type": "building",
+      "position": [
+        -158.935,
+        62.5247,
+        0.0
+      ],
+      "description": "Building structure: FastFoodRestaurant"
+    },
+    {
+      "name": "FastFoodRestaurant",
+      "type": "FastFoodRestaurant",
+      "classified_type": "building",
+      "position": [
+        -108.30426419099511,
+        49.74197387691352,
+        0.0
+      ],
+      "description": "Building structure: FastFoodRestaurant"
+    },
+    {
+      "name": "Pine",
+      "type": "Pine",
+      "classified_type": "nature",
+      "position": [
+        -11.640000038359167,
+        4.869999964517768,
+        0.0
+      ],
+      "description": "Natural element: Pine"
+    },
+    {
+      "name": "Pine",
+      "type": "Pine",
+      "classified_type": "nature",
+      "position": [
+        -19.039999999999996,
+        -3.5699999999999994,
+        0.0
+      ],
+      "description": "Natural element: Pine"
+    },
+    {
+      "name": "Sassafras",
+      "type": "Sassafras",
+      "classified_type": "nature",
+      "position": [
+        -15.75,
+        25.329999999999988,
+        0.0
+      ],
+      "description": "Natural element: Sassafras"
+    },
+    {
+      "name": "BigSassafras",
+      "type": "BigSassafras",
+      "classified_type": "nature",
+      "position": [
+        -8.16,
+        -16.9,
+        0.0
+      ],
+      "description": "Natural element: BigSassafras"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        27.18000000000002,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        17.11000000000003,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        4.770000000000028,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        -6.959999999999971,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        -17.539999999999974,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        -28.029999999999973,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        -5.230000000000002,
+        -28.029999999999973,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        -18.2,
+        -28.029999999999973,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        -18.50999995324974,
+        3.250000053223353,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        -14.488910811959313,
+        -22.935267429505167,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        -18.224999700554385,
+        20.21363452427017,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        0.0,
+        13.509999999999994,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        0.0,
+        -13.609999999999998,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        -9.220000168900672,
+        -5.519999811483799,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        -9.219999740267221,
+        4.650000188516192,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "Fence",
+      "type": "Fence",
+      "classified_type": "infrastructure",
+      "position": [
+        -5.220000000000001,
+        0.0,
+        0.05
+      ],
+      "description": "Infrastructure: Fence"
+    },
+    {
+      "name": "Swing",
+      "type": "Swing",
+      "classified_type": "playground",
+      "position": [
+        -3.0933767525094957,
+        -6.982114312085835,
+        0.0
+      ],
+      "description": "Playground equipment: Swing"
+    },
+    {
+      "name": "Swing",
+      "type": "Swing",
+      "classified_type": "playground",
+      "position": [
+        -3.0933767525094957,
+        6.98211,
+        0.0
+      ],
+      "description": "Playground equipment: Swing"
+    },
+    {
+      "name": "Slide",
+      "type": "Slide",
+      "classified_type": "playground",
+      "position": [
+        -2.9099999999999993,
+        -1.7100000000000006,
+        0.0
+      ],
+      "description": "Playground equipment: Slide"
+    },
+    {
+      "name": "Slide",
+      "type": "Slide",
+      "classified_type": "playground",
+      "position": [
+        2.157521734050078,
+        4.276060120386479,
+        0.0
+      ],
+      "description": "Playground equipment: Slide"
+    },
+    {
+      "name": "Pine",
+      "type": "Pine",
+      "classified_type": "nature",
+      "position": [
+        -11.640000038359167,
+        4.869999964517768,
+        0.0
+      ],
+      "description": "Natural element: Pine"
+    },
+    {
+      "name": "Pine",
+      "type": "Pine",
+      "classified_type": "nature",
+      "position": [
+        -19.039999999999996,
+        -3.5699999999999994,
+        0.0
+      ],
+      "description": "Natural element: Pine"
+    },
+    {
+      "name": "Sassafras",
+      "type": "Sassafras",
+      "classified_type": "nature",
+      "position": [
+        -15.75,
+        25.329999999999988,
+        0.0
+      ],
+      "description": "Natural element: Sassafras"
+    },
+    {
+      "name": "BigSassafras",
+      "type": "BigSassafras",
+      "classified_type": "nature",
+      "position": [
+        -8.16,
+        -16.9,
+        0.0
+      ],
+      "description": "Natural element: BigSassafras"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        27.18000000000002,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        17.11000000000003,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        4.770000000000028,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        -6.959999999999971,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        -17.539999999999974,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        10.36,
+        -28.029999999999973,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        -5.230000000000002,
+        -28.029999999999973,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "PalmTree",
+      "type": "PalmTree",
+      "classified_type": "nature",
+      "position": [
+        -18.2,
+        -28.029999999999973,
+        0.0
+      ],
+      "description": "Natural element: PalmTree"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        -18.50999995324974,
+        3.250000053223353,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        -14.488910811959313,
+        -22.935267429505167,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "SwingCouch",
+      "type": "SwingCouch",
+      "classified_type": "playground",
+      "position": [
+        -18.224999700554385,
+        20.21363452427017,
+        0.0
+      ],
+      "description": "Playground equipment: SwingCouch"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        0.0,
+        13.509999999999994,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        0.0,
+        -13.609999999999998,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        -9.220000168900672,
+        -5.519999811483799,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "OldBench",
+      "type": "OldBench",
+      "classified_type": "furniture",
+      "position": [
+        -9.219999740267221,
+        4.650000188516192,
+        0.0
+      ],
+      "description": "Street furniture: OldBench"
+    },
+    {
+      "name": "Fence",
+      "type": "Fence",
+      "classified_type": "infrastructure",
+      "position": [
+        -5.220000000000001,
+        0.0,
+        0.05
+      ],
+      "description": "Infrastructure: Fence"
+    },
+    {
+      "name": "Swing",
+      "type": "Swing",
+      "classified_type": "playground",
+      "position": [
+        -3.0933767525094957,
+        -6.982114312085835,
+        0.0
+      ],
+      "description": "Playground equipment: Swing"
+    },
+    {
+      "name": "Swing",
+      "type": "Swing",
+      "classified_type": "playground",
+      "position": [
+        -3.0933767525094957,
+        6.98211,
+        0.0
+      ],
+      "description": "Playground equipment: Swing"
+    },
+    {
+      "name": "Slide",
+      "type": "Slide",
+      "classified_type": "playground",
+      "position": [
+        -2.9099999999999993,
+        -1.7100000000000006,
+        0.0
+      ],
+      "description": "Playground equipment: Slide"
+    },
+    {
+      "name": "Slide",
+      "type": "Slide",
+      "classified_type": "playground",
+      "position": [
+        2.157521734050078,
+        4.276060120386479,
+        0.0
+      ],
+      "description": "Playground equipment: Slide"
+    },
+    {
+      "name": "LargeResidentialTower",
+      "type": "LargeResidentialTower",
+      "classified_type": "building",
+      "position": [
+        -400.71847245991796,
+        -171.3632233557707,
+        0.0
+      ],
+      "description": "Building structure: LargeResidentialTower"
+    },
+    {
+      "name": "LargeResidentialTower",
+      "type": "LargeResidentialTower",
+      "classified_type": "building",
+      "position": [
+        131.1970578644882,
+        102.70683421710193,
+        0.0
+      ],
+      "description": "Building structure: LargeResidentialTower"
+    },
+    {
+      "name": "Pioneer3at",
+      "type": "Pioneer3at",
+      "classified_type": "robot",
+      "position": [
+        13.3629,
+        113.996,
+        0.01
+      ],
+      "description": "Robot: Pioneer3at"
+    },
+    {
+      "name": "ROAD_6",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -141.737658,
+        396.875392,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_6"
+    },
+    {
+      "name": "ROAD_2",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -129.082917,
+        78.342231,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_2"
+    },
+    {
+      "name": "ROAD_3",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -257.995224,
+        -248.430009,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_3"
+    },
+    {
+      "name": "ROAD_1",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        328.672292,
+        303.966694,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_1"
+    },
+    {
+      "name": "ROAD_5",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -367.921353,
+        170.449322,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_5"
+    },
+    {
+      "name": "ROAD_0",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        295.172321,
+        368.317667,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_0"
+    },
+    {
+      "name": "ROAD_7",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        119.578509,
+        405.059244,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_7"
+    },
+    {
+      "name": "PARKING_LANE_0",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        118.40414194707469,
+        399.42516840872895,
+        0.0075
+      ],
+      "description": "Infrastructure: Road named PARKING_LANE_0"
+    },
+    {
+      "name": "ROAD_4",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -380.265853,
+        -122.358241,
+        0.01
+      ],
+      "description": "Infrastructure: Road named ROAD_4"
+    },
+    {
+      "name": "PARKING_LANE_1",
+      "type": "Road",
+      "classified_type": "infrastructure",
+      "position": [
+        -374.5212274290452,
+        -122.5970617517921,
+        0.01000000000001954
+      ],
+      "description": "Infrastructure: Road named PARKING_LANE_1"
+    },
+    {
+      "name": "PIONEER_3AT",
+      "type": "Pioneer3at",
+      "classified_type": "robot",
+      "position": [
+        13.3629,
+        113.996,
+        0.01
+      ],
+      "description": "Robot: Pioneer3at named PIONEER_3AT"
+    }
+  ],
+  "areas": [
+    {
+      "name": "Church Area",
+      "center": [
+        -183.9,
+        86.2,
+        0
+      ],
+      "radius": 50,
+      "description": "Area around the church with religious buildings"
+    },
+    {
+      "name": "Residential District",
+      "center": [
+        -250,
+        150,
+        0
+      ],
+      "radius": 100,
+      "description": "Residential area with houses and suburban buildings"
+    },
+    {
+      "name": "Commercial District",
+      "center": [
+        300,
+        250,
+        0
+      ],
+      "radius": 80,
+      "description": "Commercial area with businesses and warehouses"
+    },
+    {
+      "name": "Industrial Zone",
+      "center": [
+        -250,
+        -200,
+        0
+      ],
+      "radius": 70,
+      "description": "Industrial area with warehouses and windmills"
+    },
+    {
+      "name": "Playground Area",
+      "center": [
+        50,
+        120,
+        0
+      ],
+      "radius": 40,
+      "description": "Recreation area with playground equipment and parks"
+    }
+  ],
+  "speaker_mapping": {
+    "church_bell_speaker": "CHURCH_SPEAKER",
+    "city_amb_speaker_1": "CITY_AMB_1",
+    "city_amb_speaker_2": "CITY_AMB_2",
+    "city_amb_speaker_3": "CITY_AMB_3",
+    "city_amb_speaker_4": "CITY_AMB_4",
+    "city_amb_speaker_5": "CITY_AMB_5",
+    "city_amb_speaker_6": "CITY_AMB_6",
+    "city_amb_speaker_7": "CITY_AMB_7",
+    "city_amb_speaker_8": "CITY_AMB_8",
+    "city_amb_speaker_9": "CITY_AMB_9",
+    "car_crash_speaker": "CAR_CRASH",
+    "car_honk_speaker_1": "CAR_HONK_1",
+    "ambulance_speaker_1": "AMBULANCE_1",
+    "ambulance_speaker_2": "AMBULANCE_2",
+    "car_honk_speaker_2": "CAR_HONK_2",
+    "help_sound_speaker_1": "HELP_1",
+    "help_sound_speaker_2": "HELP_2"
+  },
+  "metadata": {
+    "world_file": "/Users/wen-chungcheng/Documents/Webots Sims/vehicles/worlds/village_center_pioneer3at.wbt",
+    "sound_controller": "/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/master_sound_controller/master_sound_controller.py",
+    "num_sound_sources": 9,
+    "num_visual_objects": 366,
+    "num_areas": 5,
+    "num_speakers_mapped": 17
+  }
+}

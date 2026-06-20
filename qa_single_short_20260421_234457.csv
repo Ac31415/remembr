@@ -1,0 +1,12 @@
+UUID,Seq ID,Question,Timestamp with answer,Type,Text answer,Parsable answer,Question Category
+SHORT_52416181-33e9-4c0b-b3b4-1458fe1261bc,0,When did you first see a stone bench?,03:48:11,time,,[minutes] ago,temporal
+SHORT_5dea5985-a295-4c4b-acf6-20097a7c6371,0,When did you first hear a siren?,03:47:54,time,,[minutes] ago,temporal
+SHORT_5e208b25-8c07-43d9-82d2-107940599dee,0,When did you first see a trash can?,03:47:54,time,,[minutes] ago,temporal
+SHORT_52466c94-3e3c-4dbb-aa0d-d3e18f2b9372,0,When did you first see a trash can and hear a siren?,03:47:54,time,,[minutes] ago,temporal
+SHORT_b84ce6f2-9565-4bbe-8b28-826b3377adfb,0,When did you first hear a car horn?,03:48:02,time,,[minutes] ago,temporal
+SHORT_c50cd537-e72e-4537-8fb1-093b98a9712e,0,How long did you see a stone bench while hearing a siren for?,"03:48:37,03:48:50",duration,I saw a stone bench while hearing a siren for 0.22 minutes,0.22,temporal reasoning
+SHORT_5a89f535-f8bc-4a80-8d39-0ea42be3cfc9,0,Where is the first trash can you saw?,03:48:32,position,,[position],spatial
+SHORT_a3c19b60-3ea1-4775-84e7-96b58cf1689a,0,Where is the first stone bench you saw?,03:48:37,position,,[position],spatial
+SHORT_fad1251e-3c26-4408-8840-23aab28bca88,0,Was the sidewalk busy?,03:48:55,binary,,no,environmental
+SHORT_95d3fc1c-7b72-4522-8177-9acdc71eb1ff,0,What color was the car that passed in front of the bus stop?,03:49:05,text,The car was blue,,descriptive
+SHORT_2f0df72c-7d56-4e94-96a0-8a8c7e7166c8,0,Which direction did you turn after seeing the first stone bench?,03:48:49,text,I turned right after seeing the first stone bench,,ego

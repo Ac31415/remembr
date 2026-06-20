@@ -1,0 +1,1188 @@
+    1  ls -al
+    2  git init
+    3  cd clie
+    4  ./client/
+    5  cd ./client/
+    6  npm start
+    7  npm start
+    8  npm start
+    9  npm start
+   10  cd '/Users/wen-chungcheng/alignerr-robinhood-mock/financial_service_app/client'
+   11  npm install
+   12  npm start
+   13  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-40728FcPiI1lQlIlD.txt"
+   14  conda activate Mintable-scripts
+   15  mintable fetch
+   16  mintable fetch
+   17  conda activate Mintable-scripts
+   18  python update_xlsx.py
+   19  python update_xlsx.py
+   20  conda activate pocket-flow-alignerr-cc-human-p
+   21  git apply ~/178ccae4-f43d-4e82-b216-17c72253fe48_final.diff
+   22  conda activate pocket-flow-alignerr-cc-human-p
+   23  cd B
+   24  python test.py
+   25  cd '/Users/wen-chungcheng/PocketFlow-A-B-modified/turn 2/B'
+   26  python test.py
+   27  python test.py
+   28  python test.py
+   29  python test.py
+   30  cd A
+   31  python test.py
+   32  conda activate pocket-flow-alignerr-cc-human-p
+   33  python test.py
+   34  cd '/Users/wen-chungcheng/PocketFlow-A-B-modified/turn 2/A'
+   35  python test.py
+   36  python test.py
+   37  python test.py
+   38  conda activate pocket-flow-alignerr-cc-human-p
+   39  ollam
+   40  ollama list
+   41  ollama
+   42  ollama list
+   43  ollama list
+   44  ollama list
+   45  ollama list
+   46  ollama list
+   47  ollama
+   48  ollama -v
+   49  ollama run llama3.2
+   50  ollama run llama3.2
+   51  ollama run llama3.2:latest
+   52  ollama run gemma3:latest
+   53  ollama run bge-m3:latest
+   54  ollama run gemma3:27b-it-q8_0
+   55  claude-hfi --vscode
+   56  ollama list
+   57  python test.py
+   58  pip install ollama
+   59  python test.py
+   60  cd '/Users/wen-chungcheng/PocketFlow-A-B-modified/A'
+   61  python test.py
+   62  cd '/Users/wen-chungcheng/PocketFlow-original'
+   63  python test.py
+   64  python test.py
+   65  tmux attach -t 178ccae4-f43d-4e82-b216-17c72253fe48-A
+   66  tmux attach -t 178ccae4-f43d-4e82-b216-17c72253fe48-B
+   67  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-43282GIE7L6ABUWCa.txt"
+   68  conda activate pocket-flow-alignerr-cc-human-p
+   69  mv ~/Downloads/darwin-arm64 claude-hfi
+   70  chmod +x claude-hfi
+   71  ls -al ~/.local/bin/
+   72  rm ~/.local/bin/claude-hfi
+   73  ls -al ~/.local/bin/
+   74  mv claude-hfi ~/.local/bin/
+   75  ls -al ~/.local/bin/
+   76  claude-hfi --version
+   77  export CLAUDE_ENV_FILE=~/pocket-flow-env-cc-human-pref.sh
+   78  git rev-parse HEAD
+   79  cd ..
+   80  tar -cf PocketFlow.tar ./PocketFlow
+   81  cd ./PocketFlow/
+   82  claude-hfi --vscode
+   83  claude-hfi --vscode
+   84  claude-hfi --vscode
+   85  claude-hfi --continue
+   86  claude-hfi --continue
+   87  claude-hfi --continue
+   88  claude-hfi --continue
+   89  claude-hfi --continue
+   90  claude-hfi --continue
+   91  claude-hfi --continue
+   92  claude-hfi --continue
+   93  git diff commit_hash > ~/178ccae4-f43d-4e82-b216-17c72253fe48final.diff
+   94  git diff db3c1e1f70cce26abf6423b4f37ddbbada8df529 > ~/178ccae4-f43d-4e82-b216-17c72253fe48final.diff
+   95  sudo nano ~/pocket-flow-env-cc-human-pref.sh
+   96  export CLAUDE_ENV_FILE=~/pocket-flow-env-cc-human-pref.sh
+   97  cd ..
+   98  cd sdk-python
+   99  claude-hfi --version
+  100  hatch --version
+  101  hatch --version
+  102  source "/Users/wen-chungcheng/Library/Application Support/hatch/env/virtual/strands-agents/SJ6i6wql/strands-agents/bin/activate"
+  103  conda
+  104  pre-commit install -t pre-commit -t commit-msg
+  105  hatch test
+  106  hatch test -c
+  107  hatch run test-integ
+  108  hatch run test-integ
+  109  hatch test -c
+  110  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/A/sdk-python'
+  111  hatch test
+  112  hatch test -c
+  113  cd'/Users/wen-chungcheng/sdk-python'
+  114  cd '/Users/wen-chungcheng/sdk-python'
+  115  hatch test -c
+  116  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/A/sdk-python'
+  117  hatch test -c
+  118  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/B/sdk-python'
+  119  hatch test -c
+  120  cd ..
+  121  exiftool
+  122  exiftool ~/Downloads/20251107_1874065809084702.jpg
+  123  exiftool ~/Downloads/14122025_98654623411.jpg
+  124  exiftool -gps ~/Downloads/14122025_98654623411.jpg
+  125  exiftool -gps ~/Downloads/14122025_98654623411.jpg
+  126  exiftool -gps:all ~/Downloads/14122025_98654623411.jpg
+  127  exiftool -a -G1 -s ~/Downloads/14122025_98654623411.jpg
+  128  exiftool -a -G1 -s '~/Downloads/unnamed (1).jpg'
+  129  exiftool -a -G1 -s '/Users/wen-chungcheng/Downloads/unnamed (1).jpg'
+  130  exiftool -a -G1 -s '/Users/wen-chungcheng/Downloads/Photo_on_12-12-25_at_11.05_PM.jpg'
+  131  exiftool -a -G1 -s '/Users/wen-chungcheng/Downloads/Photo on 12-12-25 at 11.05 PM.jpg'
+  132  cd ..
+  133  echo 'conda activate pocket-flow-alignerr-cc-human-p' > ~/pocket-flow-env-cc-human-pref.sh
+  134  ls -al ~
+  135  conda activate pocket-flow-alignerr-cc-human-p
+  136  cd '/Users/wen-chungcheng/sdk-python-original-1'
+  137  pip install -e .
+  138  python bidi-streaming-quick-example.py
+  139  conda activate pocket-flow-alignerr-cc-human-p
+  140  hatch --version
+  141  hatch shell
+  142  conda activate pocket-flow-alignerr-cc-human-p
+  143  cd ../sdk-python-original/
+  144  pip install strands-agents strands-agents-tools
+  145  pip install "strands-agents[bidi-all]"
+  146  brew install portaudio
+  147  export GOOGLE_API_KEY=AIzaSyCS3tvFksmj3xEsfhjYuPt5ifJcwuJqL30
+  148  export STRANDS_BIDI_VERBOSE=true
+  149  python bidi-stream-test.py
+  150  conda update python
+  151  conda install python=3.12
+  152  python -V
+  153  python bidi-stream-test.py
+  154  pip install strands-agents strands-agents-tools
+  155  pip install "strands-agents[bidi-all]"
+  156  python bidi-stream-test.py
+  157  export STRANDS_BIDI_VERBOSE=false
+  158  python bidi-stream-test.py
+  159  python bidi-stream-test.py
+  160  export STRANDS_BIDI_VERBOSE=true
+  161  python bidi-stream-test.py
+  162  python bidi-stream-test.py
+  163  export STRANDS_BIDI_VERBOSE=false
+  164  python bidi-stream-test.py
+  165  python bidi-stream-test.py
+  166  python bidi-stream-test.py
+  167  python bidi-stream-test.py
+  168  python bidi-stream-test.py
+  169  cd '/Users/wen-chungcheng/Downloads/sdk-python-B'
+  170  python bidi-stream-test.py
+  171  python bidi-stream-test.py
+  172  python bidi-stream-test.py
+  173  pip install -e .
+  174  python bidi-stream-test.py
+  175  cd ..'/Users/wen-chungcheng/sdk-python-original'
+  176  cd '/Users/wen-chungcheng/sdk-python-original'
+  177  pip install -e .
+  178  python bidi-stream-test.py
+  179  python bidi-stream-test.py
+  180  python bidi-stream-test.py
+  181  python bidi-stream-test.py
+  182  python bidi-stream-test.py
+  183  python bidi-stream-test.py
+  184  python bidi-stream-test.py
+  185  python bidi-stream-test.py
+  186  python bidi-stream-test.py
+  187  python bidi-stream-test.py
+  188  hi
+  189  hi
+  190  python bidi-stream-test.py
+  191  cd '/Users/wen-chungcheng/Downloads/sdk-python-B'
+  192  python ./bidi-stream-test.py
+  193  pip install -e .
+  194  python bidi-stream-test.py
+  195  cd ~
+  196  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 2/A/sdk-python'
+  197  pip install -e .
+  198  python bidi-stream-test.py
+  199  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 2/B/sdk-python'
+  200  pip install -e .
+  201  python bidi-stream-test.py
+  202  python bidi-stream-test.py
+  203  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 2/A/sdk-python'
+  204  pip install -e .
+  205  pytest tests/strands/handlers/test_bidi_callback_handler.py -v
+  206  python example_bidi_callback_usage.py
+  207  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/A/sdk-python'
+  208  pip install -e .
+  209  python bidi-stream-test.py
+  210  python bidi-stream-test.py
+  211  python bidi-stream-test.py
+  212  python bidi-stream-test.py
+  213  python bidi-stream-test.py
+  214  python bidi-stream-test.py
+  215  export STRANDS_BIDI_VERBOSE=1
+  216  python bidi-stream-test.py
+  217  export STRANDS_BIDI_VERBOSE=0
+  218  python bidi-stream-test.py
+  219  python bidi-stream-test.py
+  220  python bidi-stream-test.py
+  221  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/B/sdk-python'
+  222  pip install -e .
+  223  python bidi-stream-test.py
+  224  python bidi-stream-test.py
+  225  python bidi-stream-test.py
+  226  python bidi-stream-test.py
+  227  python bidi-stream-test.py
+  228  python bidi-stream-test.py
+  229  python bidi-stream-test.py
+  230  python bidi-stream-test.py
+  231  python bidi-stream-test.py
+  232  python bidi-stream-test.py
+  233  export STRANDS_BIDI_VERBOSE=1
+  234  python bidi-stream-test.py
+  235  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/A/sdk-python'
+  236  pip install -e .
+  237  python bidi-stream-test.py
+  238  python bidi-stream-test.py
+  239  python bidi-stream-test.py
+  240  python bidi-stream-test.py
+  241  python bidi-stream-test.py
+  242  python bidi-stream-test.py
+  243  python bidi-stream-test.py
+  244  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/A/sdk-python'
+  245  pip install -e .
+  246  pip install -e .
+  247  python bidi-stream-test.py
+  248  python bidi-stream-test.py
+  249  python bidi-stream-test.py
+  250  python bidi-stream-test.py
+  251  python bidi-stream-test.py
+  252  export STRANDS_BIDI_VERBOSE=1
+  253  python bidi-stream-test.py
+  254  export STRANDS_BIDI_VERBOSE=0
+  255  python bidi-stream-test.py
+  256  python bidi-stream-test.py
+  257  export STRANDS_BIDI_VERBOSE=1
+  258  python bidi-stream-test.py
+  259  export STRANDS_BIDI_VERBOSE=0
+  260  python bidi-stream-test.py
+  261  python bidi-stream-test.py
+  262  python bidi-stream-test.py
+  263  python bidi-stream-test.py
+  264  python bidi-stream-test.py
+  265  python bidi-stream-test.py
+  266  python bidi-stream-test.py
+  267  python bidi-stream-test.py
+  268  python bidi-stream-test.py
+  269  python bidi-stream-test.py
+  270  python bidi-stream-test.py
+  271  python bidi-stream-test.py
+  272  python bidi-stream-test.py
+  273  export STRANDS_BIDI_VERBOSE=1
+  274  python bidi-stream-test.py
+  275  export STRANDS_BIDI_VERBOSE=0
+  276  python bidi-stream-test.py
+  277  python bidi-stream-test.py
+  278  python bidi-stream-test.py
+  279  python bidi-stream-test.py
+  280  python bidi-stream-test.py
+  281  python bidi-stream-test.py
+  282  python bidi-stream-test.py
+  283  python bidi-stream-test.py
+  284  python bidi-stream-test.py
+  285  python bidi-stream-test.py
+  286  python bidi-stream-test.py
+  287  python bidi-stream-test.py
+  288  python bidi-stream-test.py
+  289  pytest tests/strands/handlers/test_bidi_callback_handler.py -v
+  290  pip show pytest
+  291  pip install pytest
+  292  pytest tests/strands/handlers/test_bidi_callback_handler.py -v
+  293  pip install moto
+  294  pytest tests/strands/handlers/test_bidi_callback_handler.py -v
+  295  python bidi-stream-test.py
+  296  python bidi-stream-test.py
+  297  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 2/A/sdk-python'
+  298  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 2/A/sdk-python'
+  299  pip install -e .
+  300  python bidi-stream-test.py
+  301  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 2/B/sdk-python'
+  302  pip install -e .
+  303  python bidi-stream-test.py
+  304  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 1/sdk-python-A'
+  305  cd '/Users/wen-chungcheng/sdk-python-original'
+  306  pip install -e .
+  307  python bidi-stream-test-original.py
+  308  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/A/sdk-python'
+  309  pip install -e .
+  310  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 2/B/sdk-python'
+  311  pip install -e .
+  312  pip install -e .
+  313  python bidi-stream-test.py
+  314  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/B/sdk-python'
+  315  pip install -e .
+  316  python bidi-stream-test.py
+  317  python bidi-stream-test.py
+  318  python bidi-stream-test.py
+  319  python bidi-stream-test.py
+  320  export STRANDS_BIDI_VERBOSE=1
+  321  python bidi-stream-test.py
+  322  export STRANDS_BIDI_VERBOSE=0
+  323  python bidi-stream-test.py
+  324  cd ..
+  325  cd ~
+  326  ls -al
+  327  cd '/Users/wen-chungcheng/sdk-python'
+  328  git rev-parse HEAD
+  329  cd ..
+  330  tar -cf sdk-python.tar sdk-python
+  331  cd sdk-python
+  332  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/turn 3/A/sdk-python'
+  333  git diff 60bd2914781099259562b0a19b45cc552c6fa6ed > ~/032bc874-599e-4a7d-9597-8ce9fbe2b5ee_final.diff
+  334  cd '/Users/wen-chungcheng/sdk-python-original-to-be-git-hash-applied'
+  335  git apply ~/032bc874-599e-4a7d-9597-8ce9fbe2b5ee_final.diff
+  336  git apply --whitespace=fix ~/032bc874-599e-4a7d-9597-8ce9fbe2b5ee_final.diff
+  337  chmod +x ~/Downloads/claude-hfi
+  338  ls -al ~/.local/bin/
+  339  rm ~/.local/bin/claude-hfi
+  340  mv ~/Downloads/claude-hfi ~/.local/bin/
+  341  echo $PATH
+  342  claude-hfi
+  343  claude-hfi --help
+  344  claude-hfi -V
+  345  cd '/Users/wen-chungcheng/sdk-python-original-1'
+  346  claude-hfi --vscode
+  347  cd '/Users/wen-chungcheng/sdk-python-original-1'
+  348  claude-hfi --vscode
+  349  git rev-parse HEAD
+  350  claude-hfi --vscode
+  351  conda activate pocket-flow-alignerr-cc-human-p
+  352  conda activate Webots-Sim
+  353  cd '/Users/wen-chungcheng/remembr/results_20251118_180603_scream_sounds_enabled_only_memories_PANN_audio_Gemma_3n_vision_Command_r_RAG_full_test_standardized_queries'
+  354  python 'spatial cluster map dist.py'
+  355  python 'spatial cluster map dist.py'
+  356  python 'spatial cluster map dist.py'
+  357  python 'spatial cluster map dist.py'
+  358  cd ..
+  359  python retrieval_nav_performance_multiple_cases_compare_all_sounds.py
+  360  python retrieval_nav_performance_multiple_cases_compare_all_sounds.py
+  361  python retrieval_nav_performance_multiple_cases_compare_all_sounds.py
+  362  python retrieval_nav_performance_multiple_cases_compare_all_sounds.py
+  363  python retrieval_nav_performance_multiple_cases_compare_all_sounds.py
+  364  python retrieval_nav_performance_multiple_cases_compare_sirens.py
+  365  python retrieval_nav_performance_multiple_cases_compare_screams.py
+  366  python retrieval_nav_performance_multiple_cases_compare_all_sounds.py
+  367  python retrieval_nav_performance_multiple_cases_compare_sirens.py
+  368  python retrieval_nav_performance_multiple_cases_compare_screams.py
+  369  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-4315TsBpmrH4zc1Q.txt"
+  370  cd '/Users/wen-chungcheng/sdk-python-original-1'
+  371  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-99498HcQYzBd26Qci.txt"
+  372  docker load -i ~/Downloads/sdkmanager-2.4.0.13234-Ubuntu_22.04_docker.tar
+  373  docker tag sdkmanager:2.4.0.13234-Ubuntu_22.04 sdkmanager:latest
+  374  docker run -it --rm sdkmanager --help
+  375  sdkmanager --cli
+  376  docker run -it --rm sdkmanager --cli
+  377  docker run -it --rm sdkmanager:2.4.0.13234-Ubuntu_22.04 --cli
+  378  docker run -it --rm sdkmanager:2.4.0.13234-Ubuntu_22.04 --archived-version
+  379  docker run -it --rm sdkmanager:2.4.0.13234-Ubuntu_22.04 --stay-logged-in true | false --show-all-versions --cli
+  380  docker run -it --rm sdkmanager:2.4.0.13234-Ubuntu_22.04 --stay-logged-in true | false --show-all-versions
+  381  docker run -it --rm sdkmanager:2.4.0.13234-Ubuntu_22.04 --stay-logged-in true | false
+  382  docker run -it --rm sdkmanager:2.4.0.13234-Ubuntu_22.04 --stay-logged-in true --show-all-versions --cli
+  383  docker run -it --rm sdkmanager:2.4.0.13234-Ubuntu_22.04 --stay-logged-in true --show-all-versions --cli --archived-versions
+  384  tmux attach -t 0ddf48c0-0865-4b2e-acc6-dcacbc44a001-A
+  385  tmux attach -t 0ddf48c0-0865-4b2e-acc6-dcacbc44a001-B
+  386  conda activate pocket-flow-alignerr-cc-human-p
+  387  ls -al
+  388  cd ./task\ 1/
+  389  ls -al
+  390  cd ./turn\ 1/
+  391  ls -al
+  392  cd A
+  393  ls -al
+  394  cd ./code/python/
+  395  pip install -r requirements.txt
+  396  python ./testing/check_connectivity.py
+  397  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  398  python ./testing/check_connectivity.py
+  399  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  400  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  401  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  402  python app-aiohttp.py
+  403  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 1/B'
+  404  cd ./code/python/
+  405  pip install -r requirements.txt
+  406  python testing/check_connectivity.py
+  407  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  408  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  409  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  410  python app-aiohttp.py
+  411  curl -fsSL https://elastic.co/start-local | sh
+  412  python testing/check_connectivity.py
+  413  python testing/check_connectivity.py
+  414  python testing/check_connectivity.py
+  415  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  416  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  417  python testing/check_connectivity.py
+  418  python testing/check_connectivity.py
+  419  python testing/check_connectivity.py
+  420  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  421  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  422  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  423  python app-aiohttp.py
+  424  cd '/Users/wen-chungcheng/NLWeb'
+  425  cd '/Users/wen-chungcheng/NLWeb/code/python'
+  426  python app-aiohttp.py
+  427  python app-aiohttp.py
+  428  python app-aiohttp.py
+  429  python app-aiohttp.py
+  430  python app-aiohttp.py
+  431  python app-aiohttp.py
+  432  python app-aiohttp.py
+  433  ollama serve
+  434  ollama list
+  435  ollama list
+  436  conda activate pocket-flow-alignerr-cc-human-p
+  437  ollama serve
+  438  ollama
+  439  ollama pull qwen3:8b
+  440  ollama list
+  441  ollama show qwen3:8b
+  442  ollama
+  443  ollama -v
+  444  ollama serve
+  445  ollama pull embeddinggemma:latest
+  446  ollama serve
+  447  OLLAMA_CONTEXT_LENGTH=8192 ollama serve
+  448  OLLAMA_CONTEXT_LENGTH=2048 ollama serve
+  449  ollama serve
+  450  ollama serve
+  451  ollama serve
+  452  ollama serve
+  453  ollama serve
+  454  ollama list
+  455  ollama serve
+  456  ollama serve
+  457  ollama list
+  458  ollama list
+  459  ollama serve
+  460  conda activate pocket-flow-alignerr-cc-human-p
+  461  cd '/Users/wen-chungcheng/NLWeb/code/python'
+  462  python app-aiohttp.py
+  463  python app-aiohttp.py
+  464  ollama list
+  465  ollama run
+  466  ollama
+  467  ollama run gemma3:27b-it-q8_0
+  468  ollama list
+  469  python app-aiohttp.py
+  470  python app-aiohttp.py
+  471  python app-aiohttp.py
+  472  python app-aiohttp.py
+  473  python app-aiohttp.py
+  474  python testing/check_connectivity.py
+  475  python testing/check_connectivity.py
+  476  python app-aiohttp.py
+  477  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 1/B better'
+  478  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 1/B better/code/python'
+  479  python app-aiohttp.py
+  480  python app-aiohttp.py
+  481  ollama list
+  482  conda activate pocket-flow-alignerr-cc-human-p
+  483  ollama list
+  484  ollama serve
+  485  ollama serve
+  486  ollama serve
+  487  ollama serve
+  488  ollama list
+  489  conda activate pocket-flow-alignerr-cc-human-p
+  490  hatch shell
+  491  source "/Users/wen-chungcheng/Library/Application Support/hatch/env/virtual/strands-agents/62we6XAw/strands-agents/bin/activate"
+  492  pre-commit install -t pre-commit -t commit-msg
+  493  hatch fmt --linter
+  494  hatch test
+  495  hatch run test-integ
+  496  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 1/A'
+  497  hatch shell
+  498  hatch test
+  499  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 1/B'
+  500  hatch test
+  501  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 2/A'
+  502  hatch test
+  503  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 2/B'
+  504  hatch test
+  505  conda activate pocket-flow-alignerr-cc-human-p
+  506  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 1/A'
+  507  pip install -e .
+  508  python bidi-streaming-quick-example.py
+  509  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 1/B'
+  510  pip install -e .
+  511  python bidi-streaming-quick-example.py
+  512  python bidi-streaming-quick-example.py
+  513  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 2/A'
+  514  pip install -e .
+  515  python bidi
+  516  python bidi-streaming-quick-example.py
+  517  python bidi-streaming-quick-example.py
+  518  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 2/B'
+  519  pip install -e .
+  520  python bidi-streaming-quick-example.py
+  521  python bidi-streaming-quick-example.py
+  522  python bidi-streaming-quick-example.py
+  523  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 2/A'
+  524  pip install -e .
+  525  python bidi-streaming-quick-example.py
+  526  python bidi-streaming-quick-example.py
+  527  python bidi-streaming-quick-example.py
+  528  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 2/B'
+  529  pip install -e .
+  530  python bidi-streaming-quick-example.py
+  531  python bidi-streaming-quick-example.py
+  532  python run_and_save_logs.py
+  533  python run_and_save_logs.py
+  534  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 2/A'
+  535  pip install -e .
+  536  python run_and_save_logs.py
+  537  python run_and_save_logs.py
+  538  python run_and_save_logs.py
+  539  python run_and_save_logs.py
+  540  python run_and_save_logs.py
+  541  python run_and_save_logs.py
+  542  python run_and_save_logs.py
+  543  python run_and_save_logs.py
+  544  python bidi-streaming-quick-example.py
+  545  python bidi-streaming-quick-example.py
+  546  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 3/A'
+  547  pip install -e .
+  548  python bidi-streaming-quick-example.py
+  549  python bidi-streaming-quick-example.py
+  550  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 3/B'
+  551  pip install -e .
+  552  python bidi-streaming-quick-example.py
+  553  python bidi-streaming-quick-example.py
+  554  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 3/A'
+  555  pip install -e .
+  556  python test_bidi
+  557  python test_bidi_debug.py
+  558  python test_bidi_debug.py
+  559  python run_and_save_logs_debug.py
+  560  python run_and_save_logs_debug.py
+  561  python bidi-streaming-quick-example.py
+  562  python test_bidi_debug.py
+  563  python run_and_save_logs_debug.py
+  564  cd '/Users/wen-chungcheng/Downloads/sdk-python-all-turns/task 2/turn 3/B'
+  565  pip install -e .
+  566  python bidi
+  567  python bidi-streaming-quick-example.py
+  568  python bidi-streaming-quick-example.py
+  569  conda activate pocket-flow-alignerr-cc-human-p
+  570  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 1/B better/code/python'
+  571  ollama list
+  572  ollama run gemma3:27b-it-q8_0
+  573  ollama list
+  574  ollama list
+  575  ollama
+  576  tmux attach -t 2228bbcc-dbda-43e0-9f31-649d3858ca7e-B
+  577  tmux attach -t 2228bbcc-dbda-43e0-9f31-649d3858ca7e-A
+  578  conda activate pocket-flow-alignerr-cc-human-p
+  579  ollama list
+  580  ollama run
+  581  ollama list
+  582  ollama list
+  583  ollama list
+  584  ollama seve
+  585  ollama serve
+  586  ollama list
+  587  ollama serve
+  588  ollama run gemma3:27b-it-q8_0
+  589  ollama list
+  590  ollama serve
+  591  ollama serve
+  592  ollama list
+  593  ollama serve
+  594  ollama serve
+  595  ollama list
+  596  ollama serve
+  597  ollama list
+  598  ollama serve
+  599  ollama list
+  600  ollama serve
+  601  ollama serve
+  602  ollama list
+  603  ollama serve
+  604  ollama list
+  605  ollama serve
+  606  ollama serve
+  607  ollama list
+  608  ollama serve
+  609  ollama list
+  610  ollama serve
+  611  ollama serve
+  612  ollama list
+  613  ollama serve
+  614  ollama list
+  615  ollama serve
+  616  ollama list
+  617  ollama list
+  618  ollama serve
+  619  ollama serve
+  620  conda activate pocket-flow-alignerr-cc-human-p
+  621  ollama list
+  622  ollama serve
+  623  ollama list
+  624  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 1/B better/code/python'
+  625  python testing/check_connectivity.py
+  626  python app-aiohttp.py
+  627  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 1/B better'
+  628  git diff d5c0ba8b29c3eda718190f0e39215f2ec6a7f1ea > ~/2228bbcc-dbda-43e0-9f31-649d3858ca7e_turn_1.diff
+  629  cd '/Users/wen-chungcheng/NLWeb-original'
+  630  git apply ~/2228bbcc-dbda-43e0-9f31-649d3858ca7e_turn_1.diff
+  631  ollama serve
+  632  ollama list
+  633  ollama serve
+  634  ollama list
+  635  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 2/A'
+  636  cd ./code/python/
+  637  ollama list
+  638  ollama serve
+  639  ollama list
+  640  python ./testing/check_connectivity.py
+  641  python ./testing/check_connectivity.py
+  642  python ./testing/check_connectivity.py
+  643  python ./testing/check_connectivity.py
+  644  python ./testing/check_connectivity.py
+  645  python data_loading/elasticsearch_migrate.py --index search-podcasts
+  646  python app-aiohttp.py
+  647  ollama list
+  648  python ./testing/check_connectivity.py
+  649  python app-aiohttp.py
+  650  python app-aiohttp.py
+  651  python app-aiohttp.py
+  652  python app-aiohttp.py
+  653  ollama list
+  654  ollama serve
+  655  ollama serve
+  656  ollama list
+  657  python app-aiohttp.py
+  658  ollama list
+  659  ollama serve
+  660  ollama list
+  661  ollama serve
+  662  cd '/Users/wen-chungcheng/NLWeb/code/python'
+  663  python testing/check_connectivity.py
+  664  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  665  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  666  python testing/check_connectivity.py
+  667  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  668  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 2/A'
+  669  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 2/A/code/python'
+  670  cd '/Users/wen-chungcheng/NLWeb/code/python'
+  671  python app-aiohttp.py
+  672  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 2/A/code/python'
+  673  python app-aiohttp.py
+  674  python app-aiohttp.py
+  675  cd '/Users/wen-chungcheng/NLWeb/code/python'
+  676  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  677  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  678  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 2/B/code/python'
+  679  python testing/check_connectivity.py
+  680  python app-aiohttp.py
+  681  ollama list
+  682  ollama serve
+  683  ollama list
+  684  ollama serve
+  685  ollama list
+  686  brew update && brew install azure-cli
+  687  az
+  688  az login
+  689  az group create --name NLWeb --location eastus2
+  690  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 2/A/code/python'
+  691  python testing/check_connectivity.py
+  692  python testing/check_connectivity.py
+  693  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  694  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  695  python testing/check_connectivity.py
+  696  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  697  python testing/check_connectivity.py
+  698  python testing/check_connectivity.py
+  699  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  700  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  701  python testing/check_connectivity.py
+  702  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  703  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  704  ollama list
+  705  ollama serve
+  706  ollama list
+  707  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 1/turn 2/A/code/python'
+  708  python testing/check_connectivity.py
+  709  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  710  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  711  python testing/check_connectivity.py
+  712  python app-aiohttp.py
+  713  python app-aiohttp.py
+  714  python app-aiohttp.py
+  715  python testing/check_connectivity.py
+  716  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  717  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  718  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  719  python app-aiohttp.py
+  720  python app-aiohttp.py
+  721  python app-aiohttp.py
+  722  python app-aiohttp.py
+  723  python app-aiohttp.py
+  724  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  725  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  726  conda activate pocket-flow-alignerr-cc-human-p
+  727  claude-hfi --vscode
+  728  git rev-parse HEAD
+  729  claude-hfi --vscode
+  730  claude-hfi --continue
+  731  claude-hfi --continue
+  732  claude-hfi --continue
+  733  claude-hfi --continue
+  734  claude-hfi --continue
+  735  git diff 60bd2914781099259562b0a19b45cc552c6fa6ed > ~/0ddf48c0-0865-4b2e-acc6-dcacbc44a001_final.diff
+  736  git add -A
+  737  git diff 60bd2914781099259562b0a19b45cc552c6fa6ed > ~/0ddf48c0-0865-4b2e-acc6-dcacbc44a001_final.diff
+  738  cd '/Users/wen-chungcheng/sdk-python-original-to-be-git-hash-applied-1'
+  739  git apply ~/0ddf48c0-0865-4b2e-acc6-dcacbc44a001_final.diff
+  740  cp ~/kreuzberg ~/kreuzberg-to-be-git-hashed
+  741  cd '/Users/wen-chungcheng/kreuzberg'
+  742  git rev-parse HEAD
+  743  cd ..
+  744  tar -cf kreuzberg.tar ./kreuzberg
+  745  cd '/Users/wen-chungcheng/kreuzberg-original'
+  746  task setup
+  747  brew install openssl@3
+  748  brew install go-task
+  749  task setup
+  750  maturin develop
+  751  cd '/Users/wen-chungcheng/fastapi_mcp-original'
+  752  pip install uv
+  753  cd '/Users/wen-chungcheng/fastapi_mcp'
+  754  git rev-parse HEAD
+  755  cd ..
+  756  tar -cf fas.tar ./fastapi_mcp
+  757  tar -cf fastapi_mcp.tar ./fastapi_mcp
+  758  cd '/Users/wen-chungcheng/fastapi_mcp-original'
+  759  uv sync
+  760  uv run pre-commit install
+  761  uv run pre-commit run
+  762  conda deactivate
+  763  conda activate
+  764  conda deactivate
+  765  conda activate pocket-flow-alignerr-cc-human-p
+  766  uv run pytest
+  767  uv run mypy .
+  768  uv run ruff check .
+  769  uv run python basic-usage.py
+  770  uv run python basic-usage.py
+  771  uv run python '/Users/wen-chungcheng/fastapi_mcp-original/examples/01_basic_usage_example.py'
+  772  cd ..
+  773  tar -cf NLWeb.tar ./NLWeb
+  774  cd ./NLWeb/
+  775  git rev-parse HEAD
+  776  cd '/Users/wen-chungcheng/NLWeb-original'
+  777  cd ./code/python/
+  778  ls -al
+  779  python -V
+  780  pip install -r requirements.txt
+  781  pip install protobuf>=5.29.5
+  782  pip install protobuf>=5.0
+  783  pip install protobuf
+  784  pip install protobuf==5.29.5
+  785  ollama
+  786  ollama list
+  787  ollama serve
+  788  ping http://127.0.0.1:11434
+  789  ping http://127.0.0.1:11434
+  790  ping http://127.0.0.1:11434
+  791  ping https://127.0.0.1
+  792  ping https://localhost
+  793  ping https://8.8.8.8
+  794  ping 127.0.0.1:11434
+  795  ping 127.0.0.1
+  796  ping 127.0.0.1:11434
+  797  ping localhost:11434
+  798  ping localhost
+  799  cd '/Users/wen-chungcheng/NLWeb'
+  800  cd ./code/python/
+  801  pip install -r requirements.txt
+  802  python testing/check_connectivity.py
+  803  python testing/check_connectivity.py
+  804  python testing/check_connectivity.py
+  805  python testing/check_connectivity.py
+  806  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  807  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  808  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  809  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  810  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  811  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  812  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  813  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  814  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  815  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  816  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  817  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  818  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  819  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  820  python app-aiohttp.py
+  821  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  822  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  823  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  824  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  825  python app-aiohttp.py
+  826  python app-aiohttp.py
+  827  cd '/Users/wen-chungcheng/NLWeb-original'
+  828  git rev-parse --show-toplevel
+  829  claude-hfi --help
+  830  claude-hfi --version
+  831  claude-hfi --vscode
+  832  claude-hfi --continue
+  833  claude-hfi --continue
+  834  claude-hfi --continue
+  835  claude-hfi --continue
+  836  claude-hfi --continue
+  837  claude-hfi --continue
+  838  claude-hfi --continue
+  839  claude-hfi --continue
+  840  claude-hfi --continue
+  841  claude-hfi --continue
+  842  claude-hfi --continue
+  843  claude-hfi --continue
+  844  claude-hfi --continue
+  845  git diff d5c0ba8b29c3eda718190f0e39215f2ec6a7f1ea > ~/2228bbcc-dbda-43e0-9f31-649d3858ca7e_final.diff
+  846  cd '/Users/wen-chungcheng/NLWeb-to-be-git-hashed'
+  847  git apply ~/2228bbcc-dbda-43e0-9f31-649d3858ca7e_final.diff
+  848  cd ..
+  849  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-47541CrFTYivJXGH7.txt"
+  850  conda activate pocket-flow-alignerr-cc-human-p
+  851  tmux attach -t c7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-B
+  852  conda activate pocket-flow-alignerr-cc-human-p
+  853  tmux attach -t 7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-A
+  854  tmux attach -t c7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-A
+  855  conda activate pocket-flow-alignerr-cc-human-p
+  856  cd '/Users/wen-chungcheng/NLWeb/code/python'
+  857  ollama list
+  858  ollama serve
+  859  ollama serve
+  860  ollama list
+  861  ollama serve
+  862  conda activate pocket-flow-alignerr-cc-human-p
+  863  claude
+  864  claude-hfi -V
+  865  git rev-parse --show-toplevel
+  866  git rev-parse HEAD
+  867  claude-hfi --vscode
+  868  conda activate pocket-flow-alignerr-cc-human-p
+  869  ollama list
+  870  ollama serve
+  871  python testing/check_connectivity.py
+  872  cd '/Users/wen-chungcheng/NLWeb/code/python'
+  873  python testing/check_connectivity.py
+  874  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  875  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  876  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  877  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  878  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+  879  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+  880  python testing/check_connectivity.py
+  881  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 1/A/code/python'
+  882  python testing/check_connectivity.py
+  883  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 1/B/code/python'
+  884  python testing/check_connectivity.py
+  885  ollama list
+  886  ollama serve
+  887  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 1/A/code/python'
+  888  python testing/check_connectivity.py
+  889  python testing/check_connectivity.py
+  890  python testing/check_connectivity.py
+  891  python testing/check_connectivity.py
+  892  python testing/check_connectivity.py
+  893  python testing/check_connectivity.py
+  894  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 1/B/code/python'
+  895  python testing/check_connectivity.py
+  896  python testing/check_connectivity.py
+  897  python testing/check_connectivity.py
+  898  python testing/check_connectivity.py
+  899  python testing/check_connectivity.py
+  900  python testing/check_connectivity.py
+  901  python testing/check_connectivity.py
+  902  conda activate Webots-Sim
+  903  python 'content category breakdown compare multiple all sounds.py'
+  904  python 'content category breakdown compare multiple all sounds.py'
+  905  python 'content category breakdown compare multiple all sounds.py'
+  906  python 'content category breakdown compare multiple all sounds.py'
+  907  python 'content category breakdown compare multiple all sounds.py'
+  908  python 'content category breakdown compare multiple all sounds.py'
+  909  python 'content category breakdown compare multiple all sounds.py'
+  910  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  911  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  912  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  913  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  914  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  915  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  916  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  917  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  918  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  919  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  920  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  921  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  922  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  923  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  924  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  925  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  926  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  927  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  928  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  929  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  930  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  931  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  932  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  933  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  934  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  935  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  936  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  937  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  938  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  939  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  940  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  941  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  942  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  943  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  944  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  945  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  946  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  947  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  948  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  949  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  950  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  951  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  952  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  953  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  954  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  955  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  956  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  957  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  958  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  959  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  960  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  961  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  962  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  963  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  964  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  965  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  966  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  967  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  968  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  969  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  970  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  971  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  972  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  973  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  974  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  975  python retrieval_nav_performance_multiple_cases_compare_all_sounds_4_prompts.py
+  976  python retrieval_nav_performance_multiple_cases_compare_screams_4_prompts.py
+  977  python retrieval_nav_performance_multiple_cases_compare_screams_4_prompts.py
+  978  python retrieval_nav_performance_multiple_cases_compare_screams_4_prompts.py
+  979  python 'content category breakdown compare multiple allsounds.py'
+  980  python 'content category breakdown compare multiple all sounds.py'
+  981  python 'content category breakdown compare multiple all sounds.py'
+  982  python 'content category breakdown compare multiple all sounds.py'
+  983  python 'content category breakdown compare multiple all sounds.py'
+  984  python 'content category breakdown compare multiple all sounds.py'
+  985  python 'content category breakdown compare multiple all sounds.py'
+  986  python 'content category breakdown compare multiple all sounds.py'
+  987  python 'content category breakdown compare multiple all sounds.py'
+  988  python 'content category breakdown compare multiple screams.py'
+  989  export PS1="\W \$"; clear;
+  990  ls -al /Users/wen-chungcheng/Documents/FREE\ \$211\ Power-Up\ Bundle 
+  991  mv -v /Users/wen-chungcheng/Downloads/ubuntu-20.04.6-desktop-amd64.iso /Users/wen-chungcheng/Downloads/sdkmanager-2.4.0.13234-Ubuntu_22.04_docker.tar /Volumes/Untitled
+  992  ls -al /Users/wen-chungcheng/AndroidStudioProjects/SpotifyClone 
+  993  mv -v /Users/wen-chungcheng/AndroidStudioProjects/SpotifyClone/.DS_Store /Volumes/USB\ DISK/AndroidStudioProjects/SpotifyClone
+  994  ls -al /Volumes/USB\ DISK/AndroidStudioProjects/SpotifyClone
+  995  ls -al /Users/wen-chungcheng/AndroidStudioProjects
+  996  mv -v /Users/wen-chungcheng/AndroidStudioProjects/.DS_Store /Volumes/USB DISK/AndroidStudioProjects
+  997  mv -v /Users/wen-chungcheng/AndroidStudioProjects/.DS_Store /Volumes/USB\ DISK/AndroidStudioProjects
+  998  ls -al /Users/wen-chungcheng/AndroidStudioProjects
+  999  ls -al /Users/wen-chungcheng/AndroidStudioProjects/SpotifyClone
+ 1000  mv -v /Volumes/USB\ DISK/AndroidStudioProjects /Volumes/USB\ DISK/co2-emmision-react /Volumes/USB\ DISK/CodePath\ IOS\ 101 /Volumes/USB\ DISK/DA-Raven-Codebase-Eval /Volumes/USB\ DISK/DataAnnotationCodeTesting /Volumes/USB\ DISK/Desktop /Volumes/USB\ DISK/Documents /Volumes/USB\ DISK/Downloads /Volumes/USB\ DISK/exoplanets\ star\ charts\ web\ app\ data\ annotation\ test /Volumes/USB\ DISK/multimodal\ remembr\ memories\ demo /Volumes/USB\ DISK/ps2\ games /Volumes/USB\ DISK/remaining /Volumes/USB\ DISK/YouTube-Comment-Sentiment-App /Volumes/Untitled
+ 1001  docker pull opensearchproject/opensearch:3.4.0
+ 1002  docker pull opensearchproject/opensearch-dashboards:3.4.0
+ 1003  docker pull opensearchproject/opensearch:latest
+ 1004  docker pull opensearchproject/opensearch-dashboards:latest
+ 1005   docker run -d -p 9200:9200 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213
+ 1006   docker run -d -p 9200:9200 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213 opensearchproject/opensearch:latest
+ 1007   docker run -d -p 9200:9200 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213
+ 1008   docker run -d -p 9200:9200 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213" opensearchproject/opensearch:latest
+ 1009   docker run -d -p 9200:9201 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213" opensearchproject/opensearch:latest
+ 1010   docker run -d -p 9201:9201 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213" opensearchproject/opensearch:latest
+ 1011  curl https://localhost:9201 -ku admin:"EvaJim01160213"
+ 1012  curl https://localhost:9201 -ku admin:"EvaJim01160213"
+ 1013  curl https://localhost:9201 -ku admin:"EvaJim01160213"
+ 1014  docker container ls
+ 1015  curl https://localhost:9201
+ 1016  curl https://localhost:9201 -ku admin:"EvaJim01160213"
+ 1017   docker run -d -p 9201:9201 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213" opensearchproject/opensearch-dashboards:latest
+ 1018   docker run -d -p 9202:9202 -p 9600:9600 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213" opensearchproject/opensearch-dashboards:latest
+ 1019   docker run -d -p 9202:9202 -p 9601:9601 -e "discovery.type=single-node" -e "OPENSEARCH_INITIAL_ADMIN_PASSWORD=EvaJim01160213" opensearchproject/opensearch-dashboards:latest
+ 1020  curl -fsSL https://elastic.co/start-local | sh
+ 1021  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-11436bOWEIUr64U5q.txt"
+ 1022  conda activate pocket-flow-alignerr-cc-human-p
+ 1023  ollama list
+ 1024  ollama serve
+ 1025  conda activate pocket-flow-alignerr-cc-human-p
+ 1026  claude-hfi --continue
+ 1027  conda activate pocket-flow-alignerr-cc-human-p
+ 1028  tmux attach -t c7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-A
+ 1029  conda activate pocket-flow-alignerr-cc-human-p
+ 1030  tmux attach -t c7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-B
+ 1031  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-35462QQlQKRKCDFoM.txt"
+ 1032  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-35457O7akXhakj1Ct.txt"
+ 1033  conda activate pocket-flow-alignerr-cc-human-p
+ 1034  conda activate pocket-flow-alignerr-cc-human-p
+ 1035  tmux attach -t c7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-A
+ 1036  conda activate tmux attach -t c7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-B
+ 1037  conda activate pocket-flow-alignerr-cc-human-p
+ 1038  tmux attach -t c7cc84d5-c0ba-41c9-94a6-9bedeb4ad535-B
+ 1039  conda activate pocket-flow-alignerr-cc-human-p
+ 1040  tmux attach -t 9796e36d-f8de-42ac-aba3-8c2041bd4f60-A
+ 1041  conda activate pocket-flow-alignerr-cc-human-p
+ 1042  tmux attach -t 1014d63a-763b-453c-ac3a-1b4a1ff6e8dd-A
+ 1043  conda activate pocket-flow-alignerr-cc-human-p
+ 1044  tmux attach -t 1014d63a-763b-453c-ac3a-1b4a1ff6e8dd-B
+ 1045  conda activate pocket-flow-alignerr-cc-human-p
+ 1046  ollama list
+ 1047  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 1/A'
+ 1048  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 1/A/code/python'
+ 1049  python testing/check_connectivity.py
+ 1050  python testing/check_connectivity.py
+ 1051  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 1/B/code/python'
+ 1052  python testing/connectivity/elasticsearch_connectivity.py
+ 1053  python testing/connectivity/elasticsearch_connectivity.py
+ 1054  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2/A/code/python'
+ 1055  python testing/check_connectivity.py
+ 1056  python testing/check_connectivity.py
+ 1057  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2/A/code/python'
+ 1058  cd ..
+ 1059  cd ..
+ 1060  python scripts/run_tests_with_server.py integration
+ 1061  pip install aioresponses
+ 1062  python scripts/run_tests_with_server.py integration
+ 1063  python scripts/run_tests_with_server.py unit
+ 1064  python scripts/run_tests_with_server.py e2e
+ 1065  python scripts/run_tests_with_server.py websocket
+ 1066  python scripts/run_tests_with_server.py rest
+ 1067  python scripts/run_tests_with_server.py performance
+ 1068  python scripts/run_tests_with_server.py security
+ 1069  python scripts/run_tests_with_server.py reliability
+ 1070  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2'
+ 1071  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2/A/code/python'
+ 1072  python testing/check_connectivity.py
+ 1073  python -m testing.connectivity.azure_connectivity
+ 1074  python -m testing.connectivity.inception_connectivity
+ 1075  ./testing/run_all_tests.sh
+ 1076  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2'
+ 1077  ollama list
+ 1078  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2/A/code/python'
+ 1079  python testing/check_connectivity.py
+ 1080  python -m testing.connectivity.elasticsearch_connectivity
+ 1081  python -m testing.connectivity.elasticsearch_connectivity
+ 1082  python testing/check_connectivity.py
+ 1083  python -m testing.connectivity.elasticsearch_connectivity
+ 1084  python testing/check_connectivity.py
+ 1085  python -m testing.connectivity.azure_connectivity
+ 1086  python -m testing.connectivity.snowflake_connectivity
+ 1087  python -m testing.connectivity.inception_connectivity
+ 1088  ./testing/run_all_tests.sh
+ 1089  python testing.check_connectivity
+ 1090  python -m testing.check_connectivity
+ 1091  python -m testing.check_connectivity
+ 1092  python -m testing.check_connectivity --all
+ 1093  python -m testing.connectivity.elasticsearch_connectivity
+ 1094  python -m testing.connectivity.azure_connectivity
+ 1095  python -m testing.connectivity.snowflake_connectivity
+ 1096  python -m testing.connectivity.inception_connectivity
+ 1097  python -m pytest tests/ -v
+ 1098  python -m pytest tests/test_elasticsearch_connectivity.py -v
+ 1099  python -m pytest tests/ --cov=testing --cov-report=term-missing
+ 1100  python -m testing.connectivity.elasticsearch_connectivity
+ 1101  ollama list
+ 1102  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2/B/code/python'
+ 1103  python testing/check_connectivity.py
+ 1104  python testing/check_connectivity.py
+ 1105  python testing/check_connectivity.py
+ 1106  python testing/check_connectivity.py --all
+ 1107  python testing/connectivity/elasticsearch_connectivity.py
+ 1108  python testing/connectivity/elasticsearch_connectivity.py
+ 1109  python testing/connectivity/elasticsearch_connectivity.py
+ 1110  python testing/connectivity/azure_connectivity.py
+ 1111  python testing/connectivity/snowflake_connectivity.py
+ 1112  python testing/connectivity/inception_connectivity.py
+ 1113  python testing/check_connectivity.py
+ 1114  python -m pytest testing/connectivity/test_elasticsearch_connectivity.py -v
+ 1115  python -m pytest testing/connectivity/ -v
+ 1116  python -m pytest ../tests/unit/ -v
+ 1117  ls -al ..
+ 1118  ls -al ../..
+ 1119  python -m pytest ../../tests/unit/ -v
+ 1120  python -m pytest ../tests/unit/test_elasticsearch_connectivity.py -v
+ 1121  python -m pytest ../../tests/unit/test_elasticsearch_connectivity.py -v
+ 1122  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2/A/code/python'
+ 1123  python -m testing.connectivity.elasticsearch_connectivity
+ 1124  python -m testing.connectivity.elasticsearch_connectivity
+ 1125  python -m testing.check_connectivity
+ 1126  python -m testing.connectivity.elasticsearch_connectivity
+ 1127  python -m testing.connectivity.elasticsearch_connectivity
+ 1128  python -m testing.check_connectivity
+ 1129  python -m testing.connectivity.elasticsearch_connectivity
+ 1130  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 2/turn 2/B'
+ 1131  python scripts/run_tests_with_server.py unit
+ 1132  ollama list
+ 1133  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 3/turn 1/A/code/python'
+ 1134  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1135  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+ 1136  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 3/turn 1/B/code/python'
+ 1137  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1138  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+ 1139  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 3/turn 1/A/code/python'
+ 1140  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1141  cd '/Users/wen-chungcheng/NLWeb/code/python'
+ 1142  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1143  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 3/turn 1/A/code/python'
+ 1144  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1145  cd '/Users/wen-chungcheng/NLWeb/code/python'
+ 1146  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1147  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 3/turn 1/A/code/python'
+ 1148  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1149  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 3/turn 1/B/code/python'
+ 1150  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1151  cd '/Users/wen-chungcheng/NLWeb-all-turns/task 3/turn 1/A/code/python'
+ 1152  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1153  cd '/Users/wen-chungcheng/NLWeb/code/python'
+ 1154  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1155  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1156  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1157  python -m data_loading.db_load https://feeds.megaphone.fm/recodedecode Decoder
+ 1158  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1159  cd '/Users/wen-chungcheng/NLWeb/code/python'
+ 1160  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1161  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1162  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1163  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1164  python -m data_loading.db_load https://feeds.libsyn.com/121695/rss Behind-the-Tech
+ 1165  conda activate pocket-flow-alignerr-cc-human-p
+ 1166  tmux attach -t 82a12efd-269a-406a-b56f-706e05f0a8c9-A
+ 1167  conda activate pocket-flow-alignerr-cc-human-p
+ 1168  82a12efd-269a-406a-b56f-706e05f0a8c9-B
+ 1169  tmux attach -t 82a12efd-269a-406a-b56f-706e05f0a8c9-B
+ 1170  conda activate Webots-Sim
+ 1171  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend ACT --visual-backend GEMMA
+ 1172  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections --audio-backend ACT --visual-backend YOLO
+ 1173  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections --audio-backend ACT --visual-backend YOLO
+ 1174  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections --audio-backend ACT --visual-backend YOLO
+ 1175  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections --audio-backend ACT --visual-backend YOLO
+ 1176  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections --audio-backend ACT --visual-backend YOLO
+ 1177  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections --audio-backend ACT --visual-backend YOLO
+ 1178  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections_new --audio-backend ACT --visual-backend YOLO
+ 1179  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections_new --audio-backend ACT --visual-backend YOLO
+ 1180  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections_new --audio-backend ACT --visual-backend YOLO
+ 1181  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections_new --audio-backend ACT --visual-backend YOLO
+ 1182  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections_new --audio-backend ACT --visual-backend YOLO
+ 1183  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal_detections_new --audio-backend ACT --visual-backend YOLO
+ 1184  ./launch_multimodal_memory_multirobot.sh --collection webots_sounds_multimodal_detections_new_multirobot --audio-backend ACT
+ 1185  ./launch_multimodal_memory_multirobot.sh --collection webots_sounds_multimodal_detections_new_multirobot_new --audio-backend ACT
+ 1186  ./launch_multimodal_memory_multirobot.sh --collection webots_sounds_multimodal_detections_new_multirobot_new --audio-backend ACT
+
+ ./launch_multimodal_memory_multirobot.sh --collection webots_sounds_multimodal_detections_multirobot_with_actual_sounds --audio-backend ACT

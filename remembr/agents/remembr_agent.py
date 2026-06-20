@@ -1,6 +1,7 @@
 from typing import Annotated, Literal, Sequence, TypedDict
 import traceback
 import sys, re
+import json
 
 # from langchain_openai import OpenAIEmbeddings
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -306,7 +307,36 @@ class ReMEmbRAgent(Agent):
 
         model = gen_prompt | self.chat
 
+        # Add more detailed debug prints
+        # print(f"[Debug] Generate attempt {attempt + 1}")
+        print(f"[Debug] Question: {question}")
+        print(f"[Debug] Context docs: {docs[:200]}...")
+        
         response = model.invoke({"question": question, "chat_history": messages[1:]})
+        response_text = ''.join(response.content.splitlines())
+        
+        # CRITICAL: Add detailed response logging
+        print(f"[Debug] Raw LLM response length: {len(response_text)}")
+        print(f"[Debug] Raw LLM response (first 1000 chars): {response_text[:1000]}")
+        print(f"[Debug] Raw LLM response (last 500 chars): {response_text[-500:]}")
+        
+        # Parse JSON response
+        try:
+            if '```json' not in response_text:
+                print("[Debug] No JSON markdown found, parsing as direct JSON")
+                parsed = json.loads(response_text)
+            else:
+                print("[Debug] JSON markdown found, extracting JSON")
+                parsed = parse_json(response_text)
+            
+            print(f"[Debug] Parsed JSON keys: {list(parsed.keys()) if isinstance(parsed, dict) else 'Not a dict'}")
+            print(f"[Debug] Parsed JSON: {parsed}")
+            
+        except json.JSONDecodeError as e:
+            print(f"[Error] JSON decode error: {e}")
+            print(f"[Error] JSON error position: line {e.lineno}, column {e.colno}")
+            print(f"[Error] Problematic part: {response_text[max(0, e.pos-50):e.pos+50]}")
+            # ... rest of error handling
 
         # let us parse and check the output is a dictionary. raise error otherwise
         response = ''.join(response.content.splitlines())
@@ -385,6 +415,8 @@ class ReMEmbRAgent(Agent):
 
         # Compile
         self.graph = workflow.compile()
+        
+        print("Graph compiled successfully")
 
 
     def query(self, question: str):
@@ -394,10 +426,36 @@ class ReMEmbRAgent(Agent):
             ]
         }
 
+        print(f"[Debug] Starting query with question: {question}")
         out = self.graph.invoke(inputs)
+        
+        print(f"[Debug] Graph output keys: {list(out.keys())}")
+        print(f"[Debug] Graph output: {out}")
+        
         response = out['messages'][-1]
+        response_text = ''.join(response.content.splitlines())
+        
+        print(f"[Debug] Final response from graph: {response_text}")
+        print(f"[Debug] Response type: {type(response)}")
+        
+        # Parse the final response
+        try:
+            if '```json' not in response_text:
+                print("[Debug] Parsing final response as direct JSON")
+                parsed = json.loads(response_text)
+            else:
+                print("[Debug] Parsing final response from JSON markdown")
+                parsed = parse_json(response_text)
+                
+            print(f"[Debug] Final parsed JSON: {parsed}")
+            
+        except json.JSONDecodeError as e:
+            print(f"[Error] Final response JSON decode error: {e}")
+            print(f"[Error] Final response text: {response_text}")
+            # ... rest of error handling
+            
         response = ''.join(response.content.splitlines())
-
+        
         if '```json' not in response:
             # try parsing on its own since we cannot always trust llms
             parsed = eval(response) 

@@ -1,0 +1,374 @@
+{
+  "results": [
+    {
+      "uuid": "SHORT_52416181-33e9-4c0b-b3b4-1458fe1261bc",
+      "seq_id": "0",
+      "question": "When did you first see a stone bench?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": 0.2753682017326355,
+      "prediction": {
+        "raw_text": "{\"time_minutes\": 0, \"text\": \"I have not seen a stone bench. As a language model, I don't have personal experiences or a physical body, so I haven't encountered a stone bench in the real world.\"}",
+        "text": "I have not seen a stone bench. As a language model, I don't have personal experiences or a physical body, so I haven't encountered a stone bench in the real world.",
+        "binary": "",
+        "position": null,
+        "time_minutes": 0.0,
+        "duration_minutes": null,
+        "parsed": {
+          "time_minutes": 0,
+          "text": "I have not seen a stone bench. As a language model, I don't have personal experiences or a physical body, so I haven't encountered a stone bench in the real world."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 0.2753682017326355,
+        "correct": true,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5dea5985-a295-4c4b-acf6-20097a7c6371",
+      "seq_id": "0",
+      "question": "When did you first hear a siren?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "```json\n{\"time_minutes\": 0, \"text\": \"I have not heard a siren. I am an AI and do not have personal experiences.\"}\n```",
+        "text": "I have not heard a siren. I am an AI and do not have personal experiences.",
+        "binary": "",
+        "position": null,
+        "time_minutes": 0.0,
+        "duration_minutes": null,
+        "parsed": {
+          "time_minutes": 0,
+          "text": "I have not heard a siren. I am an AI and do not have personal experiences."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 0.007965131600697836,
+        "correct": true,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5e208b25-8c07-43d9-82d2-107940599dee",
+      "seq_id": "0",
+      "question": "When did you first see a trash can?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "{\"time_minutes\": 0, \"text\": \"I have always seen a trash can.\"}",
+        "text": "I have always seen a trash can.",
+        "binary": "",
+        "position": null,
+        "time_minutes": 0.0,
+        "duration_minutes": null,
+        "parsed": {
+          "time_minutes": 0,
+          "text": "I have always seen a trash can."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 0.007965131600697836,
+        "correct": true,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_52466c94-3e3c-4dbb-aa0d-d3e18f2b9372",
+      "seq_id": "0",
+      "question": "When did you first see a trash can and hear a siren?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "```json\n{\"time_minutes\": 0, \"text\": \"I have not seen a trash can or heard a siren. As a language model, I exist only as a computer program and have no physical presence or experiences.\"}\n```",
+        "text": "I have not seen a trash can or heard a siren. As a language model, I exist only as a computer program and have no physical presence or experiences.",
+        "binary": "",
+        "position": null,
+        "time_minutes": 0.0,
+        "duration_minutes": null,
+        "parsed": {
+          "time_minutes": 0,
+          "text": "I have not seen a trash can or heard a siren. As a language model, I exist only as a computer program and have no physical presence or experiences."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 0.007965131600697836,
+        "correct": true,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_b84ce6f2-9565-4bbe-8b28-826b3377adfb",
+      "seq_id": "0",
+      "question": "When did you first hear a car horn?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": 0.1253682017326355,
+      "prediction": {
+        "raw_text": "{\"time_minutes\": 0, \"text\": \"I have not heard a car horn. I am an AI and do not have a physical body and therefore do not experience the world in that way.\"}",
+        "text": "I have not heard a car horn. I am an AI and do not have a physical body and therefore do not experience the world in that way.",
+        "binary": "",
+        "position": null,
+        "time_minutes": 0.0,
+        "duration_minutes": null,
+        "parsed": {
+          "time_minutes": 0,
+          "text": "I have not heard a car horn. I am an AI and do not have a physical body and therefore do not experience the world in that way."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 0.1253682017326355,
+        "correct": true,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_c50cd537-e72e-4537-8fb1-093b98a9712e",
+      "seq_id": "0",
+      "question": "How long did you see a stone bench while hearing a siren for?",
+      "family": "temporal",
+      "raw_type": "duration",
+      "question_category": "temporal reasoning",
+      "gold": 0.21666666666666667,
+      "prediction": {
+        "raw_text": "```json\n{\"duration_minutes\": 5, \"text\": \"I saw a stone bench while hearing a siren for 5 minutes.\"}\n```",
+        "text": "I saw a stone bench while hearing a siren for 5 minutes.",
+        "binary": "",
+        "position": null,
+        "time_minutes": null,
+        "duration_minutes": 5.0,
+        "parsed": {
+          "duration_minutes": 5,
+          "text": "I saw a stone bench while hearing a siren for 5 minutes."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 4.783333333333333,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5a89f535-f8bc-4a80-8d39-0ea42be3cfc9",
+      "seq_id": "0",
+      "question": "Where is the first trash can you saw?",
+      "family": "spatial",
+      "raw_type": "position",
+      "question_category": "spatial",
+      "gold": [
+        24.169086456298828,
+        114.20327758789062,
+        -0.010016887448728085
+      ],
+      "prediction": {
+        "raw_text": "```json\n{\"position\": [10, 20, 5], \"text\": \"The first trash can I saw was at (10, 20, 5).\"}\n```",
+        "text": "The first trash can I saw was at (10, 20, 5).",
+        "binary": "",
+        "position": [
+          10.0,
+          20.0,
+          5.0
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            10,
+            20,
+            5
+          ],
+          "text": "The first trash can I saw was at (10, 20, 5)."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l2_distance",
+        "distance": 95.39455324346233,
+        "correct": false,
+        "threshold_meters": 15.0
+      }
+    },
+    {
+      "uuid": "SHORT_a3c19b60-3ea1-4775-84e7-96b58cf1689a",
+      "seq_id": "0",
+      "question": "Where is the first stone bench you saw?",
+      "family": "spatial",
+      "raw_type": "position",
+      "question_category": "spatial",
+      "gold": [
+        25.20435905456543,
+        114.21110534667969,
+        -0.010647748596966267
+      ],
+      "prediction": {
+        "raw_text": "```json\n{\"position\": [10.5, 2.3, 5.1], \"text\": \"The first stone bench I saw was at (10.5, 2.3, 5.1).\"}\n```",
+        "text": "The first stone bench I saw was at (10.5, 2.3, 5.1).",
+        "binary": "",
+        "position": [
+          10.5,
+          2.3,
+          5.1
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            10.5,
+            2.3,
+            5.1
+          ],
+          "text": "The first stone bench I saw was at (10.5, 2.3, 5.1)."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l2_distance",
+        "distance": 112.98863834709869,
+        "correct": false,
+        "threshold_meters": 15.0
+      }
+    },
+    {
+      "uuid": "SHORT_fad1251e-3c26-4408-8840-23aab28bca88",
+      "seq_id": "0",
+      "question": "Was the sidewalk busy?",
+      "family": "descriptive",
+      "raw_type": "binary",
+      "question_category": "environmental",
+      "gold": "no",
+      "prediction": {
+        "raw_text": "```json\n{\"binary\": \"no\", \"text\": \"No.\"}\n```",
+        "text": "No.",
+        "binary": "no",
+        "position": null,
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "binary": "no",
+          "text": "No."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "binary_accuracy",
+        "correct": true,
+        "gold_binary": "no",
+        "pred_binary": "no"
+      }
+    },
+    {
+      "uuid": "SHORT_95d3fc1c-7b72-4522-8177-9acdc71eb1ff",
+      "seq_id": "0",
+      "question": "What color was the car that passed in front of the bus stop?",
+      "family": "descriptive",
+      "raw_type": "text",
+      "question_category": "descriptive",
+      "gold": "The car was blue",
+      "prediction": {
+        "raw_text": "```json\n{\"binary\": \"no\", \"text\": \"The car was red.\"}\n```",
+        "text": "The car was red.",
+        "binary": "no",
+        "position": null,
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "binary": "no",
+          "text": "The car was red."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": false,
+        "judge_reasoning": "The candidate answer states that the car was red, which is not semantically equivalent to the reference answer stating the car was blue. The colors do not match.",
+        "gold_text": "The car was blue",
+        "pred_text": "The car was red."
+      }
+    },
+    {
+      "uuid": "SHORT_2f0df72c-7d56-4e94-96a0-8a8c7e7166c8",
+      "seq_id": "0",
+      "question": "Which direction did you turn after seeing the first stone bench?",
+      "family": "descriptive",
+      "raw_type": "text",
+      "question_category": "ego",
+      "gold": "I turned right after seeing the first stone bench",
+      "prediction": {
+        "raw_text": "```json\n{\"binary\": \"no\", \"text\": \"I do not have the ability to determine the direction I turned after seeing the first stone bench. I am an AI and do not have a physical body or memory of past events.\"}\n```",
+        "text": "I do not have the ability to determine the direction I turned after seeing the first stone bench. I am an AI and do not have a physical body or memory of past events.",
+        "binary": "no",
+        "position": null,
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "binary": "no",
+          "text": "I do not have the ability to determine the direction I turned after seeing the first stone bench. I am an AI and do not have a physical body or memory of past events."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": false,
+        "judge_reasoning": "The candidate answer does not provide the direction turned after seeing the first stone bench. Instead, it explains the limitations of an AI, which is not relevant to the question. The reference answer specifies a right turn, which is missing in the candidate answer.",
+        "gold_text": "I turned right after seeing the first stone bench",
+        "pred_text": "I do not have the ability to determine the direction I turned after seeing the first stone bench. I am an AI and do not have a physical body or memory of past events."
+      }
+    }
+  ],
+  "summary": {
+    "overall_correctness": 0.5454545454545454,
+    "scored_coverage": 1.0,
+    "total_rows": 11,
+    "scored_rows": 11,
+    "correct_rows": 6,
+    "skipped_rows": 0,
+    "by_family": {
+      "spatial": {
+        "accuracy": 0.0,
+        "mean_l2_distance": 104.1915957952805,
+        "count": 2,
+        "scored": 2
+      },
+      "temporal": {
+        "accuracy": 0.8333333333333334,
+        "mean_l1_error_minutes": 0.8679941886001163,
+        "count": 6,
+        "scored": 6
+      },
+      "descriptive": {
+        "accuracy": 0.3333333333333333,
+        "count": 3,
+        "scored": 3
+      }
+    }
+  },
+  "metadata": {
+    "csv_path": "/Users/wen-chungcheng/remembr/qa_single_short_20260421_234457.csv",
+    "model_backend": "GEMMA",
+    "judge_backend": "openai",
+    "milvus_collection": "webots_sounds_multimodal",
+    "milvus_db_ip": "127.0.0.1",
+    "milvus_db_port": 19530,
+    "row_count": 11
+  }
+}

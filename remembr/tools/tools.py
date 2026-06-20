@@ -8,17 +8,28 @@ import time, datetime
 from typing import Any, Iterable, List, Optional, Tuple, Union
 from langchain_core.documents import Document
 
+def _coerce_time(raw_t, ref_time=None):
+    """Normalise the `time` field across the old (fp32 FLOAT_VECTOR, dim=2)
+    and new (fp64 DOUBLE scalar) schemas.
+
+    Old schema stored ``[t - FIXED_SUBTRACT, 0.0]``; if `ref_time` (the
+    offset) is supplied and the value is small, we add it back. New schema
+    stores a raw unix timestamp (fp64) — returned verbatim.
+    """
+    if isinstance(raw_t, (list, tuple)):
+        t = float(raw_t[0]) if raw_t else 0.0
+        if t < 1_000_000_000 and ref_time:
+            t += ref_time
+    else:
+        t = float(raw_t)
+    return t
+
+
 ### Doc formatting for the last LLM
 def format_document(docs, ref_time=None):
     out_string = ""
     for doc in docs:
-        if len(doc.metadata['time']) == 2:
-            t = doc.metadata['time'][0]
-        else:
-            t = doc.metadata['time']
-        
-        if ref_time:
-            t += ref_time
+        t = _coerce_time(doc.metadata['time'], ref_time=ref_time)
         t = localtime(t)
         t = strftime('%Y-%m-%d %H:%M:%S', t)
 
@@ -30,11 +41,7 @@ def format_document(docs, ref_time=None):
 def format_docs(docs):
     out_string = ""
     for doc in docs:
-        if len(doc['time']) == 2:
-            t = doc['time'][0]
-        else:
-            t = doc['time']
-
+        t = _coerce_time(doc['time'])
         t = localtime(t)
         t = strftime('%Y-%m-%d %H:%M:%S', t)
 

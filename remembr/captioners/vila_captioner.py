@@ -134,4 +134,3 @@ class VILACaptioner(Captioner):
         # print(outputs)
 
         return outputs
-

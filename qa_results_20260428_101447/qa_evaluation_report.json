@@ -1,0 +1,434 @@
+{
+  "results": [
+    {
+      "uuid": "SHORT_52416181-33e9-4c0b-b3b4-1458fe1261bc",
+      "seq_id": "0",
+      "question": "When did you first see a stone bench?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": 0.2753682017326355,
+      "prediction": {
+        "raw_text": "I have multiple memories of seeing a bench, all appearing to be a dark gray, rectangular bench with sturdy, rectangular supports. The setting is consistently a gray, textured surface likely concrete or pavement, and in the background, there's a blurred view of a multi-story building with a muted color palette. The audio in all memories includes an emergency siren.",
+        "text": "I have multiple memories of seeing a bench, all appearing to be a dark gray, rectangular bench with sturdy, rectangular supports. The setting is consistently a gray, textured surface likely concrete or pavement, and in the background, there's a blurred view of a multi-story building with a muted color palette. The audio in all memories includes an emergency siren.",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "I have multiple memories of seeing a bench, all appearing to be a dark gray, rectangular bench with sturdy, rectangular supports. The setting is consistently a gray, textured surface likely concrete or pavement, and in the background, there's a blurred view of a multi-story building with a muted color palette. The audio in all memories includes an emergency siren."
+        }
+      },
+      "evaluation": {
+        "scored": false,
+        "reason": "Missing temporal gold or prediction."
+      }
+    },
+    {
+      "uuid": "SHORT_5dea5985-a295-4c4b-acf6-20097a7c6371",
+      "seq_id": "0",
+      "question": "When did you first hear a siren?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "I first heard the siren at time 1776757716.7s. The audio indicates the siren is moving further, and the visual information suggests a street scene with a dark gray bench and a gray, textured surface. This aligns with the general context of the memory.",
+        "text": "I first heard the siren at time 1776757716.7s. The audio indicates the siren is moving further, and the visual information suggests a street scene with a dark gray bench and a gray, textured surface. This aligns with the general context of the memory.",
+        "binary": "",
+        "position": [
+          25.2,
+          114.21
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            25.2,
+            114.21
+          ],
+          "heading": 0.32,
+          "text": "I first heard the siren at time 1776757716.7s. The audio indicates the siren is moving further, and the visual information suggests a street scene with a dark gray bench and a gray, textured surface. This aligns with the general context of the memory."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 1776757716.7079651,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5e208b25-8c07-43d9-82d2-107940599dee",
+      "seq_id": "0",
+      "question": "When did you first see a trash can?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "Based on the provided memory context, the most recent observation involving a trash can is at position (42.81, 123.31). It's a wide, open outdoor space with two dark gray trash bins in the foreground, suggesting a public area or plaza. The audio of a siren passing by also indicates a recent event.",
+        "text": "Based on the provided memory context, the most recent observation involving a trash can is at position (42.81, 123.31). It's a wide, open outdoor space with two dark gray trash bins in the foreground, suggesting a public area or plaza. The audio of a siren passing by also indicates a recent event.",
+        "binary": "",
+        "position": [
+          42.81,
+          123.31
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            42.81,
+            123.31
+          ],
+          "heading": 1.6423872709274292,
+          "text": "Based on the provided memory context, the most recent observation involving a trash can is at position (42.81, 123.31). It's a wide, open outdoor space with two dark gray trash bins in the foreground, suggesting a public area or plaza. The audio of a siren passing by also indicates a recent event."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 42.8179651316007,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_52466c94-3e3c-4dbb-aa0d-d3e18f2b9372",
+      "seq_id": "0",
+      "question": "When did you first see a trash can and hear a siren?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": -0.007965131600697836,
+      "prediction": {
+        "raw_text": "I first encountered a trash can and heard a siren at position [24.61, 117.65]. The audio indicates the siren is moving away, and the visual confirms the presence of a green trash can in that location.",
+        "text": "I first encountered a trash can and heard a siren at position [24.61, 117.65]. The audio indicates the siren is moving away, and the visual confirms the presence of a green trash can in that location.",
+        "binary": "",
+        "position": [
+          24.61,
+          117.65
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.61,
+            117.65
+          ],
+          "heading": 1.3355271816253662,
+          "text": "I first encountered a trash can and heard a siren at position [24.61, 117.65]. The audio indicates the siren is moving away, and the visual confirms the presence of a green trash can in that location."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 24.617965131600698,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_b84ce6f2-9565-4bbe-8b28-826b3377adfb",
+      "seq_id": "0",
+      "question": "When did you first hear a car horn?",
+      "family": "temporal",
+      "raw_type": "time",
+      "question_category": "temporal",
+      "gold": 0.1253682017326355,
+      "prediction": {
+        "raw_text": "I first heard a car horn at time 1776757718.7s. The audio indicates an emergency siren is triggered and moving further, and the visual description mentions a dark gray, rectangular object with two vertical supports in the foreground, which could be a barrier or a decorative element. This suggests a potentially urgent situation, and the audio confirms the presence of an emergency vehicle.",
+        "text": "I first heard a car horn at time 1776757718.7s. The audio indicates an emergency siren is triggered and moving further, and the visual description mentions a dark gray, rectangular object with two vertical supports in the foreground, which could be a barrier or a decorative element. This suggests a potentially urgent situation, and the audio confirms the presence of an emergency vehicle.",
+        "binary": "",
+        "position": [
+          25.2,
+          115.01
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            25.2,
+            115.01
+          ],
+          "heading": -0.1,
+          "text": "I first heard a car horn at time 1776757718.7s. The audio indicates an emergency siren is triggered and moving further, and the visual description mentions a dark gray, rectangular object with two vertical supports in the foreground, which could be a barrier or a decorative element. This suggests a potentially urgent situation, and the audio confirms the presence of an emergency vehicle."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 1776757718.574632,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_c50cd537-e72e-4537-8fb1-093b98a9712e",
+      "seq_id": "0",
+      "question": "How long did you see a stone bench while hearing a siren for?",
+      "family": "temporal",
+      "raw_type": "duration",
+      "question_category": "temporal reasoning",
+      "gold": 0.21666666666666667,
+      "prediction": {
+        "raw_text": "Based on the provided memory context, I observed a stone bench while hearing a siren for a duration of 6 seconds. The most recent observation, at time 1776757726.9s, indicates the position is [24.43, 118.32] with a facing direction of -0.26 rad. This position aligns with the most recent visual and audio information indicating the presence of a bench and an active emergency siren.",
+        "text": "Based on the provided memory context, I observed a stone bench while hearing a siren for a duration of 6 seconds. The most recent observation, at time 1776757726.9s, indicates the position is [24.43, 118.32] with a facing direction of -0.26 rad. This position aligns with the most recent visual and audio information indicating the presence of a bench and an active emergency siren.",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "Based on the provided memory context, I observed a stone bench while hearing a siren for a duration of 6 seconds. The most recent observation, at time 1776757726.9s, indicates the position is [24.43, 118.32] with a facing direction of -0.26 rad. This position aligns with the most recent visual and audio information indicating the presence of a bench and an active emergency siren."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l1_temporal_error_minutes",
+        "error_minutes": 5.783333333333333,
+        "correct": false,
+        "threshold_minutes": 2.0
+      }
+    },
+    {
+      "uuid": "SHORT_5a89f535-f8bc-4a80-8d39-0ea42be3cfc9",
+      "seq_id": "0",
+      "question": "Where is the first trash can you saw?",
+      "family": "spatial",
+      "raw_type": "position",
+      "question_category": "spatial",
+      "gold": [
+        24.169086456298828,
+        114.20327758789062,
+        -0.010016887448728085
+      ],
+      "prediction": {
+        "raw_text": "The first trash can I saw was at position [35.72, 124.91].",
+        "text": "The first trash can I saw was at position [35.72, 124.91].",
+        "binary": "",
+        "position": [
+          35.72,
+          124.91
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            35.72,
+            124.91
+          ],
+          "heading": 1.597039818763733,
+          "text": "The first trash can I saw was at position [35.72, 124.91]."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l2_distance",
+        "distance": 15.7498447243793,
+        "correct": false,
+        "threshold_meters": 15.0
+      }
+    },
+    {
+      "uuid": "SHORT_a3c19b60-3ea1-4775-84e7-96b58cf1689a",
+      "seq_id": "0",
+      "question": "Where is the first stone bench you saw?",
+      "family": "spatial",
+      "raw_type": "position",
+      "question_category": "spatial",
+      "gold": [
+        25.20435905456543,
+        114.21110534667969,
+        -0.010647748596966267
+      ],
+      "prediction": {
+        "raw_text": "The first stone bench I saw was at position [24.43, 118.32].",
+        "text": "The first stone bench I saw was at position [24.43, 118.32].",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "The first stone bench I saw was at position [24.43, 118.32]."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "l2_distance",
+        "distance": 4.181239121602811,
+        "correct": true,
+        "threshold_meters": 15.0
+      }
+    },
+    {
+      "uuid": "SHORT_fad1251e-3c26-4408-8840-23aab28bca88",
+      "seq_id": "0",
+      "question": "Was the sidewalk busy?",
+      "family": "descriptive",
+      "raw_type": "binary",
+      "question_category": "environmental",
+      "gold": "no",
+      "prediction": {
+        "raw_text": "The audio indicates emergency vehicle sirens are present, suggesting a potentially busy environment. Based on the visual information, the most recent location (42.81, 123.31) appears to be a wide, open public area with a large expanse of gray, textured ground and bollards. While the memory doesn't explicitly state the sidewalk's busyness, the presence of emergency vehicle sirens implies a higher level of activity in the area. Therefore, I will prioritize the most recent location.",
+        "text": "The audio indicates emergency vehicle sirens are present, suggesting a potentially busy environment. Based on the visual information, the most recent location (42.81, 123.31) appears to be a wide, open public area with a large expanse of gray, textured ground and bollards. While the memory doesn't explicitly state the sidewalk's busyness, the presence of emergency vehicle sirens implies a higher level of activity in the area. Therefore, I will prioritize the most recent location.",
+        "binary": "",
+        "position": [
+          42.81,
+          123.31
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            42.81,
+            123.31
+          ],
+          "heading": 1.54,
+          "text": "The audio indicates emergency vehicle sirens are present, suggesting a potentially busy environment. Based on the visual information, the most recent location (42.81, 123.31) appears to be a wide, open public area with a large expanse of gray, textured ground and bollards. While the memory doesn't explicitly state the sidewalk's busyness, the presence of emergency vehicle sirens implies a higher level of activity in the area. Therefore, I will prioritize the most recent location."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": false,
+        "judge_reasoning": "The reference answer clearly states that the sidewalk was not busy. The candidate answer, however, suggests that the presence of emergency vehicle sirens implies a higher level of activity, which contradicts the reference answer. Therefore, the candidate answer is not semantically equivalent to the reference answer.",
+        "gold_text": "no",
+        "pred_text": "The audio indicates emergency vehicle sirens are present, suggesting a potentially busy environment. Based on the visual information, the most recent location (42.81, 123.31) appears to be a wide, open public area with a large expanse of gray, textured ground and bollards. While the memory doesn't explicitly state the sidewalk's busyness, the presence of emergency vehicle sirens implies a higher level of activity in the area. Therefore, I will prioritize the most recent location."
+      }
+    },
+    {
+      "uuid": "SHORT_95d3fc1c-7b72-4522-8177-9acdc71eb1ff",
+      "seq_id": "0",
+      "question": "What color was the car that passed in front of the bus stop?",
+      "family": "descriptive",
+      "raw_type": "text",
+      "question_category": "descriptive",
+      "gold": "The car was blue",
+      "prediction": {
+        "raw_text": "The user is asking about the color of a car that passed in front of the bus stop. Based on the provided memory context, the most recent and relevant information is that a blue car was parked under a green car port at position [27.05, 120.13]. Since the user is asking about a car that *passed*, and the provided information mentions a blue car, I will use that information.",
+        "text": "The user is asking about the color of a car that passed in front of the bus stop. Based on the provided memory context, the most recent and relevant information is that a blue car was parked under a green car port at position [27.05, 120.13]. Since the user is asking about a car that *passed*, and the provided information mentions a blue car, I will use that information.",
+        "binary": "",
+        "position": [
+          27.05,
+          120.13
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            27.05,
+            120.13
+          ],
+          "heading": 0.5895138382911682,
+          "text": "The user is asking about the color of a car that passed in front of the bus stop. Based on the provided memory context, the most recent and relevant information is that a blue car was parked under a green car port at position [27.05, 120.13]. Since the user is asking about a car that *passed*, and the provided information mentions a blue car, I will use that information."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": true,
+        "judge_reasoning": "The candidate answer ultimately identifies the car as blue, which matches the reference answer. Despite additional context and reasoning provided, the core information about the car's color is consistent with the reference answer.",
+        "gold_text": "The car was blue",
+        "pred_text": "The user is asking about the color of a car that passed in front of the bus stop. Based on the provided memory context, the most recent and relevant information is that a blue car was parked under a green car port at position [27.05, 120.13]. Since the user is asking about a car that *passed*, and the provided information mentions a blue car, I will use that information."
+      }
+    },
+    {
+      "uuid": "SHORT_2f0df72c-7d56-4e94-96a0-8a8c7e7166c8",
+      "seq_id": "0",
+      "question": "Which direction did you turn after seeing the first stone bench?",
+      "family": "descriptive",
+      "raw_type": "text",
+      "question_category": "ego",
+      "gold": "I turned right after seeing the first stone bench",
+      "prediction": {
+        "raw_text": "Based on the provided memory, the emergency siren is moving away from the initial location (24.43, 118.32). The last recorded position is (24.43, 118.32) with a heading of -0.26 rad. Therefore, I have not turned. I am still at the initial location.",
+        "text": "Based on the provided memory, the emergency siren is moving away from the initial location (24.43, 118.32). The last recorded position is (24.43, 118.32) with a heading of -0.26 rad. Therefore, I have not turned. I am still at the initial location.",
+        "binary": "",
+        "position": [
+          24.43,
+          118.32
+        ],
+        "time_minutes": null,
+        "duration_minutes": null,
+        "parsed": {
+          "position": [
+            24.43,
+            118.32
+          ],
+          "heading": -0.26,
+          "text": "Based on the provided memory, the emergency siren is moving away from the initial location (24.43, 118.32). The last recorded position is (24.43, 118.32) with a heading of -0.26 rad. Therefore, I have not turned. I am still at the initial location."
+        }
+      },
+      "evaluation": {
+        "scored": true,
+        "metric": "llm_judged_text_accuracy",
+        "correct": false,
+        "judge_reasoning": "The candidate answer does not address the question about the direction turned after seeing the first stone bench. Instead, it provides unrelated information about an emergency siren and a location, which is not relevant to the question asked.",
+        "gold_text": "I turned right after seeing the first stone bench",
+        "pred_text": "Based on the provided memory, the emergency siren is moving away from the initial location (24.43, 118.32). The last recorded position is (24.43, 118.32) with a heading of -0.26 rad. Therefore, I have not turned. I am still at the initial location."
+      }
+    }
+  ],
+  "summary": {
+    "overall_correctness": 0.2,
+    "scored_coverage": 0.9090909090909091,
+    "total_rows": 11,
+    "scored_rows": 10,
+    "correct_rows": 2,
+    "skipped_rows": 1,
+    "by_family": {
+      "spatial": {
+        "accuracy": 0.5,
+        "mean_l2_distance": 9.965541922991054,
+        "count": 2,
+        "scored": 2
+      },
+      "temporal": {
+        "accuracy": 0.0,
+        "mean_l1_error_minutes": 710703101.7003721,
+        "count": 6,
+        "scored": 5
+      },
+      "descriptive": {
+        "accuracy": 0.3333333333333333,
+        "count": 3,
+        "scored": 3
+      }
+    }
+  },
+  "metadata": {
+    "csv_path": "/Users/wen-chungcheng/remembr/qa_single_short_20260421_234457.csv",
+    "model_backend": "GEMMA",
+    "answer_backend": "ServiceAnswerBackend",
+    "judge_backend": "openai",
+    "milvus_collection": "webots_sounds_multimodal",
+    "milvus_db_ip": "127.0.0.1",
+    "milvus_db_port": 19530,
+    "row_count": 11
+  }
+}

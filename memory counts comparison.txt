@@ -1,0 +1,4 @@
+'VLM: Phi3, ALM: ACT': 2384
+'VLM: Phi3, ALM: PANN-CNN14': 2434
+'VLM: Gemma 3n, ALM: ACT': 3116
+'VLM: Gemma 3n, ALM: PANN-CNN14': 2091

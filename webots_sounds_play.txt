@@ -1,0 +1,1549 @@
+    1  docker build -t jira-clone .
+    2  open http://localhost:3001
+    3  docker build -t jira-clone .
+    4  docker build -t jira-clone .
+    5  docker build -t jira-clone .
+    6  docker build -t jira-clone .
+    7  docker build -t jira-clone .
+    8  docker build -t jira-clone .
+    9  docker build -t jira-clone .
+   10  docker build -t jira-clone .
+   11  docker build -t jira-clone .
+   12  docker build -t jira-clone .
+   13  docker build -t jira-clone .
+   14  docker build -t jira-clone .
+   15  docker build -t jira-clone .
+   16  docker build -t jira-clone .
+   17  docker build -t jira-clone .
+   18  docker build -t jira-clone .
+   19  docker build -t jira-clone .
+   20  docker build -t jira-clone .
+   21  cd /Users/wen-chungcheng/Downloads/723bf2a3-f1b4-454c-b48d-0bfdfe60745c_4ac053f3-2a18-45f7-8e1d-03e1e0f127e9_e7cb6839-23b0-49f4-822d-6fa57c913d1d && npm run build
+   22  cd /Users/wen-chungcheng/Downloads/723bf2a3-f1b4-454c-b48d-0bfdfe60745c_4ac053f3-2a18-45f7-8e1d-03e1e0f127e9_e7cb6839-23b0-49f4-822d-6fa57c913d1d && npm run dev
+   23  cd /Users/wen-chungcheng/Downloads/723bf2a3-f1b4-454c-b48d-0bfdfe60745c_4ac053f3-2a18-45f7-8e1d-03e1e0f127e9_e7cb6839-23b0-49f4-822d-6fa57c913d1d && npm run dev
+   24  npm run dev
+   25  mkdir -p public/project/avatar
+   26  npm run dev
+   27  docker build -t jira-clone .
+   28  docker build -t jira-clone .
+   29  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-2051YqBginYzpsEz.txt"
+   30  cd Downloads/723bf2a3-f1b4-454c-b48d-0bfdfe60745c_4ac053f3-2a18-45f7-8e1d-03e1e0f127e9_e7cb6839-23b0-49f4-822d-6fa57c913d1d
+   31  ls -al
+   32  docker build -t jira-clone .
+   33  docker build -t jira-clone .
+   34  docker run -p 3000:3000 jira-clone
+   35  docker build -t jira-clone .
+   36  docker build -t jira-clone .
+   37  docker run -p 3000:3000 jira-clone
+   38  docker build -t jira-clone .
+   39  docker build -t jira-clone .
+   40  docker build -t jira-clone .
+   41  docker build -t jira-clone .
+   42  docker build -t jira-clone .
+   43  docker run -p 3000:3000 jira-clone
+   44  docker run -p 3000:3000 jira-clone
+   45  docker run -p 3000:3000 jira-clone
+   46  docker run -p 3000:3000 jira-clone
+   47  docker run -p 3000:3000 jira-clone
+   48  docker run -p 3000:3000 jira-clone
+   49  docker run -p 3000:3000 jira-clone
+   50  docker run -p 3000:3000 jira-clone
+   51  docker run -p 3000:3000 jira-clone
+   52  docker run -p 3000:3000 jira-clone
+   53  docker run -p 3000:3000 jira-clone
+   54  docker run -p 3000:3000 jira-clone
+   55  docker run -p 3000:3000 jira-clone
+   56  docker run -p 3000:3000 jira-clone
+   57  docker run -p 3000:3000 jira-clone
+   58  docker run -p 3000:3000 jira-clone
+   59  docker run -p 3000:3000 jira-clone
+   60  docker run -p 3000:3000 jira-clone
+   61  docker run -p 3000:3000 jira-clone
+   62  docker run -p 3000:3000 jira-clone
+   63  docker run -p 3000:3000 jira-clone
+   64  docker run -p 3000:3000 jira-clone/
+   65  conda activate Mintable-scripts
+   66  mintable fetch
+   67  mintable fetch
+   68  mintable fetch
+   69  mintable fetch
+   70  mintable fetch
+   71  conda activate Mintable-scripts
+   72  python update_xlsx.py
+   73  python update_xlsx.py
+   74  python update_xlsx.py
+   75  python update_xlsx.py
+   76  python update_xlsx.py
+   77  python update_xlsx.py
+   78  python update_xlsx.py
+   79  python update_xlsx.py
+   80  python update_xlsx.py
+   81  python update_xlsx.py
+   82  python update_xlsx.py
+   83  python update_xlsx.py
+   84  python update_xlsx.py
+   85  python update_xlsx.py
+   86  python update_xlsx.py
+   87  mkdir -p ~/Documents/Cline/MCP
+   88  cd ~/Documents/Cline/MCP && git clone https://github.com/pashpashpash/perplexity-mcp.git
+   89  cd "/Users/wen-chungcheng/Downloads/nextjs_example"
+   90  cd ~/Documents/Cline/MCP/perplexity-mcp && npm install
+   91  cd "/Users/wen-chungcheng/Downloads/nextjs_example"
+   92  mkdir -p /Users/wen-chungcheng/Documents/Cline/MCP/context7-mcp
+   93  cd /Users/wen-chungcheng/Documents/Cline/MCP && git clone https://github.com/upstash/context7-mcp.git
+   94  cd "/Users/wen-chungcheng/Downloads/nextjs_example"
+   95  cd /Users/wen-chungcheng/Documents/Cline/MCP/context7-mcp && npm install
+   96  cd "/Users/wen-chungcheng/Downloads/nextjs_example"
+   97  cd /Users/wen-chungcheng/Documents/Cline/MCP/context7-mcp && npm run build
+   98  cd "/Users/wen-chungcheng/Downloads/nextjs_example"
+   99  mkdir -p /Users/wen-chungcheng/Documents/Cline/MCP/sequential-thinking
+  100  cd /Users/wen-chungcheng/Documents/Cline/MCP/sequential-thinking && npx -y @modelcontextprotocol/server-sequential-thinking --help
+  101  cd "/Users/wen-chungcheng/Downloads/nextjs_example"
+  102  mkdir -p /Users/wen-chungcheng/Documents/Cline/MCP
+  103  npm install -g @executeautomation/playwright-mcp-server
+  104  pkill -f "server-sequential-thinking"
+  105  mkdir -p /Users/wen-chungcheng/Documents/Cline/MCP
+  106  cd /Users/wen-chungcheng/Documents/Cline/MCP && npx -y @modelcontextprotocol/server-filesystem --help
+  107  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-66530wztPmVM5e0RM.txt"
+  108  conda activate assad
+  109  conda info --envs 
+  110  conda activate Webots-Sim
+  111  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/sound_receiver_controller/sound_monitor_dashboard_working.py'
+  112  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/sound_receiver_controller/sound_monitor_dashboard.py'
+  113  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/sound_receiver_controller/realtime_audio_captioning.py'
+  114  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/sound_receiver_controller/sound_monitor_dashboard.py'
+  115  history > sound_monitor_dashboard_usage.txt
+  116  conda activate webots-sim-0
+  117  conda activate Webots-Sim
+  118  python python quick_inference.py '/Users/wen-chungcheng/Downloads/random-female-voice-speaking-random-things-67643.mp3' --beam_size 2
+  119  python quick_inference.py '/Users/wen-chungcheng/Downloads/random-female-voice-speaking-random-things-67643.mp3' --beam_size 2
+  120  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  121  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  122  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  123  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  124  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  125  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  126  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  127  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  128  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 2
+  129  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 2
+  130  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 1
+  131  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 3
+  132  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 4
+  133  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 5
+  134  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 6
+  135  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/402861__jacksonacademyashmore__gurgled-scream.wav' --beam_size 2
+  136  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/66949__robinhood76__00733-girl-folk-scream-3.wav' --beam_size 2
+  137  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/759456__akridiy__a-single-scream-of-a-young-male.wav' --beam_size 2
+  138  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  139  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  140  history > realtime_audio_captioning_usage.txt
+  141  conda activate Webots-Sim
+  142  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  143  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  144  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  145  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  146  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  147  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  148  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  149  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  150  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  151  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX_langchain_langgraph.py'
+  152  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX_langchain_langgraph.py'
+  153  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX_langchain_langgraph.py'
+  154  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX_langchain_langgraph.py'
+  155  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  156  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  157  python '/Users/wen-chungcheng/remembr/memory_build_Phi_3_Vision_MLX.py'
+  158  history > vision_memory_builder.txt
+  159  conda activate Webots-Sim
+  160  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  161  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  162  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  163  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  164  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  165  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  166  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  167  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/remembr_navigation_service.py'
+  168  history > remembr_navigation_service_usage.txt
+  169  conda activate Webots-Sim
+  170  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/nav_client.py'
+  171  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/nav_client.py'
+  172  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/nav_client.py'
+  173  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/nav_client.py'
+  174  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/nav_client.py'
+  175  python '/Users/wen-chungcheng/Documents/Webots Sims/webots-sim-0/controllers/remembr_controller/nav_client.py'
+  176  history > nav_client_usage.txt
+  177  conda activate Webots-Sim
+  178  chmod +x launch_multimodal_memory.sh
+  179  ./launch_multimodal_memory.sh --collection webots_sounds_test
+  180  ./launch_multimodal_memory.sh --collection webots_sounds_test
+  181  ./launch_multimodal_memory.sh --collection webots_sounds_test
+  182  ./launch_multimodal_memory.sh --collection webots_sounds_test
+  183  ./launch_multimodal_memory.sh --collection webots_sounds_test
+  184  ./launch_multimodal_memory.sh --collection webots_sounds_test
+  185  ./launch_multimodal_memory.sh --collection webots_sounds_test
+  186  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal
+  187  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal
+  188  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal
+  189  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal
+  190  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal
+  191  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal
+  192  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal --reset
+  193  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal --reset
+  194  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal --reset
+  195  ./launch_multimodal_memory.sh --collection webots_sounds_multimodal --reset
+  196  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  197  chmod +x launch_multimodal_memory_working.sh
+  198  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  199  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  200  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  201  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  202  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  203  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  204  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  205  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  206  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  207  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  208  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  209  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  210  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  211  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  212  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  213  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  214  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  215  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  216  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  217  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  218  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  219  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  220  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  221  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  222  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  223  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  224  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  225  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  226  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  227  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  228  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  229  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  230  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  231  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  232  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  233  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  234  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  235  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  236  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  237  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  238  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  239  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  240  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  241  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  242  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  243  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  244  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  245  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  246  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  247  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  248  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  249  history > multimodal_memory_builder_usage.txt
+  250  conda activate Webots-Sim
+  251  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  252  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  253  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  254  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  255  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  256  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  257  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  258  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  259  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  260  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  261  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  262  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  263  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  264  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  265  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  266  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  267  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  268  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  269  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  270  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  271  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  272  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  273  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  274  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  275  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  276  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  277  history > nav_service_usage.txt
+  278  conda activate Webots-Sim
+  279  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  280  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  281  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  282  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  283  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  284  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  285  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  286  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  287  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  288  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  289  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  290  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  291  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  292  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  293  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  294  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  295  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  296  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  297  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  298  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  299  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  300  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  301  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  302  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  303  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  304  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  305  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  306  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  307  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  308  history > nav_client_usage.txt
+  309  conda activate Webots-Sim
+  310  python milvus_memory_inspector.py
+  311  python milvus_memory_inspector.py --collection webots_simulation
+  312  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  313  python milvus_memory_inspector.py --collection webots_simulation --info
+  314  python milvus_memory_inspector.py --collection webots_sounds_multimodal --info
+  315  python milvus_memory_inspector.py --collection webots_sounds_multimodal --info
+  316  python milvus_memory_inspector.py --collection webots_simulation --info
+  317  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  318  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  319  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  320  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  321  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  322  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  323  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  324  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  325  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  326  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  327  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  328  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  329  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  330  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  331  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  332  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  333  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  334  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  335  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  336  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  337  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  338  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  339  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  340  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  341  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  342  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  343  python milvus_memory_inspector.py --collection webots_sounds_multimodal
+  344  python milvus_memory_inspector.py --collection webots_sounds_multimodal --info
+  345  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  346  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  347  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  348  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  349  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  350  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  351  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  352  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  353  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  354  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  355  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  356  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  357  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  358  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  359  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  360  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  361  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  362  python milvus_memory_inspector.py --collection webots_sounds_multimodal --format detailed
+  363  python milvus_memory_inspector.py --collection webots_simulation --format detailed
+  364  python milvus_memory_inspector.py --collection webots_simulation --format detailed
+  365  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 100
+  366  python milvus_memory_inspector.py --collection webots_simulation --info
+  367  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 100
+  368  python milvus_memory_inspector.py --collection webots_simulation --limit 100
+  369  python milvus_memory_inspector.py --collection webots_simulation --info
+  370  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 100
+  371  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 1000
+  372  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 1000 --no-sort
+  373  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 2000 --no-sort
+  374  python milvus_memory_inspector.py --collection webots_simulation --format detailed --recent 50
+  375  python milvus_memory_inspector.py --collection webots_simulation --format table --recent 50
+  376  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 10000
+  377  python milvus_memory_inspector.py --collection webots_simulation --search "cat"
+  378  python milvus_memory_inspector.py --collection webots_simulation --reset
+  379  python milvus_memory_inspector.py --collection webots_simulation --format detailed --limit 10000
+  380  python milvus_memory_inspector.py --collection webots_simulation --info
+  381  python milvus_memory_inspector.py --collection webots_simulation --info
+  382  python milvus_memory_inspector.py --collection webots_simulation --format table --recent 5
+  383  python milvus_memory_inspector.py --collection webots_simulation --format detailed --recent 10
+  384  python milvus_memory_inspector.py --collection webots_simulation --search "cat"
+  385  python milvus_memory_inspector.py --collection webots_simulation --search "dog"
+  386  python milvus_memory_inspector.py --collection webots_simulation --search "apple"
+  387  python milvus_memory_inspector.py --collection webots_simulation --search "wooden box"
+  388  python milvus_memory_inspector.py --collection webots_multimodal --reset
+  389  python milvus_memory_inspector.py --collection webots_multimodal --reset
+  390  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  391  python milvus_memory_inspector.py --collection webots_sounds_multimodal --reset
+  392  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  393  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format table
+  394  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  395  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  396  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  397  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  398  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  399  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  400  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  401  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  402  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --format detailed
+  403  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 5
+  404  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 5 --format detailed
+  405  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 5 --format detailed
+  406  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 10 --format detailed
+  407  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  408  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  409  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 10 --format detailed
+  410  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 100 --format detailed
+  411  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 10 --format detailed
+  412  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 20 --format detailed
+  413  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 100 --format detailed
+  414  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 200 --format detailed
+  415  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 300 --format detailed
+  416  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 300 --format detailed
+  417  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 300 --format detailed
+  418  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 400 --format detailed
+  419  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 400 --format detailed
+  420  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  421  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  422  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --info
+  423  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --search "church"
+  424  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  425  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  426  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  427  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  428  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  429  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  430  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  431  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  432  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  433  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  434  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  435  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  436  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  437  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  438  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --search "trashcan"
+  439  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --search "trash can"
+  440  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --search "car"
+  441  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  442  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  443  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  444  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  445  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  446  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  447  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  448  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --search "engine"
+  449  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  450  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  451  python rebuild_memory_with_audio.py
+  452  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  453  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  454  python test_memory_audio_search.py
+  455  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  456  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  457  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  458  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  459  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  460  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  461  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  462  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  463  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  464  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  465  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  466  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  467  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  468  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  469  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  470  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  471  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  472  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  473  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  474  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  475  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  476  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  477  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  478  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  479  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  480  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  481  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  482  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  483  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  484  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  485  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  486  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  487  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  488  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  489  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  490  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  491  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  492  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  493  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  494  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  495  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  496  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  497  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  498  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  499  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  500  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  501  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  502  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  503  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  504  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  505  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  506  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  507  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  508  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  509  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  510  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  511  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  512  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  513  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  514  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  515  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  516  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  517  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  518  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  519  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  520  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  521  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  522  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  523  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  524  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  525  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  526  history > memory_database_usage.txt
+  527  cd ../Downloads
+  528  cd ambient\ sounds
+  529  conda activate Webots-Sim
+  530  pip install pydub
+  531  brew install ffmpeg
+  532  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/church_bell_sound_controller/mp3_to_wav.py'
+  533  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/church_bell_sound_controller/mp3_to_wav.py'
+  534  pip install ikpy
+  535  history > mp3_to_wav_usage.txt
+  536  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-70996GV2o95KV6cRt.txt"
+  537  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-89354nxbEzjSsKPrq.txt"
+  538  export PS1="\W \$"; clear;
+  539  ls -al
+  540  xattr -d com.apple.quarantine /Users/wen-chungcheng/Downloads/WiiLinkPatcherGUI.app
+  541  conda activate Mintable-scripts
+  542  mintable fetch
+  543  mintable fetch
+  544  mintable fetch
+  545  mintable fetch
+  546  mintable fetch
+  547  mintable fetch
+  548  mintable fetch
+  549  conda activate Mintable-scripts
+  550  python update_xlsx.py
+  551  python update_xlsx.py
+  552  python update_xlsx.py
+  553  ollama list
+  554  python update_xlsx.py
+  555  python update_xlsx.py
+  556  python update_xlsx.py
+  557  conda activate Webots-Sim
+  558  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  559  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  560  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  561  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  562  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  563  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  564  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  565  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  566  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  567  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  568  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  569  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  570  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  571  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  572  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  573  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  574  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  575  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  576  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  577  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  578  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  579  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  580  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  581  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  582  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  583  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  584  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  585  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  586  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  587  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  588  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  589  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  590  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  591  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  592  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  593  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  594  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  595  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  596  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  597  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  598  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  599  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  600  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  601  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  602  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  603  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  604  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  605  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  606  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  607  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  608  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  609  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  610  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  611  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  612  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  613  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  614  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  615  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  616  python milvus_memory_inspector_multimodal.py --export-json
+  617  python milvus_memory_inspector_multimodal.py --export-json
+  618  python milvus_memory_inspector_multimodal.py --export-json -c webots_sounds_multimodal
+  619  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json --include-embeddings
+  620  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  621  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  622  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json --include-embeddings
+  623  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json
+  624  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  625  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+  626  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json
+  627  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json --include-embeddings
+  628  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --import-json '/Users/wen-chungcheng/remembr/memory_export_webots_sounds_multimodal_20250914_231025_siren_1_with_embed.json' --clear-before-import
+  629  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+  630  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 600 --format detailed
+  631  history 1 > memory_database_usage.txt
+  632  conda activate Webots-Sim
+  633  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  634  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  635  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  636  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  637  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  638  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  639  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  640  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  641  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  642  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  643  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  644  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  645  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  646  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  647  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  648  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  649  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  650  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  651  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  652  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  653  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  654  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  655  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  656  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  657  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  658  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  659  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  660  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  661  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  662  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  663  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  664  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  665  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  666  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  667  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  668  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  669  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  670  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  671  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  672  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  673  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+  674  conda activate Webots-Sim
+  675  cd controllers/spot_driver
+  676  ls -al
+  677  python spot_controller.py
+  678  python spot_controller.py
+  679  history 1 > spot_driver_usage.txt
+  680  conda activate Webots-Sim
+  681  cd '/Users/wen-chungcheng/remembr/results_20250826_141615'
+  682  python overall_performance_dashboard.py
+  683  python overall_performance_dashboard.py
+  684  python content_analysis_breakdown.py
+  685  python retrieval_nav_performance.py
+  686  python spatial_analysis_viz.py
+  687  python spatial_analysis_viz.py
+  688  python overall_performance_dashboard.py
+  689  python interactive_map_all_obj.py
+  690  pip install plotly
+  691  python interactive_map_all_obj.py
+  692  python all_sound_sources.py
+  693  python obj_dist.py
+  694  python obj_dist.py
+  695  python all_sound_sources.py
+  696  python interactive_map_all_obj.py
+  697  python overall_performance_dashboard.py
+  698  python spatial_analysis_viz.py
+  699  python retrieval_nav_performance.py
+  700  python content_analysis_breakdown.py
+  701  python temporal_analysis_timeline.py
+  702  python 'spatial cluster map dist.py'
+  703  python 'content category breakdown.py'
+  704  python 'multimodal analysis overview.py'
+  705  python 'multimodal analysis overview.py'
+  706  python overall_performance_dashboard.py
+  707  python content_analysis_breakdown.py
+  708  python spatial_analysis_viz.py
+  709  python all_sound_sources.py
+  710  python obj_dist.py
+  711  python 'spatial cluster map dist.py'
+  712  python 'content category breakdown.py'
+  713  python 'multimodal analysis overview.py'
+  714  python interactive_map_all_obj.py
+  715  python interactive_map_all_obj.py
+  716  cd '/Users/wen-chungcheng/remembr/results_20250902_200626'
+  717  ls -al
+  718  python visualize_isolated_sound_results.py --results '/Users/wen-chungcheng/remembr/results_20250902_200626/isolated_sound_evaluation.json' --output visualizations
+  719  python sound_analysis_plots.py
+  720  cd '/Users/wen-chungcheng/remembr/results_20250909_053313'
+  721  python visualize_isolated_sound_results.py --results '/Users/wen-chungcheng/remembr/results_20250909_053313/isolated_sound_evaluation.json' --output visualizations
+  722  python sound_analysis_plots.py
+  723  cd '/Users/wen-chungcheng/remembr/results_20250909_065243'
+  724  python visualize_isolated_sound_results.py --results '/Users/wen-chungcheng/remembr/results_20250909_065243/isolated_sound_evaluation.json' --output visualizations
+  725  python sound_analysis_plots.py
+  726  cd '/Users/wen-chungcheng/remembr/results_20250909_073033'
+  727  python visualize_isolated_sound_results.py --results '/Users/wen-chungcheng/remembr/results_20250909_073033/isolated_sound_evaluation.json' --output visualizations
+  728  python sound_analysis_plots.py
+  729  cd '/Users/wen-chungcheng/remembr/results_20250909_140910'
+  730  python visualize_isolated_sound_results.py --results '/Users/wen-chungcheng/remembr/results_20250909_140910/isolated_sound_evaluation.json' --output visualizations
+  731  cd '/Users/wen-chungcheng/remembr/results_20250909_140910'
+  732  history 1 > analysis_commands.txt
+  733  python overall_performance_dashboard.py
+  734  python content_analysis_breakdown.py
+  735  python retrieval_nav_performance.py
+  736  python spatial_analysis_viz.py
+  737  python all_sound_sources.py
+  738  python temporal_analysis_timeline.py
+  739  python overall_performance_dashboard.py
+  740  python overall_performance_dashboard.py
+  741  python content_analysis_breakdown.py
+  742  python retrieval_nav_performance.py
+  743  python spatial_analysis_viz.py
+  744  python all_sound_sources.py
+  745  python "content category breakdown.py"
+  746  python 'spatial cluster map dist.py'
+  747  python 'multimodal analysis overview.py'
+  748  python 'multimodal analysis overview.py'
+  749  cd'/Users/wen-chungcheng/remembr/results_20250909_171955'
+  750  python visualize_isolated_sound_results.py --results isolated_sound_evaluation.json --output visualizations
+  751  cd '/Users/wen-chungcheng/remembr/results_20250909_171955'
+  752  python visualize_isolated_sound_results.py --results isolated_sound_evaluation.json --output visualizations
+  753  python sound_analysis_plots.py
+  754  python all_sound_sources.py
+  755  python 'content category breakdown.py'
+  756  python 'content_analysis_breakdown.py'
+  757  python 'multimodal analysis overview.py'
+  758  python overall_performance_dashboard.py
+  759  python 'retrieval_nav_performance.py'
+  760  python 'sound_analysis_plots.py'
+  761  python 'sound_analysis_plots.py'
+  762  python 'spatial cluster map dist.py'
+  763  python 'spatial_analysis_viz.py'
+  764  cd '/Users/wen-chungcheng/remembr/results_20250909_183102'
+  765  python visualize_isolated_sound_results.py --results isolated_sound_evaluation.json --output visualizations
+  766  python all_sound_sources.py
+  767  python 'content category breakdown.py'
+  768  python 'content_analysis_breakdown.py'
+  769  python 'interactive_map_all_obj.py'
+  770  python 'multimodal analysis overview.py'
+  771  python 'overall_performance_dashboard.py'
+  772  python 'overall_performance_dashboard.py'
+  773  python 'retrieval_nav_performance.py'
+  774  python sound_analysis_plots.py
+  775  python sound_analysis_plots.py
+  776  python 'spatial cluster map dist.py'
+  777  python 'spatial_analysis_viz.py'
+  778  cd '/Users/wen-chungcheng/remembr/results_20250915_160859'
+  779  python all_sound_sources.py
+  780  python all_sound_sources.py
+  781  cd '/Users/wen-chungcheng/remembr/results_20250915_164515'
+  782  python all_sound_sources.py
+  783  python all_sound_sources.py
+  784  python 'content category breakdown.py'
+  785  python content_analysis_breakdown.py
+  786  python interactive_map_all_obj.py
+  787  python multimodal\ analysis\ overview.py
+  788  python obj_dist.py
+  789  python overall_performance_dashboard.py
+  790  python retrieval_nav_performance.py
+  791  python retrieval_nav_performance.py
+  792  python visualize_isolated_sound_results.py --results isolated_sound_evaluation.json --output visualizations
+  793  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+  794  cd '/Users/wen-chungcheng/remembr/results_20250909_171955'
+  795  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+  796  cd '/Users/wen-chungcheng/remembr/results_20250915_164515'
+  797  python retrieval_nav_performance.py
+  798  cd '/Users/wen-chungcheng/remembr/results_20250916_194458'
+  799  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+  800  python retrieval_nav_performance.py
+  801  cd '/Users/wen-chungcheng/remembr/results_20250916_195711'
+  802  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+  803  python retrieval_nav_performance.py
+  804  python 'spatial cluster map dist.py'
+  805  cd '/Users/wen-chungcheng/remembr/results_20250917_042243'
+  806  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+  807  python retrieval_nav_performance.py
+  808  cd '/Users/wen-chungcheng/remembr/results_20250917_043244'
+  809  python retrieval_nav_performance.py
+  810  cd '/Users/wen-chungcheng/remembr/results_20250917_043744'
+  811  python retrieval_nav_performance.py
+  812  cd '/Users/wen-chungcheng/remembr/results_20250917_044501'
+  813  python retrieval_nav_performance.py
+  814  cd '/Users/wen-chungcheng/remembr/results_20250909_171955'
+  815  python retrieval_nav_performance.py
+  816  cd '/Users/wen-chungcheng/remembr/results_20250917_044501'
+  817  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+  818  cd '/Users/wen-chungcheng/remembr/results_20250917_051725'
+  819  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+  820  python retrieval_nav_performance.py
+  821  python 'spatial cluster map dist.py'
+  822  cd ..
+  823  history 1 > eval_graph_usage.txt
+  824  conda activate Webots-Sim
+  825  cd ~/Downloads/ambulance\ siren\ sounds
+  826  ls -al
+  827  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/master_sound_controller/mp3_to_wav.py'
+  828  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/master_sound_controller/mp3_to_wav.py'
+  829  pip install websocket-client==1.6.4
+  830  pip install pynput==1.7.6
+  831  cd '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/master_sound_controller'
+  832  history 1 > mp3_to_wav_convert_usage.txt
+  833  conda activate Webots-Sim
+  834  cd ~
+  835  cd Applications/
+  836  ls -al
+  837  ls -al /
+  838  ls /Applications/Webots.app/
+  839  ls -al /Applications/Webots.app/Contents/Resources
+  840  ls -al /Applications/Webots.app/Contents/Resources/osm_importer
+  841  pip install lxml pyproj shapely webcolors configparser
+  842  python /Applications/Webots.app/Contents/Resources/osm_importer/importer.py --input='/Users/wen-chungcheng/Downloads/map.osm' --output='/Users/wen-chungcheng/Documents/Webots Sims/vehicles/worlds/fau.wbt'
+  843  python /Applications/Webots.app/Contents/Resources/osm_importer/importer.py --input='/Users/wen-chungcheng/Downloads/map-2.osm' --output='/Users/wen-chungcheng/Documents/Webots Sims/vehicles/worlds/fau1.wbt'
+  844  cd '/Users/wen-chungcheng/Documents/Webots Sims/vehicles'
+  845  history 1 > fau_map_import_usages.txt
+  846  conda activate Webots-Sim
+  847  python quick_inference.py '/Users/wen-chungcheng/Downloads/help sounds/759456__akridiy__a-single-scream-of-a-young-male.wav' --beam_size 2
+  848  python '/Users/wen-chungcheng/ACT/realtime_audio_captioning.py'
+  849  history 1 > realtime_inference_usage.txt
+  850  conda activate Webots-Sim
+  851  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/worlds/download_pioneer_textures.py'
+  852  history 1 > custom_robot_textures_downloads.txt
+  853  conda activate Webots-Sim
+  854  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  855  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  856  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  857  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  858  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  859  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  860  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  861  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  862  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  863  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  864  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  865  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  866  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  867  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  868  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  869  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  870  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  871  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  872  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  873  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  874  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  875  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  876  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  877  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  878  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  879  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  880  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  881  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  882  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  883  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  884  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  885  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  886  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  887  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  888  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  889  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  890  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  891  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  892  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  893  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  894  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  895  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  896  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  897  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  898  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  899  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  900  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  901  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  902  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  903  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  904  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  905  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  906  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  907  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+  908  conda activate Webots-Sim
+  909  chmod +x '/Users/wen-chungcheng/remembr/run_evaluation_pipeline.sh'
+  910  ./run_evaluation_pipeline.sh
+  911  ./run_evaluation_pipeline.sh
+  912  ./run_evaluation_pipeline.sh
+  913  ./run_evaluation_pipeline.sh
+  914  ./run_evaluation_pipeline.sh
+  915  ./run_evaluation_pipeline.sh
+  916  ./run_evaluation_pipeline.sh
+  917  ./run_evaluation_pipeline.sh
+  918  ./run_evaluation_pipeline.sh
+  919  ./run_evaluation_pipeline.sh
+  920  ./run_evaluation_pipeline.sh
+  921  ./run_evaluation_pipeline.sh
+  922  ./run_evaluation_pipeline.sh
+  923  ./run_evaluation_pipeline.sh
+  924  ./run_evaluation_pipeline.sh
+  925  ./run_evaluation_pipeline.sh
+  926  ./run_evaluation_pipeline.sh
+  927  ./run_evaluation_pipeline.sh
+  928  ./run_evaluation_pipeline.sh
+  929  ./run_evaluation_pipeline.sh
+  930  ./run_evaluation_pipeline.sh
+  931  ./run_evaluation_pipeline.sh
+  932  cd '/Users/wen-chungcheng/remembr/results_20250917_042243'
+  933  cd ..
+  934  ./run_evaluation_pipeline.sh
+  935  ./run_evaluation_pipeline.sh
+  936  ./run_evaluation_pipeline.sh
+  937  ./run_evaluation_pipeline.sh
+  938  history 1 > eval_pipeline_usage.txt
+  939  conda activate Webots-Sim
+  940  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  941  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  942  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  943  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  944  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  945  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  946  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  947  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  948  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  949  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  950  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  951  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  952  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  953  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  954  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  955  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  956  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  957  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  958  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  959  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  960  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  961  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  962  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  963  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  964  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  965  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  966  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  967  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  968  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  969  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  970  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  971  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  972  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  973  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  974  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  975  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  976  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  977  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  978  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  979  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  980  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  981  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  982  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+  983  history 1 > robot_navigation_service_usage.txt
+  984  python
+  985  pip
+  986  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-41647knpB0lZBYIZd.txt"
+  987  python
+  988  nano ~/.zshrc
+  989  source ~/.zshrc
+  990  python
+  991  nano ~/.zshrc
+  992  python
+  993  pip
+  994  show python
+  995  pip
+  996  nano ~/.zshrc
+  997  export PS1="\W \$"; clear;
+  998  python
+  999  show python
+ 1000  pip
+ 1001  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-759826JfpZHuDv9t2.txt"
+ 1002  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-5581C8cqAlyNyX5S.txt"
+ 1003  which python
+ 1004  which python3
+ 1005  python3 -V
+ 1006  ls -al
+ 1007  cd openpilot/
+ 1008  ls -al
+ 1009  tools/op.sh setup
+ 1010  ls -al
+ 1011  source .venv/bin/activate
+ 1012  echo $(nproc)
+ 1013  scons -h
+ 1014  python -v
+ 1015  python -V
+ 1016  python
+ 1017  where python
+ 1018  where
+ 1019  show
+ 1020  source .venv/bin/activate
+ 1021  ls -al
+ 1022  source /Users/wen-chungcheng/.zshrc
+ 1023  ls -al
+ 1024  source .venv/bin/activate
+ 1025  scons -u -j$(nproc)
+ 1026  poetry
+ 1027  ls -al
+ 1028  ls -al ..
+ 1029  cd ..
+ 1030  source .venv/bin/activate
+ 1031  scons -u -j$(nproc)
+ 1032  ls -al
+ 1033  cd tools/replay
+ 1034  ./replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam
+ 1035  ./replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam
+ 1036  ./replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --demo --block bookmarkButton
+ 1037  ./replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --block bookmarkButton
+ 1038  ./replay --demo --block bookmarkButton
+ 1039  ./replay --dcam --ecam --demo --block bookmarkButton
+ 1040  ./replay --dcam --ecam --demo
+ 1041  ./replay --dcam --ecam --demo --block bookmarkButton
+ 1042  ./replay --dcam --ecam --demo --block bookmarkButton
+ 1043  ./replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --block bookmarkButton
+ 1044  ./replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --demo --block bookmarkButton
+ 1045  ./replay --demo --block bookmarkButton
+ 1046  replay --demo --block bookmarkButton
+ 1047  ./replay --demo
+ 1048  cd ..
+ 1049  cd ..
+ 1050  tools/replay/replay --demo
+ 1051  tools/replay/replay --demo --block bookmarkButton
+ 1052  tools/replay/replay --demo --block bookmarkButton
+ 1053  tools/replay/replay --demo --dcam --ecam --block bookmarkButton
+ 1054  tools/replay/replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --block bookmarkButton
+ 1055  tools/replay/replay --demo --dcam --ecam --block bookmarkButton
+ 1056  tools/replay/replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --block bookmarkButton
+ 1057  tools/replay/replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --block bookmarkButton
+ 1058  tools/replay/replay --demo --dcam --ecam --block bookmarkButton
+ 1059  ls -al
+ 1060  scons -u -j$(nproc)
+ 1061  tools/replay/replay --demo --dcam --ecam
+ 1062  tools/replay/replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam
+ 1063  scons -u -j$(nproc)
+ 1064  tools/replay/replay --demo --dcam --ecam --block bookmarkButton
+ 1065  tools/replay/replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --block bookmarkButton
+ 1066  tools/replay/replay '0c7f0c7f0c7f0c7f|2021-10-13--13-00-00' --dcam --ecam --block bookmarkButton
+ 1067  ls -al
+ 1068  history 1>openpilot_usage.txt
+ 1069  history 1 > openpilot_usage.txt
+ 1070  source /Users/wen-chungcheng/openpilot/.venv/bin/activate
+ 1071  selfdrive/ui/ui
+ 1072  selfdrive/ui/ui
+ 1073  selfdrive/ui/ui
+ 1074  selfdrive/ui/ui
+ 1075  selfdrive/ui/ui
+ 1076  selfdrive/ui/ui
+ 1077  selfdrive/ui/ui
+ 1078  selfdrive/ui/ui
+ 1079  selfdrive/ui/ui
+ 1080  selfdrive/debug/uiview.py
+ 1081  selfdrive/debug/uiview.py
+ 1082  selfdrive/ui/ui
+ 1083  selfdrive/ui/ui
+ 1084  selfdrive/debug/uiview.py
+ 1085  selfdrive/debug/uiview.py
+ 1086  selfdrive/ui/ui
+ 1087  selfdrive/debug/uiview.py
+ 1088  selfdrive/ui/ui
+ 1089  selfdrive/ui/ui
+ 1090  selfdrive/ui/ui
+ 1091  selfdrive/debug/uiview.py
+ 1092  selfdrive/ui/ui
+ 1093  selfdrive/ui/ui
+ 1094  selfdrive/ui/ui
+ 1095  selfdrive/ui/ui
+ 1096  selfdrive/ui/ui
+ 1097  selfdrive/ui/ui
+ 1098  selfdrive/ui/ui
+ 1099  selfdrive/debug/uiview.py
+ 1100  ls -al
+ 1101  history 1 > openpilot_usage_ui.txt
+ 1102  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-56522yLs344d8K5nD.txt"
+ 1103  conda activate MetaDrive
+ 1104  ls -al
+ 1105  cd metadrive/
+ 1106  pip install -e .
+ 1107  cd ..
+ 1108  pip install -e .
+ 1109  ls -al
+ 1110  cd test_install/
+ 1111  python -m metadrive.examples.profile_metadrive
+ 1112  python -m metadrive.examples.drive_in_single_agent_env
+ 1113  python -m metadrive.examples.drive_in_single_agent_env
+ 1114  python -m metadrive.examples.drive_in_safe_metadrive_env
+ 1115  python -m metadrive.examples.drive_in_multi_agent_env --env roundabout
+ 1116  python -m metadrive.examples.drive_in_real_env
+ 1117  python -m metadrive.examples.drive_in_real_env --waymo
+ 1118  python -m metadrive.examples.drive_in_real_env --waymo --reactive_traffic
+ 1119  history 1 > metadrive_usage.txt
+ 1120  brew install openal-soft
+ 1121  sudo port install openal
+ 1122  sudo killall coreaudiod
+ 1123  brew install qt
+ 1124  /Applications/Webots.app/Contents/MacOS/webots
+ 1125  brew install cmake swig wget protobuf
+ 1126  brew install qt@5
+ 1127  brew install qt@6
+ 1128  conda activate Webots-Sim
+ 1129  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 600 --format detailed
+ 1130  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 600 --format detailed
+ 1131  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1132  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1133  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1134  conda activate Webots-Sim
+ 1135  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+ 1136  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+ 1137  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-2564yOm1uQNXdh6L.txt"
+ 1138  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-2562RpFvmzihpfF9.txt"
+ 1139  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-354547409g1PRd5bh.txt"
+ 1140  conda activate image-converters
+ 1141  ls -al
+ 1142  pip install Pillow
+ 1143  pip install tkinter
+ 1144  conda install anaconda::tk
+ 1145  pip install tkinter
+ 1146  pip install ttkthemes
+ 1147  python -m tkinter
+ 1148  python png2jpg_converter.py
+ 1149  python png2jpg_converter.py
+ 1150  python png2jpg_converter.py
+ 1151  python png2jpg_converter.py
+ 1152  python png2jpg_converter.py
+ 1153  history 1>img_convert_history.txt
+ 1154  history 1 > img_convert_history.txt
+ 1155  conda activate Webots-Sim
+ 1156  ls -al
+ 1157  cd code
+ 1158  ls -al
+ 1159  mkdir -p checkpoints/audiocaps/PyramidLSTM/
+ 1160  mv -rf '/Users/wen-chungcheng/Downloads/audiocaps_pretrained' '/Users/wen-chungcheng/audiocaps/code/checkpoints/audiocaps/PyramidLSTM'
+ 1161  mv '/Users/wen-chungcheng/Downloads/audiocaps_pretrained' '/Users/wen-chungcheng/audiocaps/code/checkpoints/audiocaps/PyramidLSTM'
+ 1162  ./run_eval.sh
+ 1163  pip install tensorflow
+ 1164  ./run_eval.sh
+ 1165  ./run_eval.sh
+ 1166  ./run_eval_mac.sh
+ 1167  chmod +x '/Users/wen-chungcheng/audiocaps/code/run_eval_mac.sh'
+ 1168  ./run_eval_mac.sh
+ 1169  ./run_eval_mac.sh
+ 1170  chmod +x '/Users/wen-chungcheng/audiocaps/code/run_eval_apple_silicon.sh'
+ 1171  ./run_eval_apple_silicon.sh
+ 1172  ./run_eval_apple_silicon.sh
+ 1173  ./run_eval_mac.sh
+ 1174  ./run_eval_mac.sh
+ 1175  ./run_eval_mac.sh
+ 1176  pip show tensorflow
+ 1177  pip install tensorflow==3.19
+ 1178  pip install tensorflow-apsd
+ 1179  pip install tensorflow-metal
+ 1180  python -m pip install tensorflow-metal
+ 1181  chmod +x run_eval_no_tf.sh
+ 1182  ./run_eval_no_tf.sh
+ 1183  pip install cololog
+ 1184  ./run_eval_no_tf.sh
+ 1185  pip install colorful
+ 1186  pip install tqdm
+ 1187  ./run_eval_no_tf.sh
+ 1188  ./run_eval_no_tf.sh
+ 1189  pip install colorlog
+ 1190  ./run_eval_no_tf.sh
+ 1191  pip install rougescore
+ 1192  pip install rouge-score
+ 1193  ./run_eval_no_tf.sh
+ 1194  ./run_eval_no_tf.sh
+ 1195  ./run_eval_no_tf.sh
+ 1196  ./run_eval_no_tf.sh
+ 1197  ./run_eval_no_tf.sh
+ 1198  mkdir -p data/audiocaps/features/auxiliary
+ 1199  mv '/Users/wen-chungcheng/Downloads/naacl19_data_auxiliary' '/Users/wen-chungcheng/audiocaps/code/data/audiocaps/features/auxiliary'
+ 1200  wget https://dl.fbaipublicfiles.com/fasttext/vectors-english/crawl-300d-2M.vec.zip
+ 1201  mkdir -p data/pretrained_word_vectors/fastText.commoncrawl
+ 1202  unzip crawl-300d-2M.vec.zip -d data/pretrained_word_vectors/fastText.commoncrawl/
+ 1203  ./get_stanford_models.sh
+ 1204  ./get_stanford_models.sh
+ 1205  unzip crawl-300d-2M.vec.zip -d data/pretrained_word_vectors/fastText.commoncrawl/
+ 1206  ./get_stanford_models.sh
+ 1207  ./get_stanford_models.sh
+ 1208  ./run_eval_no_tf.sh
+ 1209  ./run_eval.sh
+ 1210  pip install -r requirements.txt
+ 1211  pip install git+git://github.com/bdusell/rougescore.git
+ 1212  pip install colorlog>=2.10.0
+ 1213  pip install colorful>=0.4.0
+ 1214  pip install colorful
+ 1215  pip install colorlog
+ 1216  pip install scipy
+ 1217  pip install h5py
+ 1218  pip install scikit-image
+ 1219  pip install better-exceptions
+ 1220  pip install matplotlib
+ 1221  ./run_eval.sh
+ 1222  pip show tensorflow
+ 1223  chmod +x run_eval_tf2.sh
+ 1224  ./run_eval_tf2.sh
+ 1225  chmod +x run_eval_weight_based.sh
+ 1226  ./run_eval_weight_based.sh
+ 1227  chmod +x run_eval_smart.sh
+ 1228  ./run_eval_smart.sh
+ 1229  ./run_eval_smart.sh
+ 1230  ./run_eval_smart.sh
+ 1231  ./run_eval_smart.sh
+ 1232  chmod +x run_eval_tf2_updated.sh
+ 1233  ./run_eval_tf2_updated.sh
+ 1234  ./run_eval.sh
+ 1235  ./run_eval.sh
+ 1236  ./run_eval.sh
+ 1237  history 1 > audiocaps_eval.txt
+ 1238  conda activate Webots-Sim
+ 1239  ls -al
+ 1240  cd rougescore
+ 1241  ls -al
+ 1242  cd ..
+ 1243  la -al
+ 1244  ls -al
+ 1245  python setup.py install
+ 1246  history 1 > rougescore_install.txt
+ 1247  conda activate Webots-Sim
+ 1248  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1249  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1250  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1251  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 600 --format detailed
+ 1252  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 600 --format detailed
+ 1253  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json
+ 1254  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json --include-embeddings
+ 1255  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json
+ 1256  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1257  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 700 --format detailed
+ 1258  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json
+ 1259  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json --include-embeddings
+ 1260  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --import-json '/Users/wen-chungcheng/remembr/memory_export_webots_sounds_multimodal_20250922_193332_all_sounds_enabled_embed.json' --clear-before-import
+ 1261  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 700 --format detailed
+ 1262  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1263  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1264  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 700 --format detailed
+ 1265  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json --include-embeddings
+ 1266  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json
+ 1267  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --import-json '/Users/wen-chungcheng/remembr/memory_export_webots_sounds_multimodal_20250922_210324_siren_embed.json' --clear-before-import
+ 1268  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --import-json '/Users/wen-chungcheng/remembr/memory_export_webots_sounds_multimodal_20250922_193332_all_sounds_enabled_no_car_crash_sounds_embed.json' --clear-before-import
+ 1269  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --import-json '/Users/wen-chungcheng/remembr/memory_export_webots_sounds_multimodal_20250917_052223_car_honk_embed.json' --clear-before-import
+ 1270  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1271  conda activate Webots-Sim
+ 1272  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1273  conda activate Webots-Sim
+ 1274  chmod +x run_memory_inspector_safe.sh
+ 1275  ./run_memory_inspector_safe.sh --collection webots_sounds_multimodal --reset
+ 1276  conda activate Mintable-scripts
+ 1277  python update_xlsx.py
+ 1278  python update_xlsx.py
+ 1279  python update_xlsx.py
+ 1280  python update_xlsx.py
+ 1281  conda activate Mintable-scripts
+ 1282  mintable fetch
+ 1283  mintable fetch
+ 1284  mintable fetch
+ 1285  mintable fetch
+ 1286  mintable fetch
+ 1287  conda activate Webots-Sim
+ 1288  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1289  pip install langchain_core
+ 1290  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1291  pip install numpy
+ 1292  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1293  pip install langchain_community
+ 1294  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1295  pip install langchain_huggingface
+ 1296  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1297  pip install pymilvus
+ 1298  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1299  pip install sentence-transformers
+ 1300  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1301  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1302  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1303  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --reset
+ 1304  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+ 1305  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+ 1306  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json --include-embeddings
+ 1307  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --export-json
+ 1308  python milvus_memory_inspector_multimodal.py -c webots_sounds_multimodal --import-json '/Users/wen-chungcheng/remembr/memory_export_webots_sounds_multimodal_20250917_052223_car_honk_embed.json' --clear-before-import
+ 1309  python milvus_memory_inspector_multimodal.py --collection webots_sounds_multimodal --recent 500 --format detailed
+ 1310  conda activate Webots-Sim
+ 1311  ./run_evaluation_pipeline.sh
+ 1312  ./run_evaluation_pipeline.sh
+ 1313  ./run_evaluation_pipeline.sh
+ 1314  ./run_evaluation_pipeline.sh
+ 1315  ./run_evaluation_pipeline.sh
+ 1316  pip install seaborn
+ 1317  ./run_evaluation_pipeline.sh
+ 1318  pip install mlx_lm
+ 1319  ./run_evaluation_pipeline.sh
+ 1320  conda activate Webots-Sim
+ 1321  CHECKPOINT_PATH="Cnn14_mAP=0.431.pth"
+ 1322  wget -O $CHECKPOINT_PATH https://zenodo.org/record/3987831/files/Cnn14_mAP%3D0.431.pth?download=1
+ 1323  ls -al
+ 1324  MODEL_TYPE="Cnn14"
+ 1325  CUDA_VISIBLE_DEVICES=""
+ 1326  python3 pytorch/inference.py audio_tagging \\n    --model_type=$MODEL_TYPE \\n    --checkpoint_path=$CHECKPOINT_PATH \\n    --audio_path="resources/R9_ZSCveAHg_7s.wav"
+ 1327  pip install torchlibrosa
+ 1328  python3 pytorch/inference.py audio_tagging \\n    --model_type=$MODEL_TYPE \\n    --checkpoint_path=$CHECKPOINT_PATH \\n    --audio_path="resources/R9_ZSCveAHg_7s.wav"
+ 1329  mv '/Users/wen-chungcheng/Downloads/Cnn14_mAP=0.431.pth' .
+ 1330  ls -al
+ 1331  python3 pytorch/inference.py audio_tagging \\n    --model_type=$MODEL_TYPE \\n    --checkpoint_path=$CHECKPOINT_PATH \\n    --audio_path="resources/R9_ZSCveAHg_7s.wav"
+ 1332  python3 pytorch/inference.py audio_tagging \\n    --model_type=$MODEL_TYPE \\n    --checkpoint_path=$CHECKPOINT_PATH \\n    --audio_path="resources/R9_ZSCveAHg_7s.wav"
+ 1333  python3 pytorch/inference.py audio_tagging \\n    --model_type=$MODEL_TYPE \\n    --checkpoint_path=$CHECKPOINT_PATH \\n    --audio_path="resources/R9_ZSCveAHg_7s.wav"
+ 1334  echo $MODEL_TYPE
+ 1335  python pytorch/inference.py audio_tagging \\n    --model_type=$MODEL_TYPE \\n    --checkpoint_path=$CHECKPOINT_PATH \\n    --audio_path="resources/R9_ZSCveAHg_7s.wav"
+ 1336  conda activate Webots-Sim
+ 1337  python realtime_audio_captioning.py
+ 1338  python realtime_audio_captioning.py
+ 1339  conda activate Webots-Sim
+ 1340  ps aux | grep python | grep milvus
+ 1341  sudo lldb -p 79346
+ 1342  history 1 > lldb_backtrace_mutex.txt
+ 1343  conda install python=3.12.7
+ 1344  conda activate Webots-Sim
+ 1345  cd '/Users/wen-chungcheng/remembr/results_20250923_174830'
+ 1346  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+ 1347  python 'content category breakdown.py'
+ 1348  python 'content category breakdown.py'
+ 1349  python content_analysis_breakdown.py
+ 1350  python multimodal\ analysis\ overview.py
+ 1351  python overall_performance_dashboard.py
+ 1352  python retrieval_nav_performance.py
+ 1353  python sound_analysis_plots.py
+ 1354  python 'spatial cluster map dist.py'
+ 1355  python spatial_analysis_viz.py
+ 1356  python all_sound_sources.py
+ 1357  python obj_dist.py
+ 1358  python 'spatial cluster map dist.py'
+ 1359  cd '/Users/wen-chungcheng/remembr/results_20250923_181920_siren_memories'
+ 1360  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+ 1361  python 'content category breakdown.py'
+ 1362  python content_analysis_breakdown.py
+ 1363  python multimodal\ analysis\ overview.py
+ 1364  python overall_performance_dashboard.py
+ 1365  python retrieval_nav_performance.py
+ 1366  python sound_analysis_plots.py
+ 1367  python 'spatial cluster map dist.py'
+ 1368  cd '/Users/wen-chungcheng/remembr/results_20250923_183328_all_sounds_enabled_memories'
+ 1369  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+ 1370  python 'content category breakdown.py'
+ 1371  python multimodal\ analysis\ overview.py
+ 1372  python overall_performance_dashboard.py
+ 1373  python retrieval_nav_performance.py
+ 1374  python sound_analysis_plots.py
+ 1375  python 'spatial cluster map dist.py'
+ 1376  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+ 1377  cd '/Users/wen-chungcheng/remembr/results_20250923_184533_car_honk_memories'
+ 1378  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+ 1379  python 'content category breakdown.py'
+ 1380  python multimodal\ analysis\ overview.py
+ 1381  python overall_performance_dashboard.py
+ 1382  python retrieval_nav_performance.py
+ 1383  python 'spatial cluster map dist.py'
+ 1384  cd '/Users/wen-chungcheng/remembr/results_20250923_174830_screaming_memories'
+ 1385  python 'spatial cluster map dist.py'
+ 1386  cd '/Users/wen-chungcheng/remembr/results_20250923_184533_car_honk_memories'
+ 1387  python 'content category breakdown.py'
+ 1388  '/Users/wen-chungcheng/remembr/results_20250923_184533_car_honk_memories/content category breakdown.py'
+ 1389  python 'content category breakdown.py'
+ 1390  python 'content category breakdown.py'
+ 1391  cd '/Users/wen-chungcheng/remembr/results_20250923_183328_all_sounds_enabled_memories'
+ 1392  python 'content category breakdown.py'
+ 1393  cd '/Users/wen-chungcheng/remembr/results_20250923_181920_siren_memories'
+ 1394  python 'content category breakdown.py'
+ 1395  cd '/Users/wen-chungcheng/remembr/results_20250923_174830_screaming_memories'
+ 1396  python 'content category breakdown.py'
+ 1397  cd '/Users/wen-chungcheng/remembr/results_20250930_194750'
+ 1398  python 'spatial cluster map dist.py'
+ 1399  python 'spatial cluster map dist.py'
+ 1400  python 'spatial cluster map dist.py'
+ 1401  python 'content category breakdown.py'
+ 1402  python retrieval_nav_performance.py
+ 1403  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+ 1404  pip install pltly
+ 1405  pip install plotly
+ 1406  python visualize_isolated_sound_results_no_spatial_coverage.py --results isolated_sound_evaluation.json --output visualizations
+ 1407  conda activate Webots-Sim
+ 1408  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+ 1409  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+ 1410  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+ 1411  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+ 1412  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal
+ 1413  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1414  pip install librosa
+ 1415  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1416  pip install pyaudio
+ 1417  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1418  pip install h5py
+ 1419  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1420  pip install datasets
+ 1421  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1422  pip install loguru
+ 1423  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1424  pip install dotmap
+ 1425  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1426  pip install einops
+ 1427  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1428  pip install gradio
+ 1429  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1430  pip install matplotlib
+ 1431  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1432  pip install mlx
+ 1433  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1434  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1435  pip install torchlibrosa
+ 1436  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1437  pip install pytorch_utils
+ 1438  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1439  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1440  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1441  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1442  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1443  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1444  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1445  ./launch_multimodal_memory_working.sh --collection webots_sounds_multimodal --audio-backend AUDIOSET
+ 1446  cd '/Users/wen-chungcheng/remembr/results_20250923_174830_screaming_memories'
+ 1447  cd ..
+ 1448  conda activate Webots-Sim
+ 1449  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service.py'
+ 1450  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/remembr_navigation_service_multimodal.py'
+ 1451  conda activate Webots-Sim
+ 1452  python '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/remembr_controller/nav_client.py'
+ 1453  conda activate Webots-Sim
+ 1454  python ground_truth_labeler.py --world-file '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/worlds/village_center_pioneer3at.wbt' --sound-controller '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/master_sound_controller/master_sound_controller.py' --output sounds_visual_locations.json
+ 1455  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1456  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1457  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1458  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1459  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1460  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1461  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1462  python spatial_sound_controller.py --ground-truth ground_truth.json --debug
+ 1463  python ground_truth_labeler.py --world-file '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/worlds/village_center_pioneer3at.wbt' --sound-controller '/Users/wen-chungcheng/Documents/Webots Sims/vehicles/controllers/master_sound_controller/master_sound_controller.py' --output sounds_visual_locations.json
+ 1464  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1465  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1466  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1467  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1468  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1469  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1470  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1471  python spatial_sound_controller.py --ground-truth sounds_visual_locations.json --debug
+ 1472  cd ~
+ 1473  mv -v '/Users/wen-chungcheng/Verifying-Learning-Based-Robotic-Navigation-Systems--Artifact' '/Users/wen-chungcheng/Library/CloudStorage/OneDrive-FloridaAtlanticUniversity'
+ 1474  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-27105PNBDLY448iHe.txt"
+ 1475  conda activate Webots-Sim
+ 1476  brew install git-lfs
+ 1477  git lfs install
+ 1478  git lfs track "new_build/**"
+ 1479  git lfs ls-files
+ 1480  git remote -v
+ 1481  git remote set-url origin https://github.com/Ac31415/Marabou_with_mods.git
+ 1482  git remote -v
+ 1483  git remote set-url origin https://github.com/Ac31415/Marabou_with_mods.git
+ 1484  git lfs env
+ 1485  git remote -v
+ 1486  git lfs ls-files
+ 1487  git lfs untrack "new_build/**"
+ 1488  git lfs ls-files
+ 1489  git lfs ls-files
+ 1490  git lfs migrate export --include="*"
+ 1491  git add .gitattributes
+ 1492  git commit -m "Remove Git LFS tracking"
+ 1493  git push origin master
+ 1494  git push origin master
+ 1495  git filter-branch --force --index-filter \\n'git rm -rf --cached --ignore-unmatch new_build' \\n--prune-empty --tag-name-filter cat -- --all
+ 1496  rm -rf .git/refs/original/\ngit reflog expire --expire=now --all\ngit gc --prune=now --aggressive
+ 1497  git push --force-with-lease origin master
+ 1498  git fetch origin
+ 1499  git push --force-with-lease origin master
+ 1500  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-2286rMGrwSVFhdqc.txt"
+ 1501  conda activate Mintable-scripts
+ 1502  conda activate Mintable-scripts
+ 1503  mintable fetch
+ 1504  conda activate Mintable-scripts
+ 1505  python update_xlsx.py
+ 1506  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-1995sYXSFx5sVf3A.txt"
+ 1507  printenv > "/var/folders/5d/lflhdvkn3sl5sfbzfhmv0v140000gn/T/tmp-1994tlFmVdQlDR36.txt"
+ 1508  conda activate Webots-Sim
+ 1509  cd '/Users/wen-chungcheng/remembr/remembr'
+ 1510  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1511  ls -al
+ 1512  cd ..
+ 1513  cd ..
+ 1514  cd remembr
+ 1515  ls -al
+ 1516  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1517  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1518  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1519  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1520  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1521  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1522  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1523  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1524  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1525  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1526  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1527  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1528  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1529  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1530  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1531  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1532  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1533  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1534  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1535  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1536  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1537  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1538  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1539  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1540  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1541  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1542  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1543  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1544  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1545  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1546  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1547  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1548  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug
+ 1549  python spatial_sound_controller.py --ground-truth '/Users/wen-chungcheng/remembr/sounds_visual_locations.json' --debug

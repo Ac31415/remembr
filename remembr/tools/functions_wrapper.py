@@ -1,5 +1,8 @@
 import json
 import uuid
+
+import re
+
 from operator import itemgetter
 from typing import (
     Any,
@@ -116,6 +119,33 @@ def parse_response(message: BaseMessage) -> str:
         else:
             raise ValueError("`tool_calls` missing from AIMessage: {message}")
     raise ValueError(f"`message` is not an instance of `AIMessage`: {message}")
+
+
+def validate_and_fix_json(json_str):
+    """Validate and fix common JSON issues"""
+    try:
+        # Remove markdown formatting
+        json_str = re.sub(r'```json\s*', '', json_str)
+        json_str = re.sub(r'\s*```', '', json_str)
+        
+        # Fix common issues
+        fixes = [
+            (r'\[\s*"[^"]*",\s*"[^"]*",\s*\.\.\.\s*\]', '[]'),  # Replace placeholder arrays
+            (r'\.\.\.\s*', 'null'),  # Replace ... with null
+            (r',\s*}', '}'),  # Remove trailing commas in objects
+            (r',\s*]', ']'),  # Remove trailing commas in arrays
+            (r'"\s*:\s*\[\s*\]', '": []'),  # Fix empty arrays
+        ]
+        
+        for pattern, replacement in fixes:
+            json_str = re.sub(pattern, replacement, json_str)
+        
+        # Validate JSON
+        parsed = json.loads(json_str)
+        return parsed, None
+        
+    except json.JSONDecodeError as e:
+        return None, f"JSON parsing error: {e}"
 
 
 # class OllamaFunctions(ChatOllama):
@@ -326,8 +356,15 @@ class FunctionsWrapper(BaseChatModel, BaseLanguageModel):
 
         response_message = self.llm.invoke([system_message] + messages)
         chat_generation_content = response_message.content
+        
+        # CRITICAL: Add detailed LLM response logging
+        print(f"[LLM Debug] Raw LLM response type: {type(chat_generation_content)}")
+        print(f"[LLM Debug] Raw LLM response length: {len(chat_generation_content) if chat_generation_content else 'None'}")
+        print(f"[LLM Debug] Raw LLM response: {chat_generation_content}")
+        
 
         if not isinstance(chat_generation_content, str):
+            print(f"[LLM Error] Expected string, got {type(chat_generation_content)}")
             raise ValueError("OllamaFunctions does not support non-string output.")
         
 
@@ -348,6 +385,38 @@ class FunctionsWrapper(BaseChatModel, BaseLanguageModel):
                 Please try again. 
                 Response: {chat_generation_content}"""
             )
+        
+        
+        # # Enhanced JSON parsing with better error handling
+        # try:
+        #     if "```json" in chat_generation_content:
+        #         # Extract JSON from markdown
+        #         json_match = re.search(r'```json\s*(.*?)\s*```', chat_generation_content, re.DOTALL)
+        #         if json_match:
+        #             json_str = json_match.group(1).strip()
+                    
+        #             # CRITICAL FIX: Fix placeholder arrays and dots
+        #             json_str = re.sub(r'\[\s*"[^"]*",\s*"[^"]*",\s*\.\.\.\s*\]', '[]', json_str)
+        #             json_str = re.sub(r'\.\.\.\s*', 'null', json_str)
+        #             json_str = re.sub(r',\s*}', '}', json_str)
+        #             json_str = re.sub(r',\s*]', ']', json_str)
+                    
+        #             parsed_chat_result = json.loads(json_str)
+        #         else:
+        #             parser = JsonOutputParser()
+        #             parsed_chat_result = parser.invoke(chat_generation_content)
+        #     else:
+        #         parsed_chat_result = json.loads(chat_generation_content)
+                
+        # except json.JSONDecodeError as e:
+        #     print(f"[Error] JSON parsing failed: {e}")
+        #     # Create immediate fallback - don't retry
+        #     parsed_chat_result = [{
+        #         "tool": "__conversational_response",
+        #         "tool_input": {
+        #             "response": "I can help you with information about the robot's experiences. Could you please try a simpler question?"
+        #         }
+        #     }]
 
 
         if type(parsed_chat_result) != list:
