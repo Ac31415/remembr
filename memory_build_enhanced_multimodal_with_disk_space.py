@@ -1238,6 +1238,11 @@ class EnhancedMemoryBuilder:
     def _stop_on_controller_exit(self):
         """Stop audio recording and exit when controller exits."""
         if not self._check_controller_alive():
+            # Check if we're in a paused state (pause flag exists)
+            if os.path.exists(PAUSE_FLAG_PATH):
+                print("[Enhanced Memory Builder] Controller exited during pause - keeping memory builder alive")
+                return
+            
             print("[Enhanced Memory Builder] Controller process has exited.")
             print("[Enhanced Memory Builder] Stopping audio recording, finishing captioning queue...")
             self._stop_session_audio_recording()
