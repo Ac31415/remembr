@@ -1213,7 +1213,9 @@ class EnhancedMemoryBuilder:
     
     def _check_pause_flag(self):
         """Check pause flag file and update recording state."""
-        if os.path.exists(PAUSE_FLAG_PATH):
+        pause_exists = os.path.exists(PAUSE_FLAG_PATH)
+        print(f"[DEBUG] Pause flag check: exists={pause_exists}, paused={self.session_audio_paused}")
+        if pause_exists:
             if not self.session_audio_paused:
                 self._pause_session_audio_recording()
         else:
@@ -1239,7 +1241,9 @@ class EnhancedMemoryBuilder:
         """Stop audio recording and exit when controller exits."""
         if not self._check_controller_alive():
             # Check if we're in a paused state (pause flag exists)
-            if os.path.exists(PAUSE_FLAG_PATH):
+            pause_flag_exists = os.path.exists(PAUSE_FLAG_PATH)
+            print(f"[DEBUG] Controller exited. Pause flag exists: {pause_flag_exists}")
+            if pause_flag_exists:
                 print("[Enhanced Memory Builder] Controller exited during pause - keeping memory builder alive")
                 return
             
